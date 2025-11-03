@@ -1,3 +1,7 @@
-1. . .\.venv\Scripts\Activate.ps1
-2. $env:OPENAI_API_KEY = "YOUR_KEY_HERE"
-3. http://127.0.0.1:8000/
+. .\.venv\Scripts\Activate.ps1
+
+https://platform.openai.com/settings/organization/api-keys
+
+$env:OPENAI_API_KEY = "YOUR_KEY_HERE"
+
+http://127.0.0.1:8000/
