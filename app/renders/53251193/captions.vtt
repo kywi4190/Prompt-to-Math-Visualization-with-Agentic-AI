@@ -1,0 +1,33 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:02.600
+The area of this parallelogram equals the magnitude of det[u, v].
+
+2
+00:00:02.600 --> 00:00:05.500
+Vectors u and v span the shape; watch the fill encode the sign.
+
+3
+00:00:05.500 --> 00:00:08.800
+Top-right: det = (sign) (value). Blue for positive, red for negative.
+
+4
+00:00:08.800 --> 00:00:12.800
+As v slides to align with u, the area collapses to zero.
+
+5
+00:00:12.800 --> 00:00:17.199
+Near zero, the color softens to avoid a harsh flip.
+
+6
+00:00:17.199 --> 00:00:21.600
+Crossing through alignment flips orientation—and the sign of det.
+
+7
+00:00:21.600 --> 00:00:25.500
+Different shapes, same rule: area equals |det|, sign encodes orientation.
+
+8
+00:00:25.500 --> 00:00:28.500
+Det tracks how u twists v: counterclockwise positive, clockwise negative.

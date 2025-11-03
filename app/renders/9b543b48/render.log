@@ -1,0 +1,57 @@
+Manim Community v0.19.0
+
++--------------------- Traceback (most recent call last) ---------------------+
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\cli\render\commands.py: |
+| 125 in render                                                               |
+|                                                                             |
+|   122             try:                                                      |
+|   123                 with tempconfig({}):                                  |
+|   124                     scene = SceneClass()                              |
+| > 125                     scene.render()                                    |
+|   126             except Exception:                                         |
+|   127                 error_console.print_exception()                       |
+|   128                 sys.exit(1)                                           |
+|                                                                             |
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\scene\scene.py:237 in   |
+| render                                                                      |
+|                                                                             |
+|    234         """                                                          |
+|    235         self.setup()                                                 |
+|    236         try:                                                         |
+| >  237             self.construct()                                         |
+|    238         except EndSceneEarlyException:                               |
+|    239             pass                                                     |
+|    240         except RerunSceneException:                                  |
+|                                                                             |
+| C:\dev\math-video-mvp\app\renders\9b543b48\standoff.py:159 in construct     |
+|                                                                             |
+|   156             return cowboy, arm, barrel, pivot                         |
+|   157                                                                       |
+|   158         # Build cowboys                                               |
+| > 159         left_cowboy, left_arm, left_barrel, left_pivot = make_cowboy( |
+|   160         right_cowboy, right_arm, right_barrel, right_pivot = make_cow |
+|   161         cowboys = VGroup(left_cowboy, right_cowboy)                   |
+|   162                                                                       |
+|                                                                             |
+| C:\dev\math-video-mvp\app\renders\9b543b48\standoff.py:113 in make_cowboy   |
+|                                                                             |
+|   110             body.shift([base_x, 0, 0])                                |
+|   111                                                                       |
+|   112             # Head                                                    |
+| > 113             head = make_sphere(radius=head_r, color=interpolate_color |
+|   114             head.shift([base_x, body_h, 0])                           |
+|   115                                                                       |
+|   116             # Hat: brim + crown                                       |
+|                                                                             |
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\utils\color\core.py:146 |
+| 3 in interpolate_color                                                      |
+|                                                                             |
+|   1460     ManimColor                                                       |
+|   1461         The interpolated ManimColor.                                 |
+|   1462     """                                                              |
+| > 1463     return color1.interpolate(color2, alpha)                         |
+|   1464                                                                      |
+|   1465                                                                      |
+|   1466 def average_color(*colors: ParsableManimColor) -> ManimColor:        |
++-----------------------------------------------------------------------------+
+AttributeError: 'str' object has no attribute 'interpolate'

@@ -1,0 +1,399 @@
+Manim Community v0.19.0
+
+
+Animation 0: Create(Surface of 16 submobjects):   0%|          | 0/30 [00:00<?, ?it/s]
+Animation 0: Create(Surface of 16 submobjects):  87%|########6 | 26/30 [00:00<00:00, 250.20it/s]
+                                                                                                
+[10/13/25 22:25:02] INFO     Animation 0 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\a24ed5f7\videos                         
+                             \western_standoff\480p15\                         
+                             partial_movie_files\Weste                         
+                             rnStandoff\3945087660_628                         
+                             922945_223132457.mp4'                             
+
+Animation 1: Create(ParametricFunction):   0%|          | 0/15 [00:00<?, ?it/s]
+                                                                               
+[10/13/25 22:25:03] INFO     Animation 1 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\a24ed5f7\videos                         
+                             \western_standoff\480p15\                         
+                             partial_movie_files\Weste                         
+                             rnStandoff\434387949_3861                         
+                             05133_503089846.mp4'                              
+
+Animation 2: Create(VGroup of 11 submobjects):   0%|          | 0/23 [00:00<?, ?it/s]
+                                                                                     
+                    INFO     Animation 2 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\a24ed5f7\videos                         
+                             \western_standoff\480p15\                         
+                             partial_movie_files\Weste                         
+                             rnStandoff\434387949_1614                         
+                             587864_1242787082.mp4'                            
+
+Animation 3: Create(VGroup of 11 submobjects):   0%|          | 0/23 [00:00<?, ?it/s]
+                                                                                     
+                    INFO     Animation 3 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\a24ed5f7\videos                         
+                             \western_standoff\480p15\                         
+                             partial_movie_files\Weste                         
+                             rnStandoff\434387949_9511                         
+                             24390_1781537191.mp4'                             
+
+Animation 4: _MethodAnimation(ValueTracker), etc.:   0%|          | 0/45 [00:00<?, ?it/s]
+Animation 4: _MethodAnimation(ValueTracker), etc.:  24%|##4       | 11/45 [00:00<00:00, 108.23it/s]
+Animation 4: _MethodAnimation(ValueTracker), etc.:  49%|####8     | 22/45 [00:00<00:00, 106.28it/s]
+Animation 4: _MethodAnimation(ValueTracker), etc.:  73%|#######3  | 33/45 [00:00<00:00, 107.16it/s]
+Animation 4: _MethodAnimation(ValueTracker), etc.:  98%|#########7| 44/45 [00:00<00:00, 107.93it/s]
+                                                                                                   
+                    INFO     Animation 4 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\a24ed5f7\videos                         
+                             \western_standoff\480p15\                         
+                             partial_movie_files\Weste                         
+                             rnStandoff\759889783_4738                         
+                             84901_2210544237.mp4'                             
+
+Animation 5: _MethodAnimation(ValueTracker), etc.:   0%|          | 0/45 [00:00<?, ?it/s]
+Animation 5: _MethodAnimation(ValueTracker), etc.:  24%|##4       | 11/45 [00:00<00:00, 109.39it/s]
+Animation 5: _MethodAnimation(ValueTracker), etc.:  51%|#####1    | 23/45 [00:00<00:00, 110.47it/s]
+Animation 5: _MethodAnimation(ValueTracker), etc.:  78%|#######7  | 35/45 [00:00<00:00, 113.02it/s]
+                                                                                                   
+[10/13/25 22:25:04] INFO     Animation 5 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\a24ed5f7\videos                         
+                             \western_standoff\480p15\                         
+                             partial_movie_files\Weste                         
+                             rnStandoff\2696185634_349                         
+                             6477270_1784134106.mp4'                           
+
+Animation 6: Rotate(Line):   0%|          | 0/12 [00:00<?, ?it/s]
+Animation 6: Rotate(Line): 100%|##########| 12/12 [00:00<00:00, 115.65it/s]
+                                                                           
+                    INFO     Animation 6 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\a24ed5f7\videos                         
+                             \western_standoff\480p15\                         
+                             partial_movie_files\Weste                         
+                             rnStandoff\3880934871_920                         
+                             622319_3855080392.mp4'                            
+
+Animation 7: Rotate(Line):   0%|          | 0/11 [00:00<?, ?it/s]
+                                                                 
+                    INFO     Animation 7 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\a24ed5f7\videos                         
+                             \western_standoff\480p15\                         
+                             partial_movie_files\Weste                         
+                             rnStandoff\3880934871_176                         
+                             5406763_3855080392.mp4'                           
+                    INFO     Animation 8 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\a24ed5f7\videos                         
+                             \western_standoff\480p15\                         
+                             partial_movie_files\Weste                         
+                             rnStandoff\3880934871_185                         
+                             3576504_284345318.mp4'                            
+
+Animation 9: _MethodAnimation(ValueTracker), etc.:   0%|          | 0/45 [00:00<?, ?it/s]
+Animation 9: _MethodAnimation(ValueTracker), etc.:  27%|##6       | 12/45 [00:00<00:00, 116.19it/s]
+Animation 9: _MethodAnimation(ValueTracker), etc.:  53%|#####3    | 24/45 [00:00<00:00, 113.41it/s]
+Animation 9: _MethodAnimation(ValueTracker), etc.:  80%|########  | 36/45 [00:00<00:00, 111.07it/s]
+                                                                                                   
+[10/13/25 22:25:05] INFO     Animation 9 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\a24ed5f7\videos                         
+                             \western_standoff\480p15\                         
+                             partial_movie_files\Weste                         
+                             rnStandoff\2697748370_373                         
+                             6690776_1133567444.mp4'                           
+
+Animation 10: Rotate(Line):   0%|          | 0/12 [00:00<?, ?it/s]
+Animation 10: Rotate(Line): 100%|##########| 12/12 [00:00<00:00, 113.49it/s]
+                                                                            
+                    INFO     Animation 10 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\a24ed5f7\videos                         
+                             \western_standoff\480p15\                         
+                             partial_movie_files\Weste                         
+                             rnStandoff\2085788474_248                         
+                             2785609_2867584894.mp4'                           
+
+Animation 11: Rotate(Line):   0%|          | 0/11 [00:00<?, ?it/s]
+                                                                  
+                    INFO     Animation 11 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\a24ed5f7\videos                         
+                             \western_standoff\480p15\                         
+                             partial_movie_files\Weste                         
+                             rnStandoff\2085788474_166                         
+                             1126627_2867584894.mp4'                           
+                    INFO     Animation 12 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\a24ed5f7\videos                         
+                             \western_standoff\480p15\                         
+                             partial_movie_files\Weste                         
+                             rnStandoff\2085788474_185                         
+                             3576504_2357282873.mp4'                           
+
+Animation 13: _MethodAnimation(ValueTracker), etc.:   0%|          | 0/45 [00:00<?, ?it/s]
+Animation 13: _MethodAnimation(ValueTracker), etc.:  24%|##4       | 11/45 [00:00<00:00, 107.88it/s]
+Animation 13: _MethodAnimation(ValueTracker), etc.:  51%|#####1    | 23/45 [00:00<00:00, 112.72it/s]
+Animation 13: _MethodAnimation(ValueTracker), etc.:  78%|#######7  | 35/45 [00:00<00:00, 115.34it/s]
+                                                                                                    
+[10/13/25 22:25:06] INFO     Animation 13 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\a24ed5f7\videos                         
+                             \western_standoff\480p15\                         
+                             partial_movie_files\Weste                         
+                             rnStandoff\229866671_1725                         
+                             77178_1470596771.mp4'                             
+
+Animation 14: Create(Arrow), etc.:   0%|          | 0/30 [00:00<?, ?it/s]
+                                                                         
+                    INFO     Animation 14 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\a24ed5f7\videos                         
+                             \western_standoff\480p15\                         
+                             partial_movie_files\Weste                         
+                             rnStandoff\63023156_40470                         
+                             49011_741039442.mp4'                              
+
+Animation 15: Create(Line):   0%|          | 0/15 [00:00<?, ?it/s]
+                                                                  
+                    INFO     Animation 15 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\a24ed5f7\videos                         
+                             \western_standoff\480p15\                         
+                             partial_movie_files\Weste                         
+                             rnStandoff\546770553_2236                         
+                             530430_1976806230.mp4'                            
+                    INFO     Animation 16 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\a24ed5f7\videos                         
+                             \western_standoff\480p15\                         
+                             partial_movie_files\Weste                         
+                             rnStandoff\546770553_4226                         
+                             28456_3061126961.mp4'                             
+
+Animation 17: _MethodAnimation(ValueTracker), etc.:   0%|          | 0/45 [00:00<?, ?it/s]
+Animation 17: _MethodAnimation(ValueTracker), etc.:  27%|##6       | 12/45 [00:00<00:00, 115.87it/s]
+Animation 17: _MethodAnimation(ValueTracker), etc.:  53%|#####3    | 24/45 [00:00<00:00, 114.90it/s]
+Animation 17: _MethodAnimation(ValueTracker), etc.:  80%|########  | 36/45 [00:00<00:00, 113.71it/s]
+                                                                                                    
+                    INFO     Animation 17 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\a24ed5f7\videos                         
+                             \western_standoff\480p15\                         
+                             partial_movie_files\Weste                         
+                             rnStandoff\4243477813_124                         
+                             8104246_1460984361.mp4'                           
+
+Animation 18: Create(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]
+Animation 18: Create(VGroup of 3 submobjects): 100%|##########| 15/15 [00:00<00:00, 138.42it/s]
+                                                                                               
+[10/13/25 22:25:07] INFO     Animation 18 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\a24ed5f7\videos                         
+                             \western_standoff\480p15\                         
+                             partial_movie_files\Weste                         
+                             rnStandoff\3971982746_166                         
+                             9837747_3449232438.mp4'                           
+
+Animation 19: Transform(VGroup of 3 submobjects), etc.:   0%|          | 0/75 [00:00<?, ?it/s]
+Animation 19: Transform(VGroup of 3 submobjects), etc.:   9%|9         | 7/75 [00:00<00:01, 63.57it/s]
+Animation 19: Transform(VGroup of 3 submobjects), etc.:  20%|##        | 15/75 [00:00<00:00, 70.31it/s]
+Animation 19: Transform(VGroup of 3 submobjects), etc.:  31%|###       | 23/75 [00:00<00:00, 64.58it/s]
+Animation 19: Transform(VGroup of 3 submobjects), etc.:  40%|####      | 30/75 [00:00<00:00, 61.19it/s]
+Animation 19: Transform(VGroup of 3 submobjects), etc.:  49%|####9     | 37/75 [00:00<00:00, 61.26it/s]
+Animation 19: Transform(VGroup of 3 submobjects), etc.:  59%|#####8    | 44/75 [00:00<00:00, 60.13it/s]
+Animation 19: Transform(VGroup of 3 submobjects), etc.:  68%|######8   | 51/75 [00:00<00:00, 55.71it/s]
+Animation 19: Transform(VGroup of 3 submobjects), etc.:  76%|#######6  | 57/75 [00:00<00:00, 53.56it/s]
+Animation 19: Transform(VGroup of 3 submobjects), etc.:  84%|########4 | 63/75 [00:01<00:00, 52.47it/s]
+Animation 19: Transform(VGroup of 3 submobjects), etc.:  92%|#########2| 69/75 [00:01<00:00, 51.01it/s]
+Animation 19: Transform(VGroup of 3 submobjects), etc.: 100%|##########| 75/75 [00:01<00:00, 50.28it/s]
+                                                                                                       
+[10/13/25 22:25:08] INFO     Animation 19 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\a24ed5f7\videos                         
+                             \western_standoff\480p15\                         
+                             partial_movie_files\Weste                         
+                             rnStandoff\1585806847_379                         
+                             2291385_1326830644.mp4'                           
+
+Animation 20: Create(VGroup of 3 submobjects):   0%|          | 0/12 [00:00<?, ?it/s]
+                                                                                     
+                    INFO     Animation 20 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\a24ed5f7\videos                         
+                             \western_standoff\480p15\                         
+                             partial_movie_files\Weste                         
+                             rnStandoff\1585806847_202                         
+                             2181612_2428798173.mp4'                           
+
+Animation 21: Transform(VGroup of 3 submobjects):   0%|          | 0/33 [00:00<?, ?it/s]
+                                                                                        
+                    INFO     Animation 21 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\a24ed5f7\videos                         
+                             \western_standoff\480p15\                         
+                             partial_movie_files\Weste                         
+                             rnStandoff\1585806847_226                         
+                             5010615_296843999.mp4'                            
+[10/13/25 22:25:09] INFO     Animation 22 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\a24ed5f7\videos                         
+                             \western_standoff\480p15\                         
+                             partial_movie_files\Weste                         
+                             rnStandoff\1585806847_296                         
+                             8904986_4216118526.mp4'                           
+
+Animation 23: Transform(Arrow), etc.:   0%|          | 0/38 [00:00<?, ?it/s]
+Animation 23: Transform(Arrow), etc.:  11%|#         | 4/38 [00:00<00:00, 34.31it/s]
+Animation 23: Transform(Arrow), etc.:  21%|##1       | 8/38 [00:00<00:00, 33.36it/s]
+Animation 23: Transform(Arrow), etc.:  32%|###1      | 12/38 [00:00<00:00, 35.49it/s]
+Animation 23: Transform(Arrow), etc.:  45%|####4     | 17/38 [00:00<00:00, 40.45it/s]
+Animation 23: Transform(Arrow), etc.:  58%|#####7    | 22/38 [00:00<00:00, 38.03it/s]
+Animation 23: Transform(Arrow), etc.:  68%|######8   | 26/38 [00:00<00:00, 38.36it/s]
+Animation 23: Transform(Arrow), etc.:  79%|#######8  | 30/38 [00:00<00:00, 35.78it/s]
+Animation 23: Transform(Arrow), etc.:  89%|########9 | 34/38 [00:00<00:00, 35.61it/s]
+Animation 23: Transform(Arrow), etc.: 100%|##########| 38/38 [00:01<00:00, 36.71it/s]
+                                                                                     
+[10/13/25 22:25:10] INFO     Animation 23 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\a24ed5f7\videos                         
+                             \western_standoff\480p15\                         
+                             partial_movie_files\Weste                         
+                             rnStandoff\1585806847_104                         
+                             3604157_4292796749.mp4'                           
+
+Animation 24: Create(Arrow), etc.:   0%|          | 0/9 [00:00<?, ?it/s]
+                                                                        
+                    INFO     Animation 24 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\a24ed5f7\videos                         
+                             \western_standoff\480p15\                         
+                             partial_movie_files\Weste                         
+                             rnStandoff\1585806847_403                         
+                             0085657_3408350852.mp4'                           
+
+Animation 25: FadeOut(Arrow), etc.:   0%|          | 0/21 [00:00<?, ?it/s]
+                                                                          
+                    INFO     Animation 25 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\a24ed5f7\videos                         
+                             \western_standoff\480p15\                         
+                             partial_movie_files\Weste                         
+                             rnStandoff\1585806847_217                         
+                             6406797_721165068.mp4'                            
+                    INFO     Animation 26 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\a24ed5f7\videos                         
+                             \western_standoff\480p15\                         
+                             partial_movie_files\Weste                         
+                             rnStandoff\1585806847_296                         
+                             8904986_2647765567.mp4'                           
+
+Animation 27: _MethodAnimation(ValueTracker), etc.:   0%|          | 0/45 [00:00<?, ?it/s]
+Animation 27: _MethodAnimation(ValueTracker), etc.:  11%|#1        | 5/45 [00:00<00:00, 44.61it/s]
+Animation 27: _MethodAnimation(ValueTracker), etc.:  22%|##2       | 10/45 [00:00<00:00, 38.48it/s]
+Animation 27: _MethodAnimation(ValueTracker), etc.:  33%|###3      | 15/45 [00:00<00:00, 39.36it/s]
+Animation 27: _MethodAnimation(ValueTracker), etc.:  42%|####2     | 19/45 [00:00<00:00, 35.01it/s]
+Animation 27: _MethodAnimation(ValueTracker), etc.:  51%|#####1    | 23/45 [00:00<00:00, 32.90it/s]
+Animation 27: _MethodAnimation(ValueTracker), etc.:  60%|######    | 27/45 [00:00<00:00, 32.92it/s]
+Animation 27: _MethodAnimation(ValueTracker), etc.:  69%|######8   | 31/45 [00:00<00:00, 34.28it/s]
+Animation 27: _MethodAnimation(ValueTracker), etc.:  82%|########2 | 37/45 [00:01<00:00, 38.59it/s]
+Animation 27: _MethodAnimation(ValueTracker), etc.:  91%|#########1| 41/45 [00:01<00:00, 38.79it/s]
+Animation 27: _MethodAnimation(ValueTracker), etc.: 100%|##########| 45/45 [00:01<00:00, 37.70it/s]
+                                                                                                   
+[10/13/25 22:25:12] INFO     Animation 27 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\a24ed5f7\videos                         
+                             \western_standoff\480p15\                         
+                             partial_movie_files\Weste                         
+                             rnStandoff\1632917405_756                         
+                             080506_3784009152.mp4'                            
+                    INFO     Animation 28 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\a24ed5f7\videos                         
+                             \western_standoff\480p15\                         
+                             partial_movie_files\Weste                         
+                             rnStandoff\1539532257_852                         
+                             269699_3472178414.mp4'                            
+
+Animation 29: FadeOut(Arrow), etc.:   0%|          | 0/30 [00:00<?, ?it/s]
+Animation 29: FadeOut(Arrow), etc.:  20%|##        | 6/30 [00:00<00:00, 53.74it/s]
+Animation 29: FadeOut(Arrow), etc.:  43%|####3     | 13/30 [00:00<00:00, 58.65it/s]
+Animation 29: FadeOut(Arrow), etc.:  73%|#######3  | 22/30 [00:00<00:00, 69.58it/s]
+Animation 29: FadeOut(Arrow), etc.:  97%|#########6| 29/30 [00:00<00:00, 68.80it/s]
+                                                                                   
+[10/13/25 22:25:14] INFO     Animation 29 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\a24ed5f7\videos                         
+                             \western_standoff\480p15\                         
+                             partial_movie_files\Weste                         
+                             rnStandoff\1539532257_286                         
+                             6667077_406071003.mp4'                            
+
+Animation 30: Write(Text('The Geometry of a Standoff')):   0%|          | 0/30 [00:00<?, ?it/s]
+Animation 30: Write(Text('The Geometry of a Standoff')):  43%|####3     | 13/30 [00:00<00:00, 120.56it/s]
+Animation 30: Write(Text('The Geometry of a Standoff')):  87%|########6 | 26/30 [00:00<00:00, 101.39it/s]
+                                                                                                         
+[10/13/25 22:25:15] INFO     Animation 30 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\a24ed5f7\videos                         
+                             \western_standoff\480p15\                         
+                             partial_movie_files\Weste                         
+                             rnStandoff\1539532257_138                         
+                             20170_2530192722.mp4'                             
+                    INFO     Animation 31 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\a24ed5f7\videos                         
+                             \western_standoff\480p15\                         
+                             partial_movie_files\Weste                         
+                             rnStandoff\1539532257_126                         
+                             916189_2827887369.mp4'                            
+                    INFO     Combining to Movie file.  scene_file_writer.py:739
+[10/13/25 22:25:16] INFO                               scene_file_writer.py:886
+                             File ready at                                     
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\a24ed5f7\videos                         
+                             \western_standoff\480p15\                         
+                             out.mp4'                                          
+                                                                               
+                    INFO     Rendered WesternStandoff              scene.py:255
+                             Played 32 animations                              

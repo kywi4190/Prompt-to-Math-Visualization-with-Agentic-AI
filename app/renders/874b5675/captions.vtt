@@ -1,0 +1,33 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:03.000
+A complex number is a point—an arrow—on a plane.
+
+2
+00:00:03.000 --> 00:00:06.000
+Multiplying by i rotates 90 degrees. Rotation is built into multiplication.
+
+3
+00:00:06.000 --> 00:00:09.000
+Functions reshape the plane. Let's try squaring: w = z^2.
+
+4
+00:00:09.000 --> 00:00:12.500
+Rays: angles double. Circles: radii square. The unit circle stays a circle.
+
+5
+00:00:12.500 --> 00:00:15.500
+Now lift into 3D: height = 1/(1 + |z^2 - 1|).
+
+6
+00:00:15.500 --> 00:00:18.500
+Peaks mark the zeros of z^2 - 1 at z = ±1.
+
+7
+00:00:18.500 --> 00:00:21.500
+Geometry reveals algebra: solving becomes searching for peaks.
+
+8
+00:00:21.500 --> 00:00:24.000
+This is the power of complex numbers: rotations, waves, and roots become visual.

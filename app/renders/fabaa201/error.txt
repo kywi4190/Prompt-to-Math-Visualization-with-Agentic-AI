@@ -1,0 +1,107 @@
+Manim Community v0.19.0
+
++--------------------- Traceback (most recent call last) ---------------------+
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\cli\render\commands.py: |
+| 125 in render                                                               |
+|                                                                             |
+|   122             try:                                                      |
+|   123                 with tempconfig({}):                                  |
+|   124                     scene = SceneClass()                              |
+| > 125                     scene.render()                                    |
+|   126             except Exception:                                         |
+|   127                 error_console.print_exception()                       |
+|   128                 sys.exit(1)                                           |
+|                                                                             |
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\scene\scene.py:237 in   |
+| render                                                                      |
+|                                                                             |
+|    234         """                                                          |
+|    235         self.setup()                                                 |
+|    236         try:                                                         |
+| >  237             self.construct()                                         |
+|    238         except EndSceneEarlyException:                               |
+|    239             pass                                                     |
+|    240         except RerunSceneException:                                  |
+|                                                                             |
+| C:\dev\math-video-mvp\app\renders\fabaa201\series_decompose.py:108 in       |
+| construct                                                                   |
+|                                                                             |
+|   105                 stroke_opacity=1.0,                                   |
+|   106             )                                                         |
+|   107                                                                       |
+| > 108         partial_curve = always_redraw(make_partial)                   |
+|   109         partial_curve.z_index = 2                                     |
+|   110                                                                       |
+|   111         # HUD-style formula and N display (fixed in frame)            |
+|                                                                             |
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\animation\updaters\mobj |
+| ect_update_utils.py:103 in always_redraw                                    |
+|                                                                             |
+|   100                 self.add(ax, sine, point, tangent)                    |
+|   101                 self.play(alpha.animate.set_value(1), rate_func=linea |
+|   102     """                                                               |
+| > 103     mob = func()                                                      |
+|   104     mob.add_updater(lambda _: mob.become(func()))                     |
+|   105     return mob                                                        |
+|   106                                                                       |
+|                                                                             |
+| C:\dev\math-video-mvp\app\renders\fabaa201\series_decompose.py:98 in        |
+| make_partial                                                                |
+|                                                                             |
+|    95         def make_partial():                                           |
+|    96             Nint = odd_from_tracker(N.get_value())                    |
+|    97             alpha = (Nint - 1) / (maxN - 1)                           |
+| >  98             col = interpolate_color(Color(Color(BLUE)), Color(Color(" |
+|    99             return ParametricFunction(                                |
+|   100                 lambda t: axes.c2p(t, fourier_square_partial(t, Nint) |
+|   101                 t_range=[0, TAU],                                     |
+|                                                                             |
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\utils\color\core.py:146 |
+| 3 in interpolate_color                                                      |
+|                                                                             |
+|   1460     ManimColor                                                       |
+|   1461         The interpolated ManimColor.                                 |
+|   1462     """                                                              |
+| > 1463     return color1.interpolate(color2, alpha)                         |
+|   1464                                                                      |
+|   1465                                                                      |
+|   1466 def average_color(*colors: ParsableManimColor) -> ManimColor:        |
+|                                                                             |
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\utils\color\core.py:652 |
+| in interpolate                                                              |
+|                                                                             |
+|    649             The interpolated :class:`ManimColor`.                    |
+|    650         """                                                          |
+|    651         return self._construct_from_space(                           |
+| >  652             self._internal_space * (1 - alpha) + other._internal_spa |
+|    653         )                                                            |
+|    654                                                                      |
+|    655     def darker(self, blend: float = 0.2) -> Self:                    |
++-----------------------------------------------------------------------------+
+AttributeError: 'str' object has no attribute '_internal_space'
+
+[Repair Attempt Error]
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\dev\math-video-mvp\.venv\Scripts\manim.exe\__main__.py", line 4, in <module>
+    from manim.__main__ import main
+  File "C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\__init__.py", line 13, in <module>
+    from ._config import *
+  File "C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\_config\__init__.py", line 11, in <module>
+    from .logger_utils import make_logger
+  File "C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\_config\logger_utils.py", line 24, in <module>
+    from rich.logging import RichHandler
+  File "C:\dev\math-video-mvp\.venv\Lib\site-packages\rich\logging.py", line 15, in <module>
+    from .traceback import Traceback
+  File "C:\dev\math-video-mvp\.venv\Lib\site-packages\rich\traceback.py", line 23, in <module>
+    from pygments.lexers import guess_lexer_for_filename
+  File "C:\dev\math-video-mvp\.venv\Lib\site-packages\pygments\lexers\__init__.py", line 18, in <module>
+    from pygments.modeline import get_filetype_from_buffer
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 1022, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1118, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1217, in get_data
+KeyboardInterrupt

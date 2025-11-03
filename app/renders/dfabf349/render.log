@@ -1,0 +1,160 @@
+Manim Community v0.19.0
+
+
+Animation 0: Create(NumberPlane of 4 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]
+                                                                                         
+[10/13/25 18:25:03] INFO     Animation 0 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\dfabf349\media\                         
+                             videos\inner_product_warp                         
+                             \480p15\partial_movie_fil                         
+                             es\InnerProductWarp\11858                         
+                             18338_839090861_223132457                         
+                             .mp4'                                             
+                    INFO     Animation 1 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\dfabf349\media\                         
+                             videos\inner_product_warp                         
+                             \480p15\partial_movie_fil                         
+                             es\InnerProductWarp\62464                         
+                             2324_1839128356_368581347                         
+                             1.mp4'                                            
+                    INFO     Writing 2 to               tex_file_writing.py:111
+                             media\Tex\2b7ffb3c38a5a6e0                        
+                             .tex                                              
++--------------------- Traceback (most recent call last) ---------------------+
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\cli\render\commands.py: |
+| 125 in render                                                               |
+|                                                                             |
+|   122             try:                                                      |
+|   123                 with tempconfig({}):                                  |
+|   124                     scene = SceneClass()                              |
+| > 125                     scene.render()                                    |
+|   126             except Exception:                                         |
+|   127                 error_console.print_exception()                       |
+|   128                 sys.exit(1)                                           |
+|                                                                             |
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\scene\scene.py:237 in   |
+| render                                                                      |
+|                                                                             |
+|    234         """                                                          |
+|    235         self.setup()                                                 |
+|    236         try:                                                         |
+| >  237             self.construct()                                         |
+|    238         except EndSceneEarlyException:                               |
+|    239             pass                                                     |
+|    240         except RerunSceneException:                                  |
+|                                                                             |
+| C:\dev\math-video-mvp\app\renders\dfabf349\inner_product_warp.py:12 in      |
+| construct                                                                   |
+|                                                                             |
+|    9                                                                        |
+|   10         # Show the warping effect with an SPD matrix                   |
+|   11         warp_matrix = [[2, 0], [0, 0.5]]                               |
+| > 12         warp = Matrix(warp_matrix)                                     |
+|   13         self.play(Transform(plane, warp), run_time=2)                  |
+|   14         self.wait(1)                                                   |
+|   15                                                                        |
+|                                                                             |
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\mobject\matrix.py:195   |
+| in __init__                                                                 |
+|                                                                             |
+|   192         self.right_bracket = right_bracket                            |
+|   193         self.stretch_brackets = stretch_brackets                      |
+|   194         super().__init__(**kwargs)                                    |
+| > 195         mob_matrix = self._matrix_to_mob_matrix(matrix)               |
+|   196         self._organize_mob_matrix(mob_matrix)                         |
+|   197         self.elements = VGroup(*it.chain(*mob_matrix))                |
+|   198         self.add(self.elements)                                       |
+|                                                                             |
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\mobject\matrix.py:211   |
+| in _matrix_to_mob_matrix                                                    |
+|                                                                             |
+|   208     def _matrix_to_mob_matrix(self, matrix):                          |
+|   209         return [                                                      |
+|   210             [                                                         |
+| > 211                 self.element_to_mobject(item, **self.element_to_mobje |
+|   212                 for item in row                                       |
+|   213             ]                                                         |
+|   214             for row in matrix                                         |
+|                                                                             |
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\mobject\text\tex_mobjec |
+| t.py:277 in __init__                                                        |
+|                                                                             |
+|   274         self.brace_notation_split_occurred = False                    |
+|   275         self.tex_strings = self._break_up_tex_strings(tex_strings)    |
+|   276         try:                                                          |
+| > 277             super().__init__(                                         |
+|   278                 self.arg_separator.join(self.tex_strings),            |
+|   279                 tex_environment=self.tex_environment,                 |
+|   280                 tex_template=self.tex_template,                       |
+|                                                                             |
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\mobject\text\tex_mobjec |
+| t.py:80 in __init__                                                         |
+|                                                                             |
+|    77                                                                       |
+|    78         assert isinstance(tex_string, str)                            |
+|    79         self.tex_string = tex_string                                  |
+| >  80         file_name = tex_to_svg_file(                                  |
+|    81             self._get_modified_expression(tex_string),                |
+|    82             environment=self.tex_environment,                         |
+|    83             tex_template=self.tex_template,                           |
+|                                                                             |
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\utils\tex_file_writing. |
+| py:65 in tex_to_svg_file                                                    |
+|                                                                             |
+|    62     if svg_file.exists():                                             |
+|    63         return svg_file                                               |
+|    64                                                                       |
+| >  65     dvi_file = compile_tex(                                           |
+|    66         tex_file,                                                     |
+|    67         tex_template.tex_compiler,                                    |
+|    68         tex_template.output_format,                                   |
+|                                                                             |
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\utils\tex_file_writing. |
+| py:208 in compile_tex                                                       |
+|                                                                             |
+|   205             tex_file,                                                 |
+|   206             tex_dir,                                                  |
+|   207         )                                                             |
+| > 208         cp = subprocess.run(command, stdout=subprocess.DEVNULL)       |
+|   209         if cp.returncode != 0:                                        |
+|   210             log_file = tex_file.with_suffix(".log")                   |
+|   211             print_all_tex_errors(log_file, tex_compiler, tex_file)    |
+|                                                                             |
+| C:\Users\kmw12\AppData\Local\Programs\Python\Python313\Lib\subprocess.py:55 |
+| 4 in run                                                                    |
+|                                                                             |
+|    551         kwargs['stdout'] = PIPE                                      |
+|    552         kwargs['stderr'] = PIPE                                      |
+|    553                                                                      |
+| >  554     with Popen(*popenargs, **kwargs) as process:                     |
+|    555         try:                                                         |
+|    556             stdout, stderr = process.communicate(input, timeout=time |
+|    557         except TimeoutExpired as exc:                                |
+|                                                                             |
+| C:\Users\kmw12\AppData\Local\Programs\Python\Python313\Lib\subprocess.py:10 |
+| 39 in __init__                                                              |
+|                                                                             |
+|   1036                     self.stderr = io.TextIOWrapper(self.stderr,      |
+|   1037                             encoding=encoding, errors=errors)        |
+|   1038                                                                      |
+| > 1039             self._execute_child(args, executable, preexec_fn, close_ |
+|   1040                                 pass_fds, cwd, env,                  |
+|   1041                                 startupinfo, creationflags, shell,   |
+|   1042                                 p2cread, p2cwrite,                   |
+|                                                                             |
+| C:\Users\kmw12\AppData\Local\Programs\Python\Python313\Lib\subprocess.py:15 |
+| 51 in _execute_child                                                        |
+|                                                                             |
+|   1548                                                                      |
+|   1549             # Start the process                                      |
+|   1550             try:                                                     |
+| > 1551                 hp, ht, pid, tid = _winapi.CreateProcess(executable, |
+|   1552                                          # no special security       |
+|   1553                                          None, None,                 |
+|   1554                                          int(not close_fds),         |
++-----------------------------------------------------------------------------+
+FileNotFoundError: [WinError 2] The system cannot find the file specified

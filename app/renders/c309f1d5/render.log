@@ -1,0 +1,270 @@
+Manim Community v0.19.0
+
+
+Animation 0: FadeIn(Axes of 2 submobjects):   0%|          | 0/9 [00:00<?, ?it/s]
+                                                                                 
+[10/13/25 21:19:28] INFO     Animation 0 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\c309f1d5\videos                         
+                             \division_visual\480p15\p                         
+                             artial_movie_files\Divisi                         
+                             onScene\1185818338_149540                         
+                             0810_223132457.mp4'                               
+
+Animation 1: Create(Line):   0%|          | 0/6 [00:00<?, ?it/s]
+                                                                
+                    INFO     Animation 1 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\c309f1d5\videos                         
+                             \division_visual\480p15\p                         
+                             artial_movie_files\Divisi                         
+                             onScene\624642324_2958902                         
+                             820_796914800.mp4'                                
+
+Animation 2: LaggedStart(Group):   0%|          | 0/75 [00:00<?, ?it/s]
+Animation 2: LaggedStart(Group):  79%|#######8  | 59/75 [00:00<00:00, 579.24it/s]
+                                                                                 
+                    INFO     Animation 2 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\c309f1d5\videos                         
+                             \division_visual\480p15\p                         
+                             artial_movie_files\Divisi                         
+                             onScene\624642324_8010960                         
+                             8_1474283098.mp4'                                 
+
+Animation 3: FadeIn(Text('12 ÷ 3 = 4')):   0%|          | 0/8 [00:00<?, ?it/s]
+                                                                              
+[10/13/25 21:19:29] INFO     Animation 3 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\c309f1d5\videos                         
+                             \division_visual\480p15\p                         
+                             artial_movie_files\Divisi                         
+                             onScene\624642324_9521240                         
+                             11_1618123615.mp4'                                
+                    INFO     Animation 4 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\c309f1d5\videos                         
+                             \division_visual\480p15\p                         
+                             artial_movie_files\Divisi                         
+                             onScene\624642324_3201849                         
+                             554_2934809020.mp4'                               
+
+Animation 5: LaggedStart(Group):   0%|          | 0/18 [00:00<?, ?it/s]
+                                                                       
+                    INFO     Animation 5 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\c309f1d5\videos                         
+                             \division_visual\480p15\p                         
+                             artial_movie_files\Divisi                         
+                             onScene\624642324_2144965                         
+                             827_2854535325.mp4'                               
+
+Animation 6: LaggedStart(Group):   0%|          | 0/15 [00:00<?, ?it/s]
+                                                                       
+                    INFO     Animation 6 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\c309f1d5\videos                         
+                             \division_visual\480p15\p                         
+                             artial_movie_files\Divisi                         
+                             onScene\624642324_1958260                         
+                             062_930190160.mp4'                                
+
+Animation 7: Transform(Text('12 ÷ 3 = 4')):   0%|          | 0/9 [00:00<?, ?it/s]
+                                                                                 
+                    INFO     Animation 7 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\c309f1d5\videos                         
+                             \division_visual\480p15\p                         
+                             artial_movie_files\Divisi                         
+                             onScene\624642324_2612003                         
+                             894_1834556662.mp4'                               
+                    INFO     Animation 8 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\c309f1d5\videos                         
+                             \division_visual\480p15\p                         
+                             artial_movie_files\Divisi                         
+                             onScene\624642324_3152910                         
+                             415_35515228.mp4'                                 
+
+Animation 9: FadeOut(VGroup of 4 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]
+                                                                                     
+                    INFO     Animation 9 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\c309f1d5\videos                         
+                             \division_visual\480p15\p                         
+                             artial_movie_files\Divisi                         
+                             onScene\624642324_5740574                         
+                             11_743338488.mp4'                                 
+
+Animation 10: LaggedStart(Group), etc.:   0%|          | 0/15 [00:00<?, ?it/s]
+                                                                              
+[10/13/25 21:19:30] INFO     Animation 10 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\c309f1d5\videos                         
+                             \division_visual\480p15\p                         
+                             artial_movie_files\Divisi                         
+                             onScene\624642324_3727020                         
+                             790_136907171.mp4'                                
+                    INFO     Animation 11 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\c309f1d5\videos                         
+                             \division_visual\480p15\p                         
+                             artial_movie_files\Divisi                         
+                             onScene\624642324_1754310                         
+                             298_2380677450.mp4'                               
+
+Animation 12: FadeOut(VGroup of 6 submobjects), etc.:   0%|          | 0/12 [00:00<?, ?it/s]
+                                                                                            
+                    INFO     Animation 12 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\c309f1d5\videos                         
+                             \division_visual\480p15\p                         
+                             artial_movie_files\Divisi                         
+                             onScene\624642324_2450294                         
+                             486_2603573940.mp4'                               
+
+Animation 13: FadeOut(VGroup of 4 submobjects), etc.:   0%|          | 0/8 [00:00<?, ?it/s]
+                                                                                           
+                    INFO     Animation 13 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\c309f1d5\videos                         
+                             \division_visual\480p15\p                         
+                             artial_movie_files\Divisi                         
+                             onScene\624642324_2936171                         
+                             973_2851353659.mp4'                               
+
+Animation 14: Create(Line):   0%|          | 0/5 [00:00<?, ?it/s]
+                                                                 
+                    INFO     Animation 14 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\c309f1d5\videos                         
+                             \division_visual\480p15\p                         
+                             artial_movie_files\Divisi                         
+                             onScene\624642324_3833825                         
+                             685_3415818588.mp4'                               
+
+Animation 15: LaggedStart(Group):   0%|          | 0/18 [00:00<?, ?it/s]
+                                                                        
+                    INFO     Animation 15 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\c309f1d5\videos                         
+                             \division_visual\480p15\p                         
+                             artial_movie_files\Divisi                         
+                             onScene\624642324_3413433                         
+                             769_2246526603.mp4'                               
+
+Animation 16: Create(Line):   0%|          | 0/9 [00:00<?, ?it/s]
+                                                                 
+                    INFO     Animation 16 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\c309f1d5\videos                         
+                             \division_visual\480p15\p                         
+                             artial_movie_files\Divisi                         
+                             onScene\624642324_3319216                         
+                             797_3508711027.mp4'                               
+
+Animation 17: FadeIn(Text('remainder 1')):   0%|          | 0/6 [00:00<?, ?it/s]
+                                                                                
+                    INFO     Animation 17 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\c309f1d5\videos                         
+                             \division_visual\480p15\p                         
+                             artial_movie_files\Divisi                         
+                             onScene\624642324_8237781                         
+                             03_4242413006.mp4'                                
+                    INFO     Animation 18 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\c309f1d5\videos                         
+                             \division_visual\480p15\p                         
+                             artial_movie_files\Divisi                         
+                             onScene\624642324_3152910                         
+                             415_3169383700.mp4'                               
+
+Animation 19: FadeOut(Line), etc.:   0%|          | 0/8 [00:00<?, ?it/s]
+                                                                        
+[10/13/25 21:19:31] INFO     Animation 19 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\c309f1d5\videos                         
+                             \division_visual\480p15\p                         
+                             artial_movie_files\Divisi                         
+                             onScene\624642324_1733059                         
+                             640_164037840.mp4'                                
+
+Animation 20: FadeIn(Text('3 × ? = 12')):   0%|          | 0/9 [00:00<?, ?it/s]
+                                                                               
+                    INFO     Animation 20 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\c309f1d5\videos                         
+                             \division_visual\480p15\p                         
+                             artial_movie_files\Divisi                         
+                             onScene\624642324_2849956                         
+                             472_2831472011.mp4'                               
+
+Animation 21: Transform(Text('3 × ? = 12')):   0%|          | 0/15 [00:00<?, ?it/s]
+                                                                                   
+                    INFO     Animation 21 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\c309f1d5\videos                         
+                             \division_visual\480p15\p                         
+                             artial_movie_files\Divisi                         
+                             onScene\624642324_9104060                         
+                             7_1758933436.mp4'                                 
+                    INFO     Animation 22 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\c309f1d5\videos                         
+                             \division_visual\480p15\p                         
+                             artial_movie_files\Divisi                         
+                             onScene\624642324_8044424                         
+                             64_3550203729.mp4'                                
+
+Animation 23: FadeOut(Text('3 × ? = 12')), etc.:   0%|          | 0/9 [00:00<?, ?it/s]
+                                                                                      
+                    INFO     Animation 23 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\c309f1d5\videos                         
+                             \division_visual\480p15\p                         
+                             artial_movie_files\Divisi                         
+                             onScene\624642324_1798125                         
+                             389_1749675085.mp4'                               
+                    INFO     Animation 24 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\c309f1d5\videos                         
+                             \division_visual\480p15\p                         
+                             artial_movie_files\Divisi                         
+                             onScene\624642324_1754310                         
+                             298_2910094021.mp4'                               
+                    INFO     Combining to Movie file.  scene_file_writer.py:739
+[10/13/25 21:19:32] INFO                               scene_file_writer.py:886
+                             File ready at                                     
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\c309f1d5\videos                         
+                             \division_visual\480p15\o                         
+                             ut.mp4'                                           
+                                                                               
+                    INFO     Rendered DivisionScene                scene.py:255
+                             Played 25 animations                              

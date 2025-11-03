@@ -1,0 +1,29 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:02.000
+Division asks: how many copies of b fit into a?
+
+2
+00:00:02.000 --> 00:00:07.000
+Here, 12 divided by 3: four steps of size 3 fill the length 12.
+
+3
+00:00:07.000 --> 00:00:10.000
+Equal sharing view: 12 dots grouped by 3 make 4 baskets.
+
+4
+00:00:10.000 --> 00:00:13.000
+Make the groups smaller—divide by 2—and you get 6 baskets.
+
+5
+00:00:13.000 --> 00:00:17.000
+If it doesn't fit exactly, like 7 ÷ 3, two steps fit and 1 is left over.
+
+6
+00:00:17.000 --> 00:00:20.000
+That leftover is the remainder.
+
+7
+00:00:20.000 --> 00:00:22.000
+Division finds the missing factor: 3 × ? = 12 becomes 3 × 4 = 12.

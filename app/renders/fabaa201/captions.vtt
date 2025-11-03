@@ -1,0 +1,41 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:02.000
+Watch a square wave emerge from smooth sines.
+
+2
+00:00:02.000 --> 00:00:04.000
+Start with axes and the ideal square target in yellow.
+
+3
+00:00:04.000 --> 00:00:06.000
+There's a jump at x = π — marked by a vertical guide.
+
+4
+00:00:06.000 --> 00:00:08.199
+We'll build f_N(x), the partial Fourier sum using odd harmonics.
+
+5
+00:00:08.199 --> 00:00:09.599
+N controls how many harmonics we include.
+
+6
+00:00:09.599 --> 00:00:12.000
+With N = 3, the curve begins to resemble the square.
+
+7
+00:00:12.000 --> 00:00:14.400
+N = 5 sharpens edges and flattens plateaus.
+
+8
+00:00:14.400 --> 00:00:16.800
+N = 7 tightens further, but overshoot near the jump persists.
+
+9
+00:00:16.800 --> 00:00:19.199
+N = 9: more detail, same Gibbs overshoot height.
+
+10
+00:00:19.199 --> 00:00:20.899
+Zoom in and notice ringing focuses near discontinuities.

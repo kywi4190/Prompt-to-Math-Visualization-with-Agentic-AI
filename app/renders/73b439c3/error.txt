@@ -1,0 +1,127 @@
+Manim Community v0.19.0
+
+[10/20/25 09:46:29] INFO     Writing x to               tex_file_writing.py:111
+                             Tex\d3c1af651a272204.tex                          
+latex: security risk: running with elevated privileges
+latex: major issue: So far, you have not checked for MiKTeX updates.
+dvisvgm: security risk: running with elevated privileges
+[10/20/25 09:46:31] INFO     Writing f(x) to            tex_file_writing.py:111
+                             Tex\70b3a8630e8c4922.tex                          
+latex: security risk: running with elevated privileges
+latex: major issue: So far, you have not checked for MiKTeX updates.
+dvisvgm: security risk: running with elevated privileges
+[10/20/25 09:46:32] INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 0: Create(Axes of 2 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]
+                                                                                  
+                    INFO     Animation 0 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\73b439c3\videos                         
+                             \series_decomposition\480                         
+                             p15\partial_movie_files\S                         
+                             eriesDecompositionScene\u                         
+                             ncached_00000.mp4'                                
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 1: FadeIn(VGroup of 2 submobjects):   0%|          | 0/12 [00:00<?, ?it/s]
+                                                                                    
+                    INFO     Animation 1 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\73b439c3\videos                         
+                             \series_decomposition\480                         
+                             p15\partial_movie_files\S                         
+                             eriesDecompositionScene\u                         
+                             ncached_00001.mp4'                                
++--------------------- Traceback (most recent call last) ---------------------+
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\cli\render\commands.py: |
+| 125 in render                                                               |
+|                                                                             |
+|   122             try:                                                      |
+|   123                 with tempconfig({}):                                  |
+|   124                     scene = SceneClass()                              |
+| > 125                     scene.render()                                    |
+|   126             except Exception:                                         |
+|   127                 error_console.print_exception()                       |
+|   128                 sys.exit(1)                                           |
+|                                                                             |
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\scene\scene.py:237 in   |
+| render                                                                      |
+|                                                                             |
+|    234         """                                                          |
+|    235         self.setup()                                                 |
+|    236         try:                                                         |
+| >  237             self.construct()                                         |
+|    238         except EndSceneEarlyException:                               |
+|    239             pass                                                     |
+|    240         except RerunSceneException:                                  |
+|                                                                             |
+| C:\dev\math-video-mvp\app\renders\73b439c3\series_decomposition.py:44 in    |
+| construct                                                                   |
+|                                                                             |
+|    41         self.play(FadeIn(VGroup(x_label, y_label), shift=0.2*UP), run |
+|    42                                                                       |
+|    43         # Sine "building blocks"                                      |
+| >  44         basis1 = axes.plot(lambda x: math.sin(x), color=BLUE_B, sampl |
+|    45         basis2 = axes.plot(lambda x: 0.5*math.sin(2*x), color=GREEN_B |
+|    46         basis3 = axes.plot(lambda x: (1/3)*math.sin(3*x), color=PURPL |
+|    47         basis_label = Text("Sine building blocks", font_size=32).next |
+|                                                                             |
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\mobject\graphing\coordi |
+| nate_systems.py:724 in plot                                                 |
+|                                                                             |
+|    721         # tick frequency.  But for functions, it indicates a         |
+|    722         # sample frequency                                           |
+|    723                                                                      |
+| >  724         graph = ParametricFunction(                                  |
+|    725             lambda t: self.coords_to_point(t, function(t)),          |
+|    726             t_range=t_range,                                         |
+|    727             scaling=self.x_axis.scaling,                             |
+|                                                                             |
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\mobject\graphing\functi |
+| ons.py:132 in __init__                                                      |
+|                                                                             |
+|   129         self.use_vectorized = use_vectorized                          |
+|   130         self.t_min, self.t_max, self.t_step = t_range                 |
+|   131                                                                       |
+| > 132         super().__init__(**kwargs)                                    |
+|   133                                                                       |
+|   134     def get_function(self) -> Callable[[float], Point3D]:             |
+|   135         return self.function                                          |
+|                                                                             |
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\mobject\types\vectorize |
+| d_mobject.py:161 in __init__                                                |
+|                                                                             |
+|    158             0, 1, n_points_per_cubic_curve                           |
+|    159         )                                                            |
+|    160         self.cap_style: CapStyleType = cap_style                     |
+| >  161         super().__init__(**kwargs)                                   |
+|    162         self.submobjects: list[VMobject]                             |
+|    163                                                                      |
+|    164         # TODO: Find where color overwrites are happening and remove |
++-----------------------------------------------------------------------------+
+TypeError: Mobject.__init__() got an unexpected keyword argument 'samples'
+
+[Repair Attempt Error]
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\dev\math-video-mvp\.venv\Scripts\manim.exe\__main__.py", line 4, in <module>
+    from manim.__main__ import main
+  File "C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\__init__.py", line 51, in <module>
+    from .mobject.graph import *
+  File "C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\mobject\graph.py", line 15, in <module>
+    import networkx as nx
+  File "C:\dev\math-video-mvp\.venv\Lib\site-packages\networkx\__init__.py", line 26, in <module>
+    from networkx import classes
+  File "C:\dev\math-video-mvp\.venv\Lib\site-packages\networkx\classes\__init__.py", line 2, in <module>
+    from .digraph import DiGraph
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1322, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1262, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1559, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1533, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1632, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 152, in _path_stat
+KeyboardInterrupt

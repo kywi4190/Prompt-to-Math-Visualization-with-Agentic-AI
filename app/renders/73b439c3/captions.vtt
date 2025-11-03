@@ -1,0 +1,33 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:01.800
+Let’s build a sawtooth f(x)=x from sine waves.
+
+2
+00:00:01.800 --> 00:00:03.000
+Left: the function plot. Right: a panel of coefficients.
+
+3
+00:00:03.000 --> 00:00:04.200
+First, visualize a few sine building blocks.
+
+4
+00:00:04.200 --> 00:00:05.400
+Our target on (-π, π) is the yellow line: f(x)=x.
+
+5
+00:00:05.400 --> 00:00:07.000
+Bars will show Fourier sine coefficients 2(-1)^{n+1}/n.
+
+6
+00:00:07.000 --> 00:00:16.500
+Watch S_N(x) grow and oscillations settle as N increases.
+
+7
+00:00:16.500 --> 00:00:19.000
+Near x=π, a persistent overshoot appears: Gibbs phenomenon.
+
+8
+00:00:19.000 --> 00:00:21.199
+It never disappears—only narrows as N → ∞.

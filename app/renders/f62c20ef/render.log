@@ -1,0 +1,265 @@
+Manim Community v0.19.0
+
+[10/20/25 12:41:40] INFO     Writing - to               tex_file_writing.py:111
+                             Tex\ba96de15f98acfc8.tex                          
+latex: security risk: running with elevated privileges
+latex: major issue: So far, you have not checked for MiKTeX updates.
+dvisvgm: security risk: running with elevated privileges
+[10/20/25 12:41:41] INFO     Writing 4 to               tex_file_writing.py:111
+                             Tex\31d3165490bf3404.tex                          
+latex: security risk: running with elevated privileges
+latex: major issue: So far, you have not checked for MiKTeX updates.
+dvisvgm: security risk: running with elevated privileges
+[10/20/25 12:41:42] INFO     Writing 3 to               tex_file_writing.py:111
+                             Tex\8de07035cb22c903.tex                          
+latex: security risk: running with elevated privileges
+latex: major issue: So far, you have not checked for MiKTeX updates.
+dvisvgm: security risk: running with elevated privileges
+[10/20/25 12:41:43] INFO     Writing 2 to               tex_file_writing.py:111
+                             Tex\2b7ffb3c38a5a6e0.tex                          
+latex: security risk: running with elevated privileges
+latex: major issue: So far, you have not checked for MiKTeX updates.
+dvisvgm: security risk: running with elevated privileges
+[10/20/25 12:41:44] INFO     Writing 1 to               tex_file_writing.py:111
+                             Tex\6ecf9f51170c1a70.tex                          
+latex: security risk: running with elevated privileges
+latex: major issue: So far, you have not checked for MiKTeX updates.
+dvisvgm: security risk: running with elevated privileges
+[10/20/25 12:41:45] INFO     Writing 5 to               tex_file_writing.py:111
+                             Tex\5683d89f396abe50.tex                          
+latex: security risk: running with elevated privileges
+latex: major issue: So far, you have not checked for MiKTeX updates.
+dvisvgm: security risk: running with elevated privileges
+[10/20/25 12:41:46] INFO     Writing 6 to               tex_file_writing.py:111
+                             Tex\b330e3953bf029d7.tex                          
+latex: security risk: running with elevated privileges
+latex: major issue: So far, you have not checked for MiKTeX updates.
+dvisvgm: security risk: running with elevated privileges
+[10/20/25 12:41:47] INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 0: Create(Axes of 2 submobjects):   0%|          | 0/18 [00:00<?, ?it/s]
+                                                                                  
+                    INFO     Animation 0 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\f62c20ef\videos                         
+                             \vector_addition_fixed\48                         
+                             0p15\partial_movie_files\                         
+                             VectorAdditionFixScene\un                         
+                             cached_00000.mp4'                                 
+[10/20/25 12:41:49] INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 1: Create(Arrow), etc.:   0%|          | 0/12 [00:00<?, ?it/s]
+                                                                        
+                    INFO     Animation 1 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\f62c20ef\videos                         
+                             \vector_addition_fixed\48                         
+                             0p15\partial_movie_files\                         
+                             VectorAdditionFixScene\un                         
+                             cached_00001.mp4'                                 
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 2: FadeIn(Arrow), etc.:   0%|          | 0/12 [00:00<?, ?it/s]
+Animation 2: FadeIn(Arrow), etc.:  17%|#6        | 2/12 [00:00<00:00, 16.45it/s]
+Animation 2: FadeIn(Arrow), etc.:  33%|###3      | 4/12 [00:00<00:00, 16.06it/s]
+Animation 2: FadeIn(Arrow), etc.:  50%|#####     | 6/12 [00:00<00:00, 15.98it/s]
+Animation 2: FadeIn(Arrow), etc.:  67%|######6   | 8/12 [00:00<00:00, 15.90it/s]
+Animation 2: FadeIn(Arrow), etc.:  83%|########3 | 10/12 [00:00<00:00, 16.10it/s]
+Animation 2: FadeIn(Arrow), etc.: 100%|##########| 12/12 [00:00<00:00, 16.56it/s]
+                                                                                 
+[10/20/25 12:41:50] INFO     Animation 2 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\f62c20ef\videos                         
+                             \vector_addition_fixed\48                         
+                             0p15\partial_movie_files\                         
+                             VectorAdditionFixScene\un                         
+                             cached_00002.mp4'                                 
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 3: _MethodAnimation(ValueTracker):   0%|          | 0/120 [00:00<?, ?it/s]
+Animation 3: _MethodAnimation(ValueTracker):   3%|3         | 4/120 [00:00<00:03, 35.49it/s]
+Animation 3: _MethodAnimation(ValueTracker):   7%|6         | 8/120 [00:00<00:03, 28.37it/s]
+Animation 3: _MethodAnimation(ValueTracker):  10%|#         | 12/120 [00:00<00:03, 29.48it/s]
+Animation 3: _MethodAnimation(ValueTracker):  13%|#3        | 16/120 [00:00<00:03, 29.95it/s]
+Animation 3: _MethodAnimation(ValueTracker):  17%|#6        | 20/120 [00:00<00:03, 29.47it/s]
+Animation 3: _MethodAnimation(ValueTracker):  19%|#9        | 23/120 [00:00<00:03, 29.45it/s]
+Animation 3: _MethodAnimation(ValueTracker):  22%|##2       | 27/120 [00:00<00:03, 30.08it/s]
+Animation 3: _MethodAnimation(ValueTracker):  26%|##5       | 31/120 [00:01<00:02, 29.86it/s]
+Animation 3: _MethodAnimation(ValueTracker):  29%|##9       | 35/120 [00:01<00:02, 29.91it/s]
+Animation 3: _MethodAnimation(ValueTracker):  32%|###2      | 39/120 [00:01<00:02, 30.17it/s]
+Animation 3: _MethodAnimation(ValueTracker):  36%|###5      | 43/120 [00:01<00:02, 30.35it/s]
+Animation 3: _MethodAnimation(ValueTracker):  39%|###9      | 47/120 [00:01<00:02, 31.57it/s]
+Animation 3: _MethodAnimation(ValueTracker):  42%|####2     | 51/120 [00:01<00:02, 32.52it/s]
+Animation 3: _MethodAnimation(ValueTracker):  46%|####5     | 55/120 [00:01<00:02, 31.13it/s]
+Animation 3: _MethodAnimation(ValueTracker):  49%|####9     | 59/120 [00:01<00:02, 30.22it/s]
+Animation 3: _MethodAnimation(ValueTracker):  52%|#####2    | 63/120 [00:02<00:01, 29.36it/s]
+Animation 3: _MethodAnimation(ValueTracker):  55%|#####5    | 66/120 [00:02<00:01, 29.42it/s]
+Animation 3: _MethodAnimation(ValueTracker):  57%|#####7    | 69/120 [00:02<00:01, 29.48it/s]
+Animation 3: _MethodAnimation(ValueTracker):  60%|######    | 72/120 [00:02<00:01, 29.32it/s]
+Animation 3: _MethodAnimation(ValueTracker):  62%|######2   | 75/120 [00:02<00:01, 29.06it/s]
+Animation 3: _MethodAnimation(ValueTracker):  66%|######5   | 79/120 [00:02<00:01, 29.75it/s]
+Animation 3: _MethodAnimation(ValueTracker):  69%|######9   | 83/120 [00:02<00:01, 30.15it/s]
+Animation 3: _MethodAnimation(ValueTracker):  72%|#######2  | 87/120 [00:02<00:01, 30.70it/s]
+Animation 3: _MethodAnimation(ValueTracker):  76%|#######5  | 91/120 [00:03<00:00, 31.67it/s]
+Animation 3: _MethodAnimation(ValueTracker):  79%|#######9  | 95/120 [00:03<00:00, 31.84it/s]
+Animation 3: _MethodAnimation(ValueTracker):  82%|########2 | 99/120 [00:03<00:00, 31.72it/s]
+Animation 3: _MethodAnimation(ValueTracker):  86%|########5 | 103/120 [00:03<00:00, 31.06it/s]
+Animation 3: _MethodAnimation(ValueTracker):  89%|########9 | 107/120 [00:03<00:00, 31.15it/s]
+Animation 3: _MethodAnimation(ValueTracker):  92%|#########2| 111/120 [00:03<00:00, 30.78it/s]
+Animation 3: _MethodAnimation(ValueTracker):  96%|#########5| 115/120 [00:03<00:00, 30.94it/s]
+Animation 3: _MethodAnimation(ValueTracker):  99%|#########9| 119/120 [00:03<00:00, 31.14it/s]
+                                                                                              
+[10/20/25 12:41:54] INFO     Animation 3 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\f62c20ef\videos                         
+                             \vector_addition_fixed\48                         
+                             0p15\partial_movie_files\                         
+                             VectorAdditionFixScene\un                         
+                             cached_00003.mp4'                                 
+                    INFO     Caching disabled.             cairo_renderer.py:79
+                    INFO     Animation 4 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\f62c20ef\videos                         
+                             \vector_addition_fixed\48                         
+                             0p15\partial_movie_files\                         
+                             VectorAdditionFixScene\un                         
+                             cached_00004.mp4'                                 
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 5: FadeOut(VGroup of 8 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]
+Animation 5: FadeOut(VGroup of 8 submobjects):  13%|#3        | 2/15 [00:00<00:01, 11.29it/s]
+Animation 5: FadeOut(VGroup of 8 submobjects):  27%|##6       | 4/15 [00:00<00:01, 10.98it/s]
+Animation 5: FadeOut(VGroup of 8 submobjects):  40%|####      | 6/15 [00:00<00:00, 11.76it/s]
+Animation 5: FadeOut(VGroup of 8 submobjects):  53%|#####3    | 8/15 [00:00<00:00, 11.76it/s]
+Animation 5: FadeOut(VGroup of 8 submobjects):  67%|######6   | 10/15 [00:00<00:00, 11.49it/s]
+Animation 5: FadeOut(VGroup of 8 submobjects):  80%|########  | 12/15 [00:01<00:00, 11.46it/s]
+Animation 5: FadeOut(VGroup of 8 submobjects):  93%|#########3| 14/15 [00:01<00:00, 11.20it/s]
+                                                                                              
+[10/20/25 12:41:56] INFO     Animation 5 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\f62c20ef\videos                         
+                             \vector_addition_fixed\48                         
+                             0p15\partial_movie_files\                         
+                             VectorAdditionFixScene\un                         
+                             cached_00005.mp4'                                 
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 6: Create(NumberPlane of 4 submobjects):   0%|          | 0/18 [00:00<?, ?it/s]
+                                                                                         
+                    INFO     Animation 6 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\f62c20ef\videos                         
+                             \vector_addition_fixed\48                         
+                             0p15\partial_movie_files\                         
+                             VectorAdditionFixScene\un                         
+                             cached_00006.mp4'                                 
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 7: Create(Arrow), etc.:   0%|          | 0/15 [00:00<?, ?it/s]
+                                                                        
+                    INFO     Animation 7 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\f62c20ef\videos                         
+                             \vector_addition_fixed\48                         
+                             0p15\partial_movie_files\                         
+                             VectorAdditionFixScene\un                         
+                             cached_00007.mp4'                                 
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 8: FadeIn(Arrow), etc.:   0%|          | 0/12 [00:00<?, ?it/s]
+                                                                        
+                    INFO     Animation 8 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\f62c20ef\videos                         
+                             \vector_addition_fixed\48                         
+                             0p15\partial_movie_files\                         
+                             VectorAdditionFixScene\un                         
+                             cached_00008.mp4'                                 
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 9: Create(Line), etc.:   0%|          | 0/18 [00:00<?, ?it/s]
+                                                                       
+                    INFO     Animation 9 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\f62c20ef\videos                         
+                             \vector_addition_fixed\48                         
+                             0p15\partial_movie_files\                         
+                             VectorAdditionFixScene\un                         
+                             cached_00009.mp4'                                 
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 10: Create(Arrow):   0%|          | 0/15 [00:00<?, ?it/s]
+                                                                   
+                    INFO     Animation 10 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\f62c20ef\videos                         
+                             \vector_addition_fixed\48                         
+                             0p15\partial_movie_files\                         
+                             VectorAdditionFixScene\un                         
+                             cached_00010.mp4'                                 
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 11: FadeIn(Text('u+v')):   0%|          | 0/6 [00:00<?, ?it/s]
+                                                                        
+                    INFO     Animation 11 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\f62c20ef\videos                         
+                             \vector_addition_fixed\48                         
+                             0p15\partial_movie_files\                         
+                             VectorAdditionFixScene\un                         
+                             cached_00011.mp4'                                 
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 12: _MethodAnimation(Arrow):   0%|          | 0/6 [00:00<?, ?it/s]
+                                                                            
+                    INFO     Animation 12 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\f62c20ef\videos                         
+                             \vector_addition_fixed\48                         
+                             0p15\partial_movie_files\                         
+                             VectorAdditionFixScene\un                         
+                             cached_00012.mp4'                                 
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 13: _MethodAnimation(Arrow):   0%|          | 0/6 [00:00<?, ?it/s]
+                                                                            
+[10/20/25 12:41:57] INFO     Animation 13 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\f62c20ef\videos                         
+                             \vector_addition_fixed\48                         
+                             0p15\partial_movie_files\                         
+                             VectorAdditionFixScene\un                         
+                             cached_00013.mp4'                                 
+                    INFO     Caching disabled.             cairo_renderer.py:79
+                    INFO     Animation 14 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\f62c20ef\videos                         
+                             \vector_addition_fixed\48                         
+                             0p15\partial_movie_files\                         
+                             VectorAdditionFixScene\un                         
+                             cached_00014.mp4'                                 
+                    INFO     Combining to Movie file.  scene_file_writer.py:739
+                    INFO                               scene_file_writer.py:886
+                             File ready at                                     
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\f62c20ef\videos                         
+                             \vector_addition_fixed\48                         
+                             0p15\out.mp4'                                     
+                                                                               
+                    INFO     Rendered VectorAdditionFixScene       scene.py:255
+                             Played 15 animations                              

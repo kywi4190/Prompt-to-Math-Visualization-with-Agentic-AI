@@ -1,0 +1,120 @@
+Manim Community v0.19.0
+
++--------------------- Traceback (most recent call last) ---------------------+
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\cli\render\commands.py: |
+| 125 in render                                                               |
+|                                                                             |
+|   122             try:                                                      |
+|   123                 with tempconfig({}):                                  |
+|   124                     scene = SceneClass()                              |
+| > 125                     scene.render()                                    |
+|   126             except Exception:                                         |
+|   127                 error_console.print_exception()                       |
+|   128                 sys.exit(1)                                           |
+|                                                                             |
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\scene\scene.py:237 in   |
+| render                                                                      |
+|                                                                             |
+|    234         """                                                          |
+|    235         self.setup()                                                 |
+|    236         try:                                                         |
+| >  237             self.construct()                                         |
+|    238         except EndSceneEarlyException:                               |
+|    239             pass                                                     |
+|    240         except RerunSceneException:                                  |
+|                                                                             |
+| C:\dev\math-video-mvp\app\renders\9daa4d7f\function_series.py:34 in         |
+| construct                                                                   |
+|                                                                             |
+|    31         axes3d = ThreeDAxes(x_range=[0, 2, 1], y_range=[0, 2, 1], z_r |
+|    32                             x_length=4, y_length=4, z_length=3)       |
+|    33         v_end = np.array([1.6, 1.2, 1.0])                             |
+| >  34         comp_x = Arrow3D(start=[0, 0, 0], end=[v_end[0], 0, 0], color |
+|    35         comp_y = Arrow3D(start=[v_end[0], 0, 0], end=[v_end[0], v_end |
+|    36         comp_z = Arrow3D(start=[v_end[0], v_end[1], 0], end=v_end, co |
+|    37         v_vec = Arrow3D(start=[0, 0, 0], end=v_end, color=YELLOW, tip |
+|                                                                             |
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\mobject\three_d\three_d |
+| imensions.py:1165 in __init__                                               |
+|                                                                             |
+|   1162         resolution: int | Sequence[int] = 24,                        |
+|   1163         **kwargs,                                                    |
+|   1164     ) -> None:                                                       |
+| > 1165         super().__init__(                                            |
+|   1166             start=start,                                             |
+|   1167             end=end,                                                 |
+|   1168             thickness=thickness,                                     |
+|                                                                             |
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\mobject\three_d\three_d |
+| imensions.py:929 in __init__                                                |
+|                                                                             |
+|    926     ):                                                               |
+|    927         self.thickness = thickness                                   |
+|    928         self.resolution = (2, resolution) if isinstance(resolution,  |
+| >  929         self.set_start_and_end_attrs(start, end, **kwargs)           |
+|    930         if color is not None:                                        |
+|    931             self.set_color(color)                                    |
+|    932                                                                      |
+|                                                                             |
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\mobject\three_d\three_d |
+| imensions.py:958 in set_start_and_end_attrs                                 |
+|                                                                             |
+|    955         # start and end, if they're mobjects                         |
+|    956         self.start = self.pointify(start, self.direction)            |
+|    957         self.end = self.pointify(end, -self.direction)               |
+| >  958         super().__init__(                                            |
+|    959             height=np.linalg.norm(self.vect),                        |
+|    960             radius=self.thickness,                                   |
+|    961             direction=self.direction,                                |
+|                                                                             |
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\mobject\three_d\three_d |
+| imensions.py:771 in __init__                                                |
+|                                                                             |
+|    768     ) -> None:                                                       |
+|    769         self._height = height                                        |
+|    770         self.radius = radius                                         |
+| >  771         super().__init__(                                            |
+|    772             self.func,                                               |
+|    773             resolution=resolution,                                   |
+|    774             u_range=[-self._height / 2, self._height / 2],           |
+|                                                                             |
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\mobject\three_d\three_d |
+| imensions.py:119 in __init__                                                |
+|                                                                             |
+|    116     ) -> None:                                                       |
+|    117         self.u_range = u_range                                       |
+|    118         self.v_range = v_range                                       |
+| >  119         super().__init__(**kwargs)                                   |
+|    120         self.resolution = resolution                                 |
+|    121         self.surface_piece_config = surface_piece_config             |
+|    122         self.fill_color: ManimColor = ManimColor(fill_color)         |
+|                                                                             |
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\mobject\types\vectorize |
+| d_mobject.py:2118 in __init__                                               |
+|                                                                             |
+|   2115     def __init__(                                                    |
+|   2116         self, *vmobjects: VMobject | Iterable[VMobject], **kwargs: A |
+|   2117     ) -> None:                                                       |
+| > 2118         super().__init__(**kwargs)                                   |
+|   2119         self.add(*vmobjects)                                         |
+|   2120                                                                      |
+|   2121     def __repr__(self) -> str:                                       |
+|                                                                             |
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\mobject\types\vectorize |
+| d_mobject.py:161 in __init__                                                |
+|                                                                             |
+|    158             0, 1, n_points_per_cubic_curve                           |
+|    159         )                                                            |
+|    160         self.cap_style: CapStyleType = cap_style                     |
+| >  161         super().__init__(**kwargs)                                   |
+|    162         self.submobjects: list[VMobject]                             |
+|    163                                                                      |
+|    164         # TODO: Find where color overwrites are happening and remove |
++-----------------------------------------------------------------------------+
+TypeError: Mobject.__init__() got an unexpected keyword argument 'tip_length'
+
+[Repair Attempt Error]
+Manim Community v0.19.0
+
+
+Aborted!

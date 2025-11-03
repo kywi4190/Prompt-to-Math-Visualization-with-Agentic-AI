@@ -1,0 +1,29 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:02.000
+Imagine a flat fabric representing R^n...
+
+2
+00:00:02.000 --> 00:00:05.000
+We apply a warp defined by a symmetric positive definite matrix...
+
+3
+00:00:05.000 --> 00:00:08.000
+Vectors stretch and shear, changing their relationships...
+
+4
+00:00:08.000 --> 00:00:12.000
+Now, let's visualize the transformation back to orthogonality...
+
+5
+00:00:12.000 --> 00:00:15.000
+We apply the inverse warp, uniting the vectors...
+
+6
+00:00:15.000 --> 00:00:20.000
+Observe how they align back to standard orthogonality...
+
+7
+00:00:20.000 --> 00:00:25.000
+This is the essence of inner products in R^n!

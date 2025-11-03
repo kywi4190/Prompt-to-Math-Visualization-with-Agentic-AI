@@ -1,0 +1,37 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:03.200
+Addition on a line: steps stack end-to-end.
+
+2
+00:00:03.200 --> 00:00:06.000
+Two steps, 2 then 3, land us at 5.
+
+3
+00:00:06.000 --> 00:00:07.200
+Now upgrade to the plane: vectors.
+
+4
+00:00:07.200 --> 00:00:10.500
+Draw vectors a and b from the origin.
+
+5
+00:00:10.500 --> 00:00:13.500
+Slide b to the head of a — the head-to-tail rule.
+
+6
+00:00:13.500 --> 00:00:18.500
+The yellow dot traces: do a, then do b.
+
+7
+00:00:18.500 --> 00:00:20.500
+Commutativity: swap roles, same endpoint.
+
+8
+00:00:20.500 --> 00:00:22.199
+Add a third vector c; still tip-to-tail.
+
+9
+00:00:22.199 --> 00:00:23.800
+The long arrow is a + b + c.

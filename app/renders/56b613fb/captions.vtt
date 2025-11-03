@@ -1,0 +1,25 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:02.000
+Imagine a flat fabric representing R^n...
+
+2
+00:00:02.000 --> 00:00:05.000
+We apply a warp using a symmetric positive definite matrix...
+
+3
+00:00:05.000 --> 00:00:08.000
+This warp changes distances and angles...
+
+4
+00:00:08.000 --> 00:00:12.000
+Now, let's visualize the transformation T...
+
+5
+00:00:12.000 --> 00:00:16.000
+As we unwarp, we return to standard orthogonality...
+
+6
+00:00:16.000 --> 00:00:20.000
+The vectors align back to their original positions.

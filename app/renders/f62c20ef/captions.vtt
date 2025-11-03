@@ -1,0 +1,33 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:02.500
+On a number line, addition is sliding head-to-tail.
+
+2
+00:00:02.500 --> 00:00:04.000
+Place a from zero.
+
+3
+00:00:04.000 --> 00:00:12.000
+Grow b from zero; the dot tracks a + b.
+
+4
+00:00:12.000 --> 00:00:13.000
+Now lift the idea to two dimensions.
+
+5
+00:00:13.000 --> 00:00:14.500
+Draw vectors u and v.
+
+6
+00:00:14.500 --> 00:00:16.500
+Slide a copy of v to the tip of u, and u to the tip of v.
+
+7
+00:00:16.500 --> 00:00:18.500
+Those edges complete a parallelogram.
+
+8
+00:00:18.500 --> 00:00:21.600
+The diagonal from the origin is u + v.

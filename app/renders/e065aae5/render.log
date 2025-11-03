@@ -1,0 +1,57 @@
+Manim Community v0.19.0
+
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\dev\math-video-mvp\.venv\Scripts\manim.exe\__main__.py", line 7, in <module>
+    sys.exit(main())
+             ~~~~^^
+  File "C:\dev\math-video-mvp\.venv\Lib\site-packages\click\core.py", line 1462, in __call__
+    return self.main(*args, **kwargs)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\dev\math-video-mvp\.venv\Lib\site-packages\click\core.py", line 1383, in main
+    rv = self.invoke(ctx)
+  File "C:\dev\math-video-mvp\.venv\Lib\site-packages\click\core.py", line 1850, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+                           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "C:\dev\math-video-mvp\.venv\Lib\site-packages\click\core.py", line 1246, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\dev\math-video-mvp\.venv\Lib\site-packages\click\core.py", line 814, in invoke
+    return callback(*args, **kwargs)
+  File "C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\cli\render\commands.py", line 121, in render
+    for SceneClass in scene_classes_from_file(file):
+                      ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\utils\module_ops.py", line 167, in scene_classes_from_file
+    module = get_module(file_path)
+  File "C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\utils\module_ops.py", line 67, in get_module
+    spec.loader.exec_module(module)
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "<frozen importlib._bootstrap_external>", line 1022, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1160, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1090, in source_to_code
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "C:\dev\math-video-mvp\app\renders\e065aae5\complex_numbers_explainer.py", line 31
+    from manim import *\nimport numpy as np\nimport math\n\n\nclass ComplexNumbersScene(ThreeDScene):\n    def construct(self):\n        # Helper for z^2 mapping on the plane\n        def square_point(p):\n            x, y = p[0], p[1]\n            return np.array([x * x - y * y, 2 * x * y, 0.0])\n\n        # 2D Argand plane (drawn in 3D-safe coordinates)\n        plane = NumberPlane(\n            x_range=[-5, 5, 1],\n            y_range=[-3, 3, 1],\n            background_line_style={\n                "stroke_color": GREY_B,\n                "stroke_opacity": 0.4,\n                "stroke_width": 1,\n            },\n        ).set_stroke(color=GREY_B, width=1, opacity=0.5)\n\n        self.play(Create(plane), run_time=1.2)\n\n        # A sample complex number z = a + bi\n        a, b = 2.0, 1.2\n        z_vec = Arrow([0, 0, 0], [a, b, 0], buff=0.0, color=WHITE, max_stroke_width_to_length_ratio=6, stroke_width=4)\n        z_dot = Dot(radius=0.06, color=WHITE).move_to([a, b, 0])\n        z_l
+                        ^
+SyntaxError: unexpected character after line continuation character
+
+[Repair Attempt Error]
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\dev\math-video-mvp\.venv\Scripts\manim.exe\__main__.py", line 4, in <module>
+    from manim.__main__ import main
+  File "C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\__init__.py", line 65, in <module>
+    from .mobject.text.code_mobject import *
+  File "C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\mobject\text\code_mobject.py", line 14, in <module>
+    from pygments.formatters.html import HtmlFormatter
+  File "C:\dev\math-video-mvp\.venv\Lib\site-packages\pygments\formatters\__init__.py", line 17, in <module>
+    from pygments.formatters._mapping import FORMATTERS
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 1022, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1118, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1217, in get_data
+KeyboardInterrupt

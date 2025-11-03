@@ -1,0 +1,85 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:01.199
+A grid and unit circle: the complex plane.
+
+2
+00:00:01.199 --> 00:00:03.200
+Multiplying by i means a 90° rotation.
+
+3
+00:00:03.200 --> 00:00:05.200
+Watch the triangle turn by i.
+
+4
+00:00:05.200 --> 00:00:07.000
+Start at 1; rotate once by i.
+
+5
+00:00:07.000 --> 00:00:09.199
+Rotate again: i·i = i^2.
+
+6
+00:00:09.199 --> 00:00:10.599
+That lands at −1.
+
+7
+00:00:10.599 --> 00:00:12.599
+Now two numbers: z (blue) and w (green).
+
+8
+00:00:12.599 --> 00:00:14.199
+Their product is the yellow arrow.
+
+9
+00:00:14.199 --> 00:00:16.800
+Rule: add angles when multiplying.
+
+10
+00:00:16.800 --> 00:00:19.199
+See the angle sum steer zw.
+
+11
+00:00:19.199 --> 00:00:21.600
+Rule: multiply magnitudes.
+
+12
+00:00:21.600 --> 00:00:24.600
+|zw| = |z| |w|.
+
+13
+00:00:24.600 --> 00:00:26.600
+Let’s view magnitude as height.
+
+14
+00:00:26.600 --> 00:00:29.199
+Fly the camera into 3D.
+
+15
+00:00:29.199 --> 00:00:31.000
+A cone: height grows with radius.
+
+16
+00:00:31.000 --> 00:00:33.600
+Lift the product tip straight up.
+
+17
+00:00:33.600 --> 00:00:36.000
+Its height matches |zw|.
+
+18
+00:00:36.000 --> 00:00:38.000
+Change |w|; the height changes.
+
+19
+00:00:38.000 --> 00:00:40.399
+Parallax reveals the shape.
+
+20
+00:00:40.399 --> 00:00:42.600
+Summary: multiply magnitudes, add angles.
+
+21
+00:00:42.600 --> 00:00:45.000
+Thanks for watching!

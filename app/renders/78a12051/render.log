@@ -1,0 +1,37 @@
+Manim Community v0.19.0
+
++--------------------- Traceback (most recent call last) ---------------------+
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\cli\render\commands.py: |
+| 125 in render                                                               |
+|                                                                             |
+|   122             try:                                                      |
+|   123                 with tempconfig({}):                                  |
+|   124                     scene = SceneClass()                              |
+| > 125                     scene.render()                                    |
+|   126             except Exception:                                         |
+|   127                 error_console.print_exception()                       |
+|   128                 sys.exit(1)                                           |
+|                                                                             |
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\scene\scene.py:237 in   |
+| render                                                                      |
+|                                                                             |
+|    234         """                                                          |
+|    235         self.setup()                                                 |
+|    236         try:                                                         |
+| >  237             self.construct()                                         |
+|    238         except EndSceneEarlyException:                               |
+|    239             pass                                                     |
+|    240         except RerunSceneException:                                  |
+|                                                                             |
+| C:\dev\math-video-mvp\app\renders\78a12051\western_standoff.py:46 in        |
+| construct                                                                   |
+|                                                                             |
+|    43             lambda u, v: np.array([u, v, 0]),                         |
+|    44             u_range=[-7, 7], v_range=[-4, 4], resolution=(8, 8)       |
+|    45         )                                                             |
+| >  46         ground.set_style(fill_color=Color("#C2B280"), fill_opacity=1. |
+|    47                                                                       |
+|    48         sky = Surface(                                                |
+|    49             lambda u, v: np.array([u, -6, v]),                        |
++-----------------------------------------------------------------------------+
+NameError: name 'Color' is not defined

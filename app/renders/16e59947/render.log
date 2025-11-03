@@ -1,0 +1,354 @@
+Manim Community v0.19.0
+
+[10/14/25 16:38:43] INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 0: Create(NumberPlane of 4 submobjects), etc.:   0%|          | 0/18 [00:00<?, ?it/s]
+                                                                                               
+[10/14/25 16:38:44] INFO     Animation 0 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\16e59947\videos                         
+                             \complex_numbers_explaine                         
+                             r\480p15\partial_movie_fi                         
+                             les\ComplexNumbersExplain                         
+                             er\uncached_00000.mp4'                            
+[10/14/25 16:38:46] INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 1: FadeIn(Text('× i')):   0%|          | 0/9 [00:00<?, ?it/s]
+                                                                       
+                    INFO     Animation 1 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\16e59947\videos                         
+                             \complex_numbers_explaine                         
+                             r\480p15\partial_movie_fi                         
+                             les\ComplexNumbersExplain                         
+                             er\uncached_00001.mp4'                            
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 2: Rotate(Polygon):   0%|          | 0/33 [00:00<?, ?it/s]
+Animation 2: Rotate(Polygon):  97%|#########6| 32/33 [00:00<00:00, 318.96it/s]
+                                                                              
+                    INFO     Animation 2 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\16e59947\videos                         
+                             \complex_numbers_explaine                         
+                             r\480p15\partial_movie_fi                         
+                             les\ComplexNumbersExplain                         
+                             er\uncached_00002.mp4'                            
+                    INFO     Caching disabled.             cairo_renderer.py:79
+                    INFO     Animation 3 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\16e59947\videos                         
+                             \complex_numbers_explaine                         
+                             r\480p15\partial_movie_fi                         
+                             les\ComplexNumbersExplain                         
+                             er\uncached_00003.mp4'                            
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 4: Create(Arrow):   0%|          | 0/12 [00:00<?, ?it/s]
+                                                                  
+                    INFO     Animation 4 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\16e59947\videos                         
+                             \complex_numbers_explaine                         
+                             r\480p15\partial_movie_fi                         
+                             les\ComplexNumbersExplain                         
+                             er\uncached_00004.mp4'                            
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 5: Rotate(Arrow):   0%|          | 0/24 [00:00<?, ?it/s]
+                                                                  
+[10/14/25 16:38:47] INFO     Animation 5 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\16e59947\videos                         
+                             \complex_numbers_explaine                         
+                             r\480p15\partial_movie_fi                         
+                             les\ComplexNumbersExplain                         
+                             er\uncached_00005.mp4'                            
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 6: Rotate(Arrow):   0%|          | 0/24 [00:00<?, ?it/s]
+                                                                  
+                    INFO     Animation 6 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\16e59947\videos                         
+                             \complex_numbers_explaine                         
+                             r\480p15\partial_movie_fi                         
+                             les\ComplexNumbersExplain                         
+                             er\uncached_00006.mp4'                            
+                    INFO     Writing i^2 = -1 to        tex_file_writing.py:111
+                             Tex\baec3699e9286a05.tex                          
+latex: security risk: running with elevated privileges
+latex: major issue: So far, you have not checked for MiKTeX updates.
+dvisvgm: security risk: running with elevated privileges
+[10/14/25 16:38:49] INFO     Caching disabled.             cairo_renderer.py:79
+                    INFO     Argument {'stroke_opacity':  shape_matchers.py:141
+                             np.float64(0.0),                                  
+                             'stroke_width': 2,                                
+                             'fill_color': [None],                             
+                             'stroke_color': [None],                           
+                             'background_stroke_color':                        
+                             [ManimColor('#000000')],                          
+                             'background_stroke_width':                        
+                             0.0,                                              
+                             'background_stroke_opacity':                      
+                             np.float64(1.0),                                  
+                             'sheen_factor': 0.0,                              
+                             'sheen_direction':                                
+                             array([-1.,  1.,  0.]),                           
+                             'background_image': None,                         
+                             'family': False} is ignored                       
+                             in                                                
+                             BackgroundRectangle.set_styl                      
+                             e.                                                
+
+Animation 7: Write(MathTex('i^2 = -1')):   0%|          | 0/12 [00:00<?, ?it/s]                    INFO     Argument {'stroke_opacity':  shape_matchers.py:141
+                             np.float64(0.0),                                  
+                             'stroke_width': 2,                                
+                             'fill_color': [None],                             
+                             'stroke_color': [None],                           
+                             'background_stroke_color':                        
+                             [ManimColor('#000000')],                          
+                             'background_stroke_width':                        
+                             0.0,                                              
+                             'background_stroke_opacity':                      
+                             np.float64(1.0),                                  
+                             'sheen_factor': 0.0,                              
+                             'sheen_direction':                                
+                             array([-1.,  1.,  0.]),                           
+                             'background_image': None,                         
+                             'family': False} is ignored                       
+                             in                                                
+                             BackgroundRectangle.set_styl                      
+                             e.                                                
+                    INFO     Argument {'stroke_opacity':  shape_matchers.py:141
+                             np.float64(0.0),                                  
+                             'stroke_width': 2,                                
+                             'fill_color': [None],                             
+                             'stroke_color': [None],                           
+                             'background_stroke_color':                        
+                             [ManimColor('#000000')],                          
+                             'background_stroke_width':                        
+                             0.0,                                              
+                             'background_stroke_opacity':                      
+                             np.float64(1.0),                                  
+                             'sheen_factor': 0.0,                              
+                             'sheen_direction':                                
+                             array([-1.,  1.,  0.]),                           
+                             'background_image': None,                         
+                             'family': False} is ignored                       
+                             in                                                
+                             BackgroundRectangle.set_styl                      
+                             e.                                                
+                    INFO     Argument {'stroke_opacity':  shape_matchers.py:141
+                             np.float64(0.0),                                  
+                             'stroke_width': 2,                                
+                             'fill_color': [None],                             
+                             'stroke_color': [None],                           
+                             'background_stroke_color':                        
+                             [ManimColor('#000000')],                          
+                             'background_stroke_width':                        
+                             0.0,                                              
+                             'background_stroke_opacity':                      
+                             np.float64(1.0),                                  
+                             'sheen_factor': 0.0,                              
+                             'sheen_direction':                                
+                             array([-1.,  1.,  0.]),                           
+                             'background_image': None,                         
+                             'family': False} is ignored                       
+                             in                                                
+                             BackgroundRectangle.set_styl                      
+                             e.                                                
+
+                                                                               
+                    INFO     Animation 7 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\16e59947\videos                         
+                             \complex_numbers_explaine                         
+                             r\480p15\partial_movie_fi                         
+                             les\ComplexNumbersExplain                         
+                             er\uncached_00007.mp4'                            
+                    INFO     Caching disabled.             cairo_renderer.py:79
+                    INFO     Animation 8 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\16e59947\videos                         
+                             \complex_numbers_explaine                         
+                             r\480p15\partial_movie_fi                         
+                             les\ComplexNumbersExplain                         
+                             er\uncached_00008.mp4'                            
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 9: FadeOut(Polygon), etc.:   0%|          | 0/12 [00:00<?, ?it/s]
+                                                                           
+                    INFO     Animation 9 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\16e59947\videos                         
+                             \complex_numbers_explaine                         
+                             r\480p15\partial_movie_fi                         
+                             les\ComplexNumbersExplain                         
+                             er\uncached_00009.mp4'                            
+                    INFO     Writing z to               tex_file_writing.py:111
+                             Tex\43b964ac29d1fef3.tex                          
+latex: security risk: running with elevated privileges
+latex: major issue: So far, you have not checked for MiKTeX updates.
+dvisvgm: security risk: running with elevated privileges
+[10/14/25 16:38:50] INFO     Writing w to               tex_file_writing.py:111
+                             Tex\56ae4ff86b58ef0b.tex                          
+latex: security risk: running with elevated privileges
+latex: major issue: So far, you have not checked for MiKTeX updates.
+dvisvgm: security risk: running with elevated privileges
+[10/14/25 16:38:51] INFO     Writing zw to              tex_file_writing.py:111
+                             Tex\374b418b20a45610.tex                          
+latex: security risk: running with elevated privileges
+latex: major issue: So far, you have not checked for MiKTeX updates.
+dvisvgm: security risk: running with elevated privileges
+[10/14/25 16:38:52] INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 10: Create(Arrow), etc.:   0%|          | 0/18 [00:00<?, ?it/s]
+Animation 10: Create(Arrow), etc.:  78%|#######7  | 14/18 [00:00<00:00, 133.81it/s]
+                                                                                   
+[10/14/25 16:38:53] INFO     Animation 10 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\16e59947\videos                         
+                             \complex_numbers_explaine                         
+                             r\480p15\partial_movie_fi                         
+                             les\ComplexNumbersExplain                         
+                             er\uncached_00010.mp4'                            
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 11: Create(Arrow), etc.:   0%|          | 0/15 [00:00<?, ?it/s]
+Animation 11: Create(Arrow), etc.:  20%|##        | 3/15 [00:00<00:00, 23.10it/s]
+Animation 11: Create(Arrow), etc.:  40%|####      | 6/15 [00:00<00:00, 21.76it/s]
+Animation 11: Create(Arrow), etc.:  60%|######    | 9/15 [00:00<00:00, 21.07it/s]
+Animation 11: Create(Arrow), etc.:  80%|########  | 12/15 [00:00<00:00, 21.15it/s]
+Animation 11: Create(Arrow), etc.: 100%|##########| 15/15 [00:00<00:00, 21.46it/s]
+                                                                                  
+                    INFO     Animation 11 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\16e59947\videos                         
+                             \complex_numbers_explaine                         
+                             r\480p15\partial_movie_fi                         
+                             les\ComplexNumbersExplain                         
+                             er\uncached_00011.mp4'                            
+                    INFO     Writing                    tex_file_writing.py:111
+                             (re^{i\\theta})(se^{i\\phi                        
+                             })=rs\\,e^{i(\\theta+\\phi                        
+                             )} to                                             
+                             Tex\230c6d98a8f0ee94.tex                          
+latex: security risk: running with elevated privileges
+latex: major issue: So far, you have not checked for MiKTeX updates.
+[10/14/25 16:38:54] ERROR    LaTeX compilation error:   tex_file_writing.py:314
+                             Missing } inserted.                               
+                                                                               
+                    ERROR    Context of error:          tex_file_writing.py:348
+                             ->                                                
+                             (re^{i\\theta})(se^{i\\phi                        
+                             })=rs\\,e^{i(\\theta+\\phi                        
+                             )}                                                
+                             \end{align*}                                      
+                             \end{document}                                    
++--------------------- Traceback (most recent call last) ---------------------+
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\cli\render\commands.py: |
+| 125 in render                                                               |
+|                                                                             |
+|   122             try:                                                      |
+|   123                 with tempconfig({}):                                  |
+|   124                     scene = SceneClass()                              |
+| > 125                     scene.render()                                    |
+|   126             except Exception:                                         |
+|   127                 error_console.print_exception()                       |
+|   128                 sys.exit(1)                                           |
+|                                                                             |
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\scene\scene.py:237 in   |
+| render                                                                      |
+|                                                                             |
+|    234         """                                                          |
+|    235         self.setup()                                                 |
+|    236         try:                                                         |
+| >  237             self.construct()                                         |
+|    238         except EndSceneEarlyException:                               |
+|    239             pass                                                     |
+|    240         except RerunSceneException:                                  |
+|                                                                             |
+| C:\dev\math-video-mvp\app\renders\16e59947\complex_numbers_explainer.py:111 |
+| in construct                                                                |
+|                                                                             |
+|   108         self.play(Create(p_arrow), FadeIn(z_label), FadeIn(w_label),  |
+|   109                                                                       |
+|   110         # Overlay formula (fixed in frame)                            |
+| > 111         w_formula = MathTex(r"(re^{i\\theta})(se^{i\\phi})=rs\\,e^{i( |
+|   112         w_formula.add_background_rectangle(buff=0.08, opacity=0.85)   |
+|   113         w_formula.to_corner(UL)                                       |
+|   114         w_formula.set_z_index(10)                                     |
+|                                                                             |
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\mobject\text\tex_mobjec |
+| t.py:298 in __init__                                                        |
+|                                                                             |
+|   295                         """,                                          |
+|   296                     ),                                                |
+|   297                 )                                                     |
+| > 298             raise compilation_error                                   |
+|   299         self.set_color_by_tex_to_color_map(self.tex_to_color_map)     |
+|   300                                                                       |
+|   301         if self.organize_left_to_right:                               |
+|                                                                             |
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\mobject\text\tex_mobjec |
+| t.py:277 in __init__                                                        |
+|                                                                             |
+|   274         self.brace_notation_split_occurred = False                    |
+|   275         self.tex_strings = self._break_up_tex_strings(tex_strings)    |
+|   276         try:                                                          |
+| > 277             super().__init__(                                         |
+|   278                 self.arg_separator.join(self.tex_strings),            |
+|   279                 tex_environment=self.tex_environment,                 |
+|   280                 tex_template=self.tex_template,                       |
+|                                                                             |
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\mobject\text\tex_mobjec |
+| t.py:80 in __init__                                                         |
+|                                                                             |
+|    77                                                                       |
+|    78         assert isinstance(tex_string, str)                            |
+|    79         self.tex_string = tex_string                                  |
+| >  80         file_name = tex_to_svg_file(                                  |
+|    81             self._get_modified_expression(tex_string),                |
+|    82             environment=self.tex_environment,                         |
+|    83             tex_template=self.tex_template,                           |
+|                                                                             |
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\utils\tex_file_writing. |
+| py:65 in tex_to_svg_file                                                    |
+|                                                                             |
+|    62     if svg_file.exists():                                             |
+|    63         return svg_file                                               |
+|    64                                                                       |
+| >  65     dvi_file = compile_tex(                                           |
+|    66         tex_file,                                                     |
+|    67         tex_template.tex_compiler,                                    |
+|    68         tex_template.output_format,                                   |
+|                                                                             |
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\utils\tex_file_writing. |
+| py:212 in compile_tex                                                       |
+|                                                                             |
+|   209         if cp.returncode != 0:                                        |
+|   210             log_file = tex_file.with_suffix(".log")                   |
+|   211             print_all_tex_errors(log_file, tex_compiler, tex_file)    |
+| > 212             raise ValueError(                                         |
+|   213                 f"{tex_compiler} error converting to"                 |
+|   214                 f" {output_format[1:]}. See log output above or"      |
+|   215                 f" the log file: {log_file}",                         |
++-----------------------------------------------------------------------------+
+ValueError: latex error converting to dvi. See log output above or the log 
+file: Tex\230c6d98a8f0ee94.log
+
+[Repair Attempt Timeout]
+Command '['manim', '-ql', '--disable_caching', '--media_dir', '.', '--output_file', 'out', 'complex_numbers_explainer.py', 'ComplexNumbersExplainer']' timed out after 480 seconds

@@ -1,0 +1,25 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:02.500
+An inner product on R^n is a hidden warp of space — encoded by an SPD matrix A.
+
+2
+00:00:02.500 --> 00:00:06.500
+The unit ball for ⟨x,y⟩_A = x^T A y is not a circle but an ellipse: directions are stretched and squeezed.
+
+3
+00:00:06.500 --> 00:00:09.500
+Two vectors can be A-orthogonal (x^T A y = 0) yet look non‑perpendicular in Euclidean view.
+
+4
+00:00:09.500 --> 00:00:13.500
+A simple unwarp: apply T = A^{1/2}. It carries the A-geometry to Euclidean geometry.
+
+5
+00:00:13.500 --> 00:00:17.500
+The ellipse becomes a circle and the two vectors become Euclidean-orthogonal — orthogonality restored.
+
+6
+00:00:17.500 --> 00:00:20.000
+So every inner product is just a warped Euclidean picture; A^{1/2} straightens it.

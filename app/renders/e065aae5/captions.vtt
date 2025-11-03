@@ -1,0 +1,73 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:03.000
+Complex numbers live on a plane; multiplication rotates and scales.
+
+2
+00:00:03.000 --> 00:00:05.599
+Plot a point z = a + bi and draw its vector from the origin.
+
+3
+00:00:05.599 --> 00:00:08.000
+The angle from the x-axis is the argument of z.
+
+4
+00:00:08.000 --> 00:00:11.000
+Multiplying by i is a 90° counterclockwise rotation.
+
+5
+00:00:11.000 --> 00:00:14.599
+Rotate back to the original z; remember that angle.
+
+6
+00:00:14.599 --> 00:00:18.199
+Now compare z to its square z^2, shown in orange.
+
+7
+00:00:18.199 --> 00:00:22.000
+As z makes one full turn, z^2 spins twice and changes length.
+
+8
+00:00:22.000 --> 00:00:25.399
+Multiplying by a + bi is a linear map of the entire plane.
+
+9
+00:00:25.399 --> 00:00:28.500
+The grid rotates and scales together with z.
+
+10
+00:00:28.500 --> 00:00:31.000
+Undo the map: multiplication is rotate + scale.
+
+11
+00:00:31.000 --> 00:00:33.600
+Lift to 3D: make height equal to |z^2 + 1|.
+
+12
+00:00:33.600 --> 00:00:36.399
+This surface turns modulus into altitude.
+
+13
+00:00:36.399 --> 00:00:40.000
+Mark the roots: z = i and z = -i give height zero.
+
+14
+00:00:40.000 --> 00:00:44.000
+Orbit the camera to feel the shape of the landscape.
+
+15
+00:00:44.000 --> 00:00:48.000
+Two symmetric pits show where z^2 + 1 vanishes.
+
+16
+00:00:48.000 --> 00:00:51.000
+Everywhere else the surface stays above zero: a modulus can't be negative.
+
+17
+00:00:51.000 --> 00:00:54.000
+Wrap up: multiplication rotates and scales; roots sit at height 0.
+
+18
+00:00:54.000 --> 00:00:55.000
+Keep this geometric picture in mind when you compute with complex numbers.

@@ -1,0 +1,758 @@
+Traceback (most recent call last):
+  File "C:\dev\math-video-mvp\app\renders\0c109c12\achilles_paradox.py", line 160
+    outro = Text("Infinite steps can sum to a finite time.
+                 ^
+SyntaxError: unterminated string literal (detected at line 160)
+
+[Repair Attempt Output]
+Manim Community v0.19.0
+
+[10/14/25 19:22:34] INFO     Writing v_ A  = 2 to       tex_file_writing.py:111
+                             Tex\d12333e4a8e6fd77.tex                          
+latex: security risk: running with elevated privileges
+latex: major issue: So far, you have not checked for MiKTeX updates.
+dvisvgm: security risk: running with elevated privileges
+[10/14/25 19:22:36] INFO     Writing v_{\quad} to       tex_file_writing.py:111
+                             Tex\9490b137433fff38.tex                          
+latex: security risk: running with elevated privileges
+latex: major issue: So far, you have not checked for MiKTeX updates.
+dvisvgm: security risk: running with elevated privileges
+[10/14/25 19:22:38] INFO     Writing A to               tex_file_writing.py:111
+                             Tex\90f07b07e57adf79.tex                          
+latex: security risk: running with elevated privileges
+latex: major issue: So far, you have not checked for MiKTeX updates.
+dvisvgm: security risk: running with elevated privileges
+[10/14/25 19:22:41] INFO     Writing = 2 to             tex_file_writing.py:111
+                             Tex\179c7e5b7bdd9e46.tex                          
+latex: security risk: running with elevated privileges
+latex: major issue: So far, you have not checked for MiKTeX updates.
+dvisvgm: security risk: running with elevated privileges
+[10/14/25 19:22:43] INFO     Writing v_ T  = 1 to       tex_file_writing.py:111
+                             Tex\fe9e4e757faf8665.tex                          
+latex: security risk: running with elevated privileges
+latex: major issue: So far, you have not checked for MiKTeX updates.
+dvisvgm: security risk: running with elevated privileges
+[10/14/25 19:22:45] INFO     Writing T to               tex_file_writing.py:111
+                             Tex\8e617d53e9b286fb.tex                          
+latex: security risk: running with elevated privileges
+latex: major issue: So far, you have not checked for MiKTeX updates.
+dvisvgm: security risk: running with elevated privileges
+[10/14/25 19:22:47] INFO     Writing = 1 to             tex_file_writing.py:111
+                             Tex\471f094119dc4391.tex                          
+latex: security risk: running with elevated privileges
+latex: major issue: So far, you have not checked for MiKTeX updates.
+dvisvgm: security risk: running with elevated privileges
+[10/14/25 19:22:50] INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 0: Create(Line):   0%|          | 0/23 [00:00<?, ?it/s]
+Animation 0: Create(Line):  74%|#######3  | 17/23 [00:00<00:00, 161.13it/s]
+                                                                           
+[10/14/25 19:22:51] INFO     Animation 0 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\0c109c12\videos                         
+                             \achilles_paradox\480p15\                         
+                             partial_movie_files\Achil                         
+                             lesParadoxScene\uncached_                         
+                             00000.mp4'                                        
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 1: FadeIn(Dot), etc.:   0%|          | 0/15 [00:00<?, ?it/s]
+Animation 1: FadeIn(Dot), etc.:  53%|#####3    | 8/15 [00:00<00:00, 64.23it/s]
+                                                                              
+                    INFO     Animation 1 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\0c109c12\videos                         
+                             \achilles_paradox\480p15\                         
+                             partial_movie_files\Achil                         
+                             lesParadoxScene\uncached_                         
+                             00001.mp4'                                        
+[10/14/25 19:22:52] INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 2: Write(Text('Achilles')), etc.:   0%|          | 0/9 [00:00<?, ?it/s]
+Animation 2: Write(Text('Achilles')), etc.:  22%|##2       | 2/9 [00:00<00:00, 13.91it/s]
+Animation 2: Write(Text('Achilles')), etc.:  56%|#####5    | 5/9 [00:00<00:00, 15.53it/s]
+Animation 2: Write(Text('Achilles')), etc.:  78%|#######7  | 7/9 [00:00<00:00, 14.84it/s]
+Animation 2: Write(Text('Achilles')), etc.: 100%|##########| 9/9 [00:00<00:00, 11.69it/s]
+                                                                                         
+[10/14/25 19:22:53] INFO     Animation 2 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\0c109c12\videos                         
+                             \achilles_paradox\480p15\                         
+                             partial_movie_files\Achil                         
+                             lesParadoxScene\uncached_                         
+                             00002.mp4'                                        
+[10/14/25 19:22:54] INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 3: Write(VGroup of 2 submobjects):   0%|          | 0/17 [00:00<?, ?it/s]
+Animation 3: Write(VGroup of 2 submobjects):  18%|#7        | 3/17 [00:00<00:00, 20.59it/s]
+Animation 3: Write(VGroup of 2 submobjects):  35%|###5      | 6/17 [00:00<00:00, 12.87it/s]
+Animation 3: Write(VGroup of 2 submobjects):  47%|####7     | 8/17 [00:00<00:00, 14.06it/s]
+Animation 3: Write(VGroup of 2 submobjects):  65%|######4   | 11/17 [00:00<00:00, 12.98it/s]
+Animation 3: Write(VGroup of 2 submobjects):  76%|#######6  | 13/17 [00:01<00:00,  8.38it/s]
+Animation 3: Write(VGroup of 2 submobjects):  88%|########8 | 15/17 [00:01<00:00,  7.65it/s]
+Animation 3: Write(VGroup of 2 submobjects):  94%|#########4| 16/17 [00:01<00:00,  6.19it/s]
+                                                                                            
+[10/14/25 19:22:56] INFO     Animation 3 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\0c109c12\videos                         
+                             \achilles_paradox\480p15\                         
+                             partial_movie_files\Achil                         
+                             lesParadoxScene\uncached_                         
+                             00003.mp4'                                        
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 4: Create(Line), etc.:   0%|          | 0/14 [00:00<?, ?it/s]
+Animation 4: Create(Line), etc.:  14%|#4        | 2/14 [00:00<00:00, 16.73it/s]
+Animation 4: Create(Line), etc.:  29%|##8       | 4/14 [00:00<00:00, 16.98it/s]
+Animation 4: Create(Line), etc.:  50%|#####     | 7/14 [00:00<00:00, 20.09it/s]
+Animation 4: Create(Line), etc.:  64%|######4   | 9/14 [00:00<00:00, 19.47it/s]
+Animation 4: Create(Line), etc.:  79%|#######8  | 11/14 [00:00<00:00, 15.16it/s]
+Animation 4: Create(Line), etc.:  93%|#########2| 13/14 [00:01<00:00,  5.24it/s]
+                                                                                
+[10/14/25 19:22:59] INFO     Animation 4 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\0c109c12\videos                         
+                             \achilles_paradox\480p15\                         
+                             partial_movie_files\Achil                         
+                             lesParadoxScene\uncached_                         
+                             00004.mp4'                                        
+                    INFO     Caching disabled.             cairo_renderer.py:79
+                    INFO     Animation 5 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\0c109c12\videos                         
+                             \achilles_paradox\480p15\                         
+                             partial_movie_files\Achil                         
+                             lesParadoxScene\uncached_                         
+                             00005.mp4'                                        
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 6: Create(Line), etc.:   0%|          | 0/120 [00:00<?, ?it/s]
+Animation 6: Create(Line), etc.:   2%|1         | 2/120 [00:00<00:10, 11.72it/s]
+Animation 6: Create(Line), etc.:   4%|4         | 5/120 [00:00<00:06, 17.47it/s]
+Animation 6: Create(Line), etc.:   7%|6         | 8/120 [00:00<00:06, 16.36it/s]
+Animation 6: Create(Line), etc.:   8%|8         | 10/120 [00:00<00:06, 16.76it/s]
+Animation 6: Create(Line), etc.:  10%|#         | 12/120 [00:00<00:06, 17.37it/s]
+Animation 6: Create(Line), etc.:  12%|#1        | 14/120 [00:00<00:06, 16.52it/s]
+Animation 6: Create(Line), etc.:  14%|#4        | 17/120 [00:01<00:05, 17.27it/s]
+Animation 6: Create(Line), etc.:  17%|#6        | 20/120 [00:01<00:05, 19.23it/s]
+Animation 6: Create(Line), etc.:  19%|#9        | 23/120 [00:01<00:04, 20.58it/s]
+Animation 6: Create(Line), etc.:  22%|##1       | 26/120 [00:01<00:04, 22.22it/s]
+Animation 6: Create(Line), etc.:  24%|##4       | 29/120 [00:01<00:05, 16.53it/s]
+Animation 6: Create(Line), etc.:  26%|##5       | 31/120 [00:01<00:05, 14.90it/s]
+Animation 6: Create(Line), etc.:  28%|##7       | 33/120 [00:02<00:06, 12.64it/s]
+Animation 6: Create(Line), etc.:  29%|##9       | 35/120 [00:02<00:07, 10.71it/s]
+Animation 6: Create(Line), etc.:  31%|###       | 37/120 [00:02<00:09,  8.69it/s]
+Animation 6: Create(Line), etc.:  32%|###2      | 39/120 [00:03<00:11,  6.82it/s]
+Animation 6: Create(Line), etc.:  33%|###3      | 40/120 [00:03<00:13,  5.80it/s]
+Animation 6: Create(Line), etc.:  34%|###4      | 41/120 [00:03<00:14,  5.46it/s]
+Animation 6: Create(Line), etc.:  36%|###5      | 43/120 [00:03<00:10,  7.03it/s]
+Animation 6: Create(Line), etc.:  37%|###6      | 44/120 [00:03<00:11,  6.49it/s]
+Animation 6: Create(Line), etc.:  38%|###7      | 45/120 [00:04<00:11,  6.40it/s]
+Animation 6: Create(Line), etc.:  38%|###8      | 46/120 [00:04<00:10,  7.01it/s]
+Animation 6: Create(Line), etc.:  39%|###9      | 47/120 [00:04<00:09,  7.48it/s]
+Animation 6: Create(Line), etc.:  40%|####      | 48/120 [00:04<00:10,  6.71it/s]
+Animation 6: Create(Line), etc.:  41%|####      | 49/120 [00:04<00:10,  6.66it/s]
+Animation 6: Create(Line), etc.:  42%|####1     | 50/120 [00:04<00:09,  7.12it/s]
+Animation 6: Create(Line), etc.:  42%|####2     | 51/120 [00:04<00:09,  7.04it/s]
+Animation 6: Create(Line), etc.:  43%|####3     | 52/120 [00:05<00:09,  6.98it/s]
+Animation 6: Create(Line), etc.:  45%|####5     | 54/120 [00:05<00:07,  9.12it/s]
+Animation 6: Create(Line), etc.:  46%|####5     | 55/120 [00:05<00:07,  9.12it/s]
+Animation 6: Create(Line), etc.:  48%|####7     | 57/120 [00:05<00:06,  9.14it/s]
+Animation 6: Create(Line), etc.:  49%|####9     | 59/120 [00:05<00:05, 10.48it/s]
+Animation 6: Create(Line), etc.:  51%|#####     | 61/120 [00:06<00:07,  8.09it/s]
+Animation 6: Create(Line), etc.:  52%|#####1    | 62/120 [00:06<00:07,  7.44it/s]
+Animation 6: Create(Line), etc.:  52%|#####2    | 63/120 [00:06<00:07,  7.15it/s]
+Animation 6: Create(Line), etc.:  53%|#####3    | 64/120 [00:06<00:07,  7.62it/s]
+Animation 6: Create(Line), etc.:  54%|#####4    | 65/120 [00:06<00:06,  7.90it/s]
+Animation 6: Create(Line), etc.:  56%|#####5    | 67/120 [00:06<00:05,  9.34it/s]
+Animation 6: Create(Line), etc.:  57%|#####7    | 69/120 [00:06<00:04, 11.61it/s]
+Animation 6: Create(Line), etc.:  59%|#####9    | 71/120 [00:07<00:06,  8.16it/s]
+Animation 6: Create(Line), etc.:  61%|######    | 73/120 [00:07<00:06,  6.87it/s]
+Animation 6: Create(Line), etc.:  62%|######1   | 74/120 [00:08<00:09,  4.84it/s]
+Animation 6: Create(Line), etc.:  62%|######2   | 75/120 [00:08<00:08,  5.43it/s]
+Animation 6: Create(Line), etc.:  63%|######3   | 76/120 [00:08<00:08,  5.10it/s]
+Animation 6: Create(Line), etc.:  64%|######4   | 77/120 [00:08<00:11,  3.62it/s]
+Animation 6: Create(Line), etc.:  65%|######5   | 78/120 [00:09<00:11,  3.59it/s]
+Animation 6: Create(Line), etc.:  66%|######5   | 79/120 [00:10<00:19,  2.10it/s]
+Animation 6: Create(Line), etc.:  67%|######6   | 80/120 [00:11<00:23,  1.68it/s]
+Animation 6: Create(Line), etc.:  68%|######7   | 81/120 [00:12<00:27,  1.43it/s]
+Animation 6: Create(Line), etc.:  68%|######8   | 82/120 [00:12<00:21,  1.73it/s]
+Animation 6: Create(Line), etc.:  70%|#######   | 84/120 [00:12<00:12,  2.81it/s]
+Animation 6: Create(Line), etc.:  72%|#######1  | 86/120 [00:12<00:08,  4.05it/s]
+Animation 6: Create(Line), etc.:  73%|#######3  | 88/120 [00:12<00:05,  5.61it/s]
+Animation 6: Create(Line), etc.:  75%|#######5  | 90/120 [00:13<00:04,  6.87it/s]
+Animation 6: Create(Line), etc.:  77%|#######6  | 92/120 [00:13<00:03,  8.04it/s]
+Animation 6: Create(Line), etc.:  78%|#######8  | 94/120 [00:13<00:03,  8.40it/s]
+Animation 6: Create(Line), etc.:  80%|########  | 96/120 [00:13<00:02, 10.16it/s]
+Animation 6: Create(Line), etc.:  82%|########1 | 98/120 [00:13<00:01, 11.52it/s]
+Animation 6: Create(Line), etc.:  83%|########3 | 100/120 [00:13<00:01, 10.63it/s]
+Animation 6: Create(Line), etc.:  85%|########5 | 102/120 [00:13<00:01, 11.84it/s]
+Animation 6: Create(Line), etc.:  87%|########6 | 104/120 [00:14<00:01, 12.53it/s]
+Animation 6: Create(Line), etc.:  88%|########8 | 106/120 [00:14<00:01, 12.86it/s]
+Animation 6: Create(Line), etc.:  90%|######### | 108/120 [00:14<00:01,  7.17it/s]
+Animation 6: Create(Line), etc.:  92%|#########1| 110/120 [00:14<00:01,  8.08it/s]
+Animation 6: Create(Line), etc.:  93%|#########3| 112/120 [00:15<00:00,  9.01it/s]
+Animation 6: Create(Line), etc.:  96%|#########5| 115/120 [00:15<00:00, 11.52it/s]
+Animation 6: Create(Line), etc.:  98%|#########8| 118/120 [00:15<00:00, 13.13it/s]
+Animation 6: Create(Line), etc.: 100%|##########| 120/120 [00:15<00:00, 14.23it/s]
+                                                                                  
+[10/14/25 19:23:15] INFO     Animation 6 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\0c109c12\videos                         
+                             \achilles_paradox\480p15\                         
+                             partial_movie_files\Achil                         
+                             lesParadoxScene\uncached_                         
+                             00006.mp4'                                        
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 7: Create(Line), etc.:   0%|          | 0/60 [00:00<?, ?it/s]
+Animation 7: Create(Line), etc.:   2%|1         | 1/60 [00:00<00:10,  5.68it/s]
+Animation 7: Create(Line), etc.:   3%|3         | 2/60 [00:00<00:08,  7.21it/s]
+Animation 7: Create(Line), etc.:   7%|6         | 4/60 [00:00<00:05, 11.10it/s]
+Animation 7: Create(Line), etc.:  10%|#         | 6/60 [00:00<00:04, 12.69it/s]
+Animation 7: Create(Line), etc.:  13%|#3        | 8/60 [00:00<00:05,  9.59it/s]
+Animation 7: Create(Line), etc.:  17%|#6        | 10/60 [00:01<00:05,  9.94it/s]
+Animation 7: Create(Line), etc.:  20%|##        | 12/60 [00:01<00:05,  8.16it/s]
+Animation 7: Create(Line), etc.:  22%|##1       | 13/60 [00:01<00:06,  7.35it/s]
+Animation 7: Create(Line), etc.:  23%|##3       | 14/60 [00:01<00:06,  7.44it/s]
+Animation 7: Create(Line), etc.:  27%|##6       | 16/60 [00:01<00:05,  8.63it/s]
+Animation 7: Create(Line), etc.:  30%|###       | 18/60 [00:01<00:04, 10.09it/s]
+Animation 7: Create(Line), etc.:  33%|###3      | 20/60 [00:02<00:03, 10.57it/s]
+Animation 7: Create(Line), etc.:  37%|###6      | 22/60 [00:02<00:03, 10.17it/s]
+Animation 7: Create(Line), etc.:  40%|####      | 24/60 [00:02<00:04,  7.75it/s]
+Animation 7: Create(Line), etc.:  42%|####1     | 25/60 [00:02<00:04,  8.00it/s]
+Animation 7: Create(Line), etc.:  43%|####3     | 26/60 [00:02<00:04,  8.33it/s]
+Animation 7: Create(Line), etc.:  47%|####6     | 28/60 [00:03<00:04,  7.52it/s]
+Animation 7: Create(Line), etc.:  48%|####8     | 29/60 [00:03<00:03,  7.84it/s]
+Animation 7: Create(Line), etc.:  53%|#####3    | 32/60 [00:03<00:02, 11.62it/s]
+Animation 7: Create(Line), etc.:  58%|#####8    | 35/60 [00:03<00:01, 14.48it/s]
+Animation 7: Create(Line), etc.:  62%|######1   | 37/60 [00:03<00:01, 14.44it/s]
+Animation 7: Create(Line), etc.:  68%|######8   | 41/60 [00:03<00:01, 18.63it/s]
+Animation 7: Create(Line), etc.:  72%|#######1  | 43/60 [00:04<00:00, 18.57it/s]
+Animation 7: Create(Line), etc.:  77%|#######6  | 46/60 [00:04<00:00, 20.20it/s]
+Animation 7: Create(Line), etc.:  82%|########1 | 49/60 [00:04<00:00, 21.21it/s]
+Animation 7: Create(Line), etc.:  87%|########6 | 52/60 [00:04<00:00, 21.71it/s]
+Animation 7: Create(Line), etc.:  92%|#########1| 55/60 [00:04<00:00, 22.18it/s]
+Animation 7: Create(Line), etc.:  97%|#########6| 58/60 [00:04<00:00, 23.35it/s]
+                                                                                
+[10/14/25 19:23:20] INFO     Animation 7 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\0c109c12\videos                         
+                             \achilles_paradox\480p15\                         
+                             partial_movie_files\Achil                         
+                             lesParadoxScene\uncached_                         
+                             00007.mp4'                                        
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 8: Create(Line), etc.:   0%|          | 0/30 [00:00<?, ?it/s]
+Animation 8: Create(Line), etc.:  10%|#         | 3/30 [00:00<00:01, 26.02it/s]
+Animation 8: Create(Line), etc.:  20%|##        | 6/30 [00:00<00:00, 27.23it/s]
+Animation 8: Create(Line), etc.:  30%|###       | 9/30 [00:00<00:00, 27.13it/s]
+Animation 8: Create(Line), etc.:  40%|####      | 12/30 [00:00<00:00, 27.41it/s]
+Animation 8: Create(Line), etc.:  50%|#####     | 15/30 [00:00<00:00, 27.80it/s]
+Animation 8: Create(Line), etc.:  60%|######    | 18/30 [00:00<00:00, 28.31it/s]
+Animation 8: Create(Line), etc.:  70%|#######   | 21/30 [00:00<00:00, 28.51it/s]
+Animation 8: Create(Line), etc.:  80%|########  | 24/30 [00:00<00:00, 27.76it/s]
+Animation 8: Create(Line), etc.:  90%|######### | 27/30 [00:00<00:00, 26.80it/s]
+Animation 8: Create(Line), etc.: 100%|##########| 30/30 [00:01<00:00, 24.00it/s]
+                                                                                
+[10/14/25 19:23:21] INFO     Animation 8 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\0c109c12\videos                         
+                             \achilles_paradox\480p15\                         
+                             partial_movie_files\Achil                         
+                             lesParadoxScene\uncached_                         
+                             00008.mp4'                                        
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 9: Create(Line), etc.:   0%|          | 0/15 [00:00<?, ?it/s]
+Animation 9: Create(Line), etc.:  20%|##        | 3/15 [00:00<00:00, 24.50it/s]
+Animation 9: Create(Line), etc.:  40%|####      | 6/15 [00:00<00:00, 24.26it/s]
+Animation 9: Create(Line), etc.:  60%|######    | 9/15 [00:00<00:00, 20.68it/s]
+Animation 9: Create(Line), etc.:  80%|########  | 12/15 [00:00<00:00, 18.62it/s]
+Animation 9: Create(Line), etc.:  93%|#########3| 14/15 [00:00<00:00, 18.12it/s]
+                                                                                
+[10/14/25 19:23:22] INFO     Animation 9 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\0c109c12\videos                         
+                             \achilles_paradox\480p15\                         
+                             partial_movie_files\Achil                         
+                             lesParadoxScene\uncached_                         
+                             00009.mp4'                                        
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 10: Create(Line), etc.:   0%|          | 0/8 [00:00<?, ?it/s]
+Animation 10: Create(Line), etc.:  38%|###7      | 3/8 [00:00<00:00, 22.07it/s]
+Animation 10: Create(Line), etc.:  75%|#######5  | 6/8 [00:00<00:00, 23.71it/s]
+                                                                               
+[10/14/25 19:23:23] INFO     Animation 10 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\0c109c12\videos                         
+                             \achilles_paradox\480p15\                         
+                             partial_movie_files\Achil                         
+                             lesParadoxScene\uncached_                         
+                             00010.mp4'                                        
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 11: Create(Line), etc.:   0%|          | 0/4 [00:00<?, ?it/s]
+Animation 11: Create(Line), etc.:  50%|#####     | 2/4 [00:00<00:00, 11.94it/s]
+Animation 11: Create(Line), etc.: 100%|##########| 4/4 [00:00<00:00, 12.30it/s]
+                                                                               
+[10/14/25 19:23:24] INFO     Animation 11 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\0c109c12\videos                         
+                             \achilles_paradox\480p15\                         
+                             partial_movie_files\Achil                         
+                             lesParadoxScene\uncached_                         
+                             00011.mp4'                                        
+                    INFO     Writing r = v_T / v_A =    tex_file_writing.py:111
+                             1/2 to                                            
+                             Tex\570e1457373206de.tex                          
+latex: security risk: running with elevated privileges
+latex: major issue: So far, you have not checked for MiKTeX updates.
+dvisvgm: security risk: running with elevated privileges
+[10/14/25 19:23:27] INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 12: FadeIn(VGroup of 2 submobjects):   0%|          | 0/18 [00:00<?, ?it/s]
+Animation 12: FadeIn(VGroup of 2 submobjects):   6%|5         | 1/18 [00:00<00:05,  3.36it/s]
+Animation 12: FadeIn(VGroup of 2 submobjects):  11%|#1        | 2/18 [00:00<00:03,  4.09it/s]
+Animation 12: FadeIn(VGroup of 2 submobjects):  17%|#6        | 3/18 [00:00<00:02,  5.07it/s]
+Animation 12: FadeIn(VGroup of 2 submobjects):  22%|##2       | 4/18 [00:00<00:03,  4.62it/s]
+Animation 12: FadeIn(VGroup of 2 submobjects):  28%|##7       | 5/18 [00:01<00:02,  4.94it/s]
+Animation 12: FadeIn(VGroup of 2 submobjects):  33%|###3      | 6/18 [00:01<00:02,  5.29it/s]
+Animation 12: FadeIn(VGroup of 2 submobjects):  39%|###8      | 7/18 [00:01<00:02,  5.20it/s]
+Animation 12: FadeIn(VGroup of 2 submobjects):  44%|####4     | 8/18 [00:01<00:01,  5.25it/s]
+Animation 12: FadeIn(VGroup of 2 submobjects):  50%|#####     | 9/18 [00:01<00:01,  5.35it/s]
+Animation 12: FadeIn(VGroup of 2 submobjects):  56%|#####5    | 10/18 [00:01<00:01,  5.55it/s]
+Animation 12: FadeIn(VGroup of 2 submobjects):  61%|######1   | 11/18 [00:02<00:01,  5.94it/s]
+Animation 12: FadeIn(VGroup of 2 submobjects):  72%|#######2  | 13/18 [00:02<00:00,  6.05it/s]
+Animation 12: FadeIn(VGroup of 2 submobjects):  83%|########3 | 15/18 [00:02<00:00,  7.68it/s]
+Animation 12: FadeIn(VGroup of 2 submobjects):  89%|########8 | 16/18 [00:02<00:00,  7.02it/s]
+Animation 12: FadeIn(VGroup of 2 submobjects):  94%|#########4| 17/18 [00:02<00:00,  7.15it/s]
+Animation 12: FadeIn(VGroup of 2 submobjects): 100%|##########| 18/18 [00:03<00:00,  7.24it/s]
+                                                                                              
+[10/14/25 19:23:31] INFO     Animation 12 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\0c109c12\videos                         
+                             \achilles_paradox\480p15\                         
+                             partial_movie_files\Achil                         
+                             lesParadoxScene\uncached_                         
+                             00012.mp4'                                        
+                    INFO     Caching disabled.             cairo_renderer.py:79
+[10/14/25 19:23:32] INFO     Animation 13 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\0c109c12\videos                         
+                             \achilles_paradox\480p15\                         
+                             partial_movie_files\Achil                         
+                             lesParadoxScene\uncached_                         
+                             00013.mp4'                                        
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 14: _MethodAnimation(VGroup of 8 submobjects):   0%|          | 0/45 [00:00<?, ?it/s]
+Animation 14: _MethodAnimation(VGroup of 8 submobjects):   7%|6         | 3/45 [00:00<00:01, 24.28it/s]
+Animation 14: _MethodAnimation(VGroup of 8 submobjects):  13%|#3        | 6/45 [00:00<00:01, 20.42it/s]
+Animation 14: _MethodAnimation(VGroup of 8 submobjects):  20%|##        | 9/45 [00:00<00:01, 20.77it/s]
+Animation 14: _MethodAnimation(VGroup of 8 submobjects):  27%|##6       | 12/45 [00:00<00:01, 21.93it/s]
+Animation 14: _MethodAnimation(VGroup of 8 submobjects):  33%|###3      | 15/45 [00:00<00:01, 22.29it/s]
+Animation 14: _MethodAnimation(VGroup of 8 submobjects):  40%|####      | 18/45 [00:00<00:01, 21.92it/s]
+Animation 14: _MethodAnimation(VGroup of 8 submobjects):  47%|####6     | 21/45 [00:01<00:01, 17.41it/s]
+Animation 14: _MethodAnimation(VGroup of 8 submobjects):  51%|#####1    | 23/45 [00:01<00:01, 13.41it/s]
+Animation 14: _MethodAnimation(VGroup of 8 submobjects):  56%|#####5    | 25/45 [00:01<00:01, 12.37it/s]
+Animation 14: _MethodAnimation(VGroup of 8 submobjects):  60%|######    | 27/45 [00:01<00:01, 12.87it/s]
+Animation 14: _MethodAnimation(VGroup of 8 submobjects):  64%|######4   | 29/45 [00:01<00:01, 11.54it/s]
+Animation 14: _MethodAnimation(VGroup of 8 submobjects):  69%|######8   | 31/45 [00:02<00:01,  9.85it/s]
+Animation 14: _MethodAnimation(VGroup of 8 submobjects):  73%|#######3  | 33/45 [00:02<00:01,  9.63it/s]
+Animation 14: _MethodAnimation(VGroup of 8 submobjects):  78%|#######7  | 35/45 [00:02<00:01,  9.42it/s]
+Animation 14: _MethodAnimation(VGroup of 8 submobjects):  82%|########2 | 37/45 [00:02<00:00, 11.00it/s]
+Animation 14: _MethodAnimation(VGroup of 8 submobjects):  87%|########6 | 39/45 [00:02<00:00, 11.01it/s]
+Animation 14: _MethodAnimation(VGroup of 8 submobjects):  91%|#########1| 41/45 [00:03<00:00, 11.18it/s]
+Animation 14: _MethodAnimation(VGroup of 8 submobjects):  96%|#########5| 43/45 [00:03<00:00, 10.22it/s]
+Animation 14: _MethodAnimation(VGroup of 8 submobjects): 100%|##########| 45/45 [00:03<00:00, 10.15it/s]
+                                                                                                        
+[10/14/25 19:23:37] INFO     Animation 14 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\0c109c12\videos                         
+                             \achilles_paradox\480p15\                         
+                             partial_movie_files\Achil                         
+                             lesParadoxScene\uncached_                         
+                             00014.mp4'                                        
+                    INFO     Writing t to               tex_file_writing.py:111
+                             Tex\4ebf07b87aaadaf5.tex                          
+latex: security risk: running with elevated privileges
+latex: major issue: So far, you have not checked for MiKTeX updates.
+dvisvgm: security risk: running with elevated privileges
+[10/14/25 19:23:40] INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 15: Create(Axes of 2 submobjects), etc.:   0%|          | 0/18 [00:00<?, ?it/s]
+Animation 15: Create(Axes of 2 submobjects), etc.:  11%|#1        | 2/18 [00:00<00:01, 13.39it/s]
+Animation 15: Create(Axes of 2 submobjects), etc.:  22%|##2       | 4/18 [00:00<00:01, 12.45it/s]
+Animation 15: Create(Axes of 2 submobjects), etc.:  33%|###3      | 6/18 [00:00<00:01,  8.71it/s]
+Animation 15: Create(Axes of 2 submobjects), etc.:  44%|####4     | 8/18 [00:00<00:01,  9.66it/s]
+Animation 15: Create(Axes of 2 submobjects), etc.:  56%|#####5    | 10/18 [00:00<00:00, 10.52it/s]
+Animation 15: Create(Axes of 2 submobjects), etc.:  67%|######6   | 12/18 [00:01<00:00, 11.35it/s]
+Animation 15: Create(Axes of 2 submobjects), etc.:  78%|#######7  | 14/18 [00:01<00:00, 11.70it/s]
+Animation 15: Create(Axes of 2 submobjects), etc.:  89%|########8 | 16/18 [00:01<00:00, 10.78it/s]
+Animation 15: Create(Axes of 2 submobjects), etc.: 100%|##########| 18/18 [00:01<00:00, 10.66it/s]
+                                                                                                  
+[10/14/25 19:23:42] INFO     Animation 15 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\0c109c12\videos                         
+                             \achilles_paradox\480p15\                         
+                             partial_movie_files\Achil                         
+                             lesParadoxScene\uncached_                         
+                             00015.mp4'                                        
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 16: Create(ParametricFunction), etc.:   0%|          | 0/20 [00:00<?, ?it/s]
+Animation 16: Create(ParametricFunction), etc.:  10%|#         | 2/20 [00:00<00:01, 11.96it/s]
+Animation 16: Create(ParametricFunction), etc.:  20%|##        | 4/20 [00:00<00:01, 13.58it/s]
+Animation 16: Create(ParametricFunction), etc.:  30%|###       | 6/20 [00:00<00:01, 12.64it/s]
+Animation 16: Create(ParametricFunction), etc.:  40%|####      | 8/20 [00:00<00:00, 13.67it/s]
+Animation 16: Create(ParametricFunction), etc.:  50%|#####     | 10/20 [00:00<00:00, 15.18it/s]
+Animation 16: Create(ParametricFunction), etc.:  65%|######5   | 13/20 [00:00<00:00, 19.26it/s]
+Animation 16: Create(ParametricFunction), etc.:  80%|########  | 16/20 [00:00<00:00, 20.38it/s]
+Animation 16: Create(ParametricFunction), etc.:  95%|#########5| 19/20 [00:01<00:00, 20.88it/s]
+                                                                                               
+[10/14/25 19:23:44] INFO     Animation 16 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\0c109c12\videos                         
+                             \achilles_paradox\480p15\                         
+                             partial_movie_files\Achil                         
+                             lesParadoxScene\uncached_                         
+                             00016.mp4'                                        
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 17: _MethodAnimation(ValueTracker):   0%|          | 0/240 [00:00<?, ?it/s]
+Animation 17: _MethodAnimation(ValueTracker):   1%|          | 2/240 [00:00<00:21, 10.98it/s]
+Animation 17: _MethodAnimation(ValueTracker):   2%|1         | 4/240 [00:00<00:20, 11.39it/s]
+Animation 17: _MethodAnimation(ValueTracker):   2%|2         | 6/240 [00:00<00:38,  6.05it/s]
+Animation 17: _MethodAnimation(ValueTracker):   3%|3         | 8/240 [00:01<00:29,  7.88it/s]
+Animation 17: _MethodAnimation(ValueTracker):   4%|4         | 10/240 [00:01<00:22, 10.01it/s]
+Animation 17: _MethodAnimation(ValueTracker):   5%|5         | 12/240 [00:01<00:21, 10.76it/s]
+Animation 17: _MethodAnimation(ValueTracker):   6%|5         | 14/240 [00:01<00:23,  9.63it/s]
+Animation 17: _MethodAnimation(ValueTracker):   7%|6         | 16/240 [00:01<00:25,  8.95it/s]
+Animation 17: _MethodAnimation(ValueTracker):   8%|7         | 18/240 [00:02<00:25,  8.87it/s]
+Animation 17: _MethodAnimation(ValueTracker):   8%|7         | 19/240 [00:02<00:26,  8.38it/s]
+Animation 17: _MethodAnimation(ValueTracker):   8%|8         | 20/240 [00:02<00:27,  8.06it/s]
+Animation 17: _MethodAnimation(ValueTracker):   9%|8         | 21/240 [00:02<00:31,  6.93it/s]
+Animation 17: _MethodAnimation(ValueTracker):   9%|9         | 22/240 [00:02<00:30,  7.24it/s]
+Animation 17: _MethodAnimation(ValueTracker):  10%|9         | 23/240 [00:02<00:30,  7.13it/s]
+Animation 17: _MethodAnimation(ValueTracker):  10%|#         | 24/240 [00:02<00:30,  6.99it/s]
+Animation 17: _MethodAnimation(ValueTracker):  11%|#         | 26/240 [00:03<00:29,  7.30it/s]
+Animation 17: _MethodAnimation(ValueTracker):  12%|#1        | 28/240 [00:03<00:27,  7.81it/s]
+Animation 17: _MethodAnimation(ValueTracker):  12%|#2        | 29/240 [00:03<00:27,  7.80it/s]
+Animation 17: _MethodAnimation(ValueTracker):  12%|#2        | 30/240 [00:03<00:25,  8.18it/s]
+Animation 17: _MethodAnimation(ValueTracker):  13%|#2        | 31/240 [00:03<00:25,  8.04it/s]
+Animation 17: _MethodAnimation(ValueTracker):  14%|#3        | 33/240 [00:03<00:24,  8.56it/s]
+Animation 17: _MethodAnimation(ValueTracker):  14%|#4        | 34/240 [00:04<00:24,  8.47it/s]
+Animation 17: _MethodAnimation(ValueTracker):  15%|#4        | 35/240 [00:04<00:24,  8.48it/s]
+Animation 17: _MethodAnimation(ValueTracker):  15%|#5        | 36/240 [00:04<00:25,  7.88it/s]
+Animation 17: _MethodAnimation(ValueTracker):  16%|#5        | 38/240 [00:04<00:23,  8.50it/s]
+Animation 17: _MethodAnimation(ValueTracker):  16%|#6        | 39/240 [00:04<00:26,  7.49it/s]
+Animation 17: _MethodAnimation(ValueTracker):  17%|#6        | 40/240 [00:04<00:27,  7.32it/s]
+Animation 17: _MethodAnimation(ValueTracker):  17%|#7        | 41/240 [00:05<00:25,  7.86it/s]
+Animation 17: _MethodAnimation(ValueTracker):  18%|#7        | 42/240 [00:05<00:25,  7.79it/s]
+Animation 17: _MethodAnimation(ValueTracker):  18%|#7        | 43/240 [00:05<00:27,  7.12it/s]
+Animation 17: _MethodAnimation(ValueTracker):  18%|#8        | 44/240 [00:05<00:27,  7.13it/s]
+Animation 17: _MethodAnimation(ValueTracker):  19%|#8        | 45/240 [00:05<00:26,  7.31it/s]
+Animation 17: _MethodAnimation(ValueTracker):  19%|#9        | 46/240 [00:05<00:25,  7.68it/s]
+Animation 17: _MethodAnimation(ValueTracker):  20%|#9        | 47/240 [00:05<00:26,  7.36it/s]
+Animation 17: _MethodAnimation(ValueTracker):  20%|##        | 48/240 [00:05<00:24,  7.75it/s]
+Animation 17: _MethodAnimation(ValueTracker):  20%|##        | 49/240 [00:06<00:24,  7.81it/s]
+Animation 17: _MethodAnimation(ValueTracker):  21%|##        | 50/240 [00:06<00:25,  7.59it/s]
+Animation 17: _MethodAnimation(ValueTracker):  21%|##1       | 51/240 [00:06<00:26,  7.06it/s]
+Animation 17: _MethodAnimation(ValueTracker):  22%|##1       | 52/240 [00:06<00:26,  7.00it/s]
+Animation 17: _MethodAnimation(ValueTracker):  22%|##2       | 53/240 [00:06<00:25,  7.45it/s]
+Animation 17: _MethodAnimation(ValueTracker):  22%|##2       | 54/240 [00:06<00:23,  7.76it/s]
+Animation 17: _MethodAnimation(ValueTracker):  23%|##3       | 56/240 [00:06<00:20,  9.05it/s]
+Animation 17: _MethodAnimation(ValueTracker):  24%|##3       | 57/240 [00:07<00:21,  8.69it/s]
+Animation 17: _MethodAnimation(ValueTracker):  24%|##4       | 58/240 [00:07<00:20,  8.67it/s]
+Animation 17: _MethodAnimation(ValueTracker):  25%|##4       | 59/240 [00:08<00:55,  3.28it/s]
+Animation 17: _MethodAnimation(ValueTracker):  25%|##5       | 60/240 [00:08<00:48,  3.73it/s]
+Animation 17: _MethodAnimation(ValueTracker):  25%|##5       | 61/240 [00:08<00:42,  4.23it/s]
+Animation 17: _MethodAnimation(ValueTracker):  26%|##5       | 62/240 [00:08<00:41,  4.30it/s]
+Animation 17: _MethodAnimation(ValueTracker):  26%|##6       | 63/240 [00:08<00:36,  4.80it/s]
+Animation 17: _MethodAnimation(ValueTracker):  27%|##6       | 64/240 [00:08<00:31,  5.58it/s]
+Animation 17: _MethodAnimation(ValueTracker):  27%|##7       | 65/240 [00:09<00:51,  3.37it/s]
+Animation 17: _MethodAnimation(ValueTracker):  28%|##7       | 66/240 [00:09<00:50,  3.42it/s]
+Animation 17: _MethodAnimation(ValueTracker):  28%|##7       | 67/240 [00:09<00:44,  3.86it/s]
+Animation 17: _MethodAnimation(ValueTracker):  28%|##8       | 68/240 [00:10<00:48,  3.55it/s]
+Animation 17: _MethodAnimation(ValueTracker):  29%|##8       | 69/240 [00:10<00:38,  4.39it/s]
+Animation 17: _MethodAnimation(ValueTracker):  29%|##9       | 70/240 [00:10<00:33,  5.03it/s]
+Animation 17: _MethodAnimation(ValueTracker):  30%|##9       | 71/240 [00:10<00:33,  5.03it/s]
+Animation 17: _MethodAnimation(ValueTracker):  30%|###       | 72/240 [00:10<00:34,  4.94it/s]
+Animation 17: _MethodAnimation(ValueTracker):  30%|###       | 73/240 [00:11<00:33,  4.95it/s]
+Animation 17: _MethodAnimation(ValueTracker):  31%|###       | 74/240 [00:11<00:32,  5.08it/s]
+Animation 17: _MethodAnimation(ValueTracker):  31%|###1      | 75/240 [00:11<00:30,  5.37it/s]
+Animation 17: _MethodAnimation(ValueTracker):  32%|###1      | 76/240 [00:11<00:29,  5.57it/s]
+Animation 17: _MethodAnimation(ValueTracker):  32%|###2      | 77/240 [00:11<00:27,  5.87it/s]
+Animation 17: _MethodAnimation(ValueTracker):  32%|###2      | 78/240 [00:11<00:26,  6.14it/s]
+Animation 17: _MethodAnimation(ValueTracker):  33%|###2      | 79/240 [00:11<00:23,  6.72it/s]
+Animation 17: _MethodAnimation(ValueTracker):  34%|###3      | 81/240 [00:12<00:21,  7.50it/s]
+Animation 17: _MethodAnimation(ValueTracker):  34%|###4      | 82/240 [00:12<00:23,  6.85it/s]
+Animation 17: _MethodAnimation(ValueTracker):  35%|###4      | 83/240 [00:12<00:25,  6.21it/s]
+Animation 17: _MethodAnimation(ValueTracker):  35%|###5      | 84/240 [00:12<00:25,  6.15it/s]
+Animation 17: _MethodAnimation(ValueTracker):  35%|###5      | 85/240 [00:12<00:22,  6.75it/s]
+Animation 17: _MethodAnimation(ValueTracker):  36%|###5      | 86/240 [00:13<00:25,  6.16it/s]
+Animation 17: _MethodAnimation(ValueTracker):  37%|###6      | 88/240 [00:13<00:22,  6.72it/s]
+Animation 17: _MethodAnimation(ValueTracker):  37%|###7      | 89/240 [00:13<00:22,  6.85it/s]
+Animation 17: _MethodAnimation(ValueTracker):  38%|###7      | 91/240 [00:13<00:19,  7.53it/s]
+Animation 17: _MethodAnimation(ValueTracker):  38%|###8      | 92/240 [00:13<00:22,  6.45it/s]
+Animation 17: _MethodAnimation(ValueTracker):  39%|###8      | 93/240 [00:14<00:23,  6.20it/s]
+Animation 17: _MethodAnimation(ValueTracker):  39%|###9      | 94/240 [00:14<00:22,  6.44it/s]
+Animation 17: _MethodAnimation(ValueTracker):  40%|###9      | 95/240 [00:14<00:21,  6.63it/s]
+Animation 17: _MethodAnimation(ValueTracker):  40%|####      | 96/240 [00:14<00:20,  7.15it/s]
+Animation 17: _MethodAnimation(ValueTracker):  41%|####      | 98/240 [00:14<00:17,  8.06it/s]
+Animation 17: _MethodAnimation(ValueTracker):  41%|####1     | 99/240 [00:14<00:20,  6.89it/s]
+Animation 17: _MethodAnimation(ValueTracker):  42%|####1     | 100/240 [00:15<00:18,  7.38it/s]
+Animation 17: _MethodAnimation(ValueTracker):  42%|####2     | 101/240 [00:15<00:18,  7.50it/s]
+Animation 17: _MethodAnimation(ValueTracker):  43%|####2     | 103/240 [00:15<00:16,  8.16it/s]
+Animation 17: _MethodAnimation(ValueTracker):  43%|####3     | 104/240 [00:15<00:16,  8.12it/s]
+Animation 17: _MethodAnimation(ValueTracker):  44%|####3     | 105/240 [00:15<00:19,  7.10it/s]
+Animation 17: _MethodAnimation(ValueTracker):  44%|####4     | 106/240 [00:15<00:18,  7.30it/s]
+Animation 17: _MethodAnimation(ValueTracker):  45%|####4     | 107/240 [00:16<00:21,  6.05it/s]
+Animation 17: _MethodAnimation(ValueTracker):  45%|####5     | 108/240 [00:16<00:26,  5.04it/s]
+Animation 17: _MethodAnimation(ValueTracker):  45%|####5     | 109/240 [00:16<00:23,  5.69it/s]
+Animation 17: _MethodAnimation(ValueTracker):  46%|####5     | 110/240 [00:16<00:21,  6.15it/s]
+Animation 17: _MethodAnimation(ValueTracker):  46%|####6     | 111/240 [00:16<00:20,  6.35it/s]
+Animation 17: _MethodAnimation(ValueTracker):  47%|####6     | 112/240 [00:16<00:19,  6.57it/s]
+Animation 17: _MethodAnimation(ValueTracker):  47%|####7     | 113/240 [00:17<00:20,  6.23it/s]
+Animation 17: _MethodAnimation(ValueTracker):  48%|####7     | 114/240 [00:17<00:18,  6.98it/s]
+Animation 17: _MethodAnimation(ValueTracker):  48%|####7     | 115/240 [00:17<00:18,  6.71it/s]
+Animation 17: _MethodAnimation(ValueTracker):  48%|####8     | 116/240 [00:17<00:17,  7.01it/s]
+Animation 17: _MethodAnimation(ValueTracker):  49%|####8     | 117/240 [00:17<00:16,  7.24it/s]
+Animation 17: _MethodAnimation(ValueTracker):  49%|####9     | 118/240 [00:17<00:16,  7.27it/s]
+Animation 17: _MethodAnimation(ValueTracker):  50%|####9     | 119/240 [00:17<00:17,  7.04it/s]
+Animation 17: _MethodAnimation(ValueTracker):  50%|#####     | 121/240 [00:18<00:15,  7.92it/s]
+Animation 17: _MethodAnimation(ValueTracker):  51%|#####1    | 123/240 [00:18<00:14,  7.98it/s]
+Animation 17: _MethodAnimation(ValueTracker):  52%|#####1    | 124/240 [00:18<00:14,  8.21it/s]
+Animation 17: _MethodAnimation(ValueTracker):  52%|#####2    | 125/240 [00:18<00:14,  7.74it/s]
+Animation 17: _MethodAnimation(ValueTracker):  52%|#####2    | 126/240 [00:18<00:15,  7.31it/s]
+Animation 17: _MethodAnimation(ValueTracker):  53%|#####2    | 127/240 [00:19<00:19,  5.82it/s]
+Animation 17: _MethodAnimation(ValueTracker):  54%|#####3    | 129/240 [00:19<00:14,  7.72it/s]
+Animation 17: _MethodAnimation(ValueTracker):  55%|#####4    | 131/240 [00:19<00:12,  8.53it/s]
+Animation 17: _MethodAnimation(ValueTracker):  55%|#####5    | 133/240 [00:19<00:11,  9.69it/s]
+Animation 17: _MethodAnimation(ValueTracker):  56%|#####6    | 135/240 [00:19<00:09, 10.84it/s]
+Animation 17: _MethodAnimation(ValueTracker):  57%|#####7    | 137/240 [00:19<00:10,  9.38it/s]
+Animation 17: _MethodAnimation(ValueTracker):  58%|#####7    | 139/240 [00:20<00:19,  5.19it/s]
+Animation 17: _MethodAnimation(ValueTracker):  58%|#####8    | 140/240 [00:20<00:19,  5.18it/s]
+Animation 17: _MethodAnimation(ValueTracker):  59%|#####8    | 141/240 [00:21<00:23,  4.25it/s]
+Animation 17: _MethodAnimation(ValueTracker):  59%|#####9    | 142/240 [00:21<00:20,  4.73it/s]
+Animation 17: _MethodAnimation(ValueTracker):  60%|#####9    | 143/240 [00:21<00:18,  5.18it/s]
+Animation 17: _MethodAnimation(ValueTracker):  60%|######    | 144/240 [00:21<00:18,  5.22it/s]
+Animation 17: _MethodAnimation(ValueTracker):  60%|######    | 145/240 [00:21<00:18,  5.05it/s]
+Animation 17: _MethodAnimation(ValueTracker):  61%|######    | 146/240 [00:22<00:17,  5.30it/s]
+Animation 17: _MethodAnimation(ValueTracker):  61%|######1   | 147/240 [00:22<00:17,  5.39it/s]
+Animation 17: _MethodAnimation(ValueTracker):  62%|######1   | 148/240 [00:22<00:16,  5.47it/s]
+Animation 17: _MethodAnimation(ValueTracker):  62%|######2   | 149/240 [00:22<00:14,  6.08it/s]
+Animation 17: _MethodAnimation(ValueTracker):  63%|######2   | 151/240 [00:22<00:11,  7.60it/s]
+Animation 17: _MethodAnimation(ValueTracker):  63%|######3   | 152/240 [00:22<00:11,  7.68it/s]
+Animation 17: _MethodAnimation(ValueTracker):  64%|######3   | 153/240 [00:23<00:11,  7.50it/s]
+Animation 17: _MethodAnimation(ValueTracker):  64%|######4   | 154/240 [00:23<00:11,  7.74it/s]
+Animation 17: _MethodAnimation(ValueTracker):  65%|######4   | 155/240 [00:23<00:11,  7.21it/s]
+Animation 17: _MethodAnimation(ValueTracker):  65%|######5   | 156/240 [00:23<00:14,  5.81it/s]
+Animation 17: _MethodAnimation(ValueTracker):  65%|######5   | 157/240 [00:23<00:16,  5.18it/s]
+Animation 17: _MethodAnimation(ValueTracker):  66%|######5   | 158/240 [00:23<00:14,  5.48it/s]
+Animation 17: _MethodAnimation(ValueTracker):  66%|######6   | 159/240 [00:24<00:14,  5.76it/s]
+Animation 17: _MethodAnimation(ValueTracker):  67%|######7   | 161/240 [00:24<00:11,  6.88it/s]
+Animation 17: _MethodAnimation(ValueTracker):  68%|######7   | 162/240 [00:24<00:11,  6.61it/s]
+Animation 17: _MethodAnimation(ValueTracker):  68%|######8   | 164/240 [00:24<00:13,  5.60it/s]
+Animation 17: _MethodAnimation(ValueTracker):  69%|######8   | 165/240 [00:25<00:13,  5.71it/s]
+Animation 17: _MethodAnimation(ValueTracker):  69%|######9   | 166/240 [00:25<00:12,  6.03it/s]
+Animation 17: _MethodAnimation(ValueTracker):  70%|######9   | 167/240 [00:25<00:14,  5.09it/s]
+Animation 17: _MethodAnimation(ValueTracker):  70%|#######   | 168/240 [00:25<00:14,  5.11it/s]
+Animation 17: _MethodAnimation(ValueTracker):  71%|#######   | 170/240 [00:25<00:09,  7.05it/s]
+Animation 17: _MethodAnimation(ValueTracker):  72%|#######1  | 172/240 [00:26<00:07,  8.74it/s]
+Animation 17: _MethodAnimation(ValueTracker):  72%|#######2  | 174/240 [00:26<00:06, 10.27it/s]
+Animation 17: _MethodAnimation(ValueTracker):  73%|#######3  | 176/240 [00:26<00:05, 11.61it/s]
+Animation 17: _MethodAnimation(ValueTracker):  74%|#######4  | 178/240 [00:26<00:05, 12.37it/s]
+Animation 17: _MethodAnimation(ValueTracker):  75%|#######5  | 180/240 [00:26<00:05, 11.67it/s]
+Animation 17: _MethodAnimation(ValueTracker):  76%|#######5  | 182/240 [00:26<00:05, 10.51it/s]
+Animation 17: _MethodAnimation(ValueTracker):  77%|#######6  | 184/240 [00:27<00:06,  9.22it/s]
+Animation 17: _MethodAnimation(ValueTracker):  78%|#######7  | 186/240 [00:27<00:06,  8.96it/s]
+Animation 17: _MethodAnimation(ValueTracker):  78%|#######7  | 187/240 [00:27<00:05,  9.01it/s]
+Animation 17: _MethodAnimation(ValueTracker):  79%|#######8  | 189/240 [00:27<00:05,  9.74it/s]
+Animation 17: _MethodAnimation(ValueTracker):  80%|#######9  | 191/240 [00:27<00:04, 10.09it/s]
+Animation 17: _MethodAnimation(ValueTracker):  80%|########  | 193/240 [00:27<00:04, 10.76it/s]
+Animation 17: _MethodAnimation(ValueTracker):  81%|########1 | 195/240 [00:28<00:04, 10.77it/s]
+Animation 17: _MethodAnimation(ValueTracker):  82%|########2 | 197/240 [00:29<00:13,  3.30it/s]
+Animation 17: _MethodAnimation(ValueTracker):  82%|########2 | 198/240 [00:29<00:11,  3.55it/s]
+Animation 17: _MethodAnimation(ValueTracker):  83%|########3 | 200/240 [00:30<00:08,  4.80it/s]
+Animation 17: _MethodAnimation(ValueTracker):  84%|########4 | 202/240 [00:30<00:06,  6.15it/s]
+Animation 17: _MethodAnimation(ValueTracker):  85%|########5 | 204/240 [00:30<00:04,  7.64it/s]
+Animation 17: _MethodAnimation(ValueTracker):  86%|########5 | 206/240 [00:30<00:03,  8.71it/s]
+Animation 17: _MethodAnimation(ValueTracker):  87%|########6 | 208/240 [00:30<00:04,  6.99it/s]
+Animation 17: _MethodAnimation(ValueTracker):  88%|########7 | 210/240 [00:30<00:03,  8.41it/s]
+Animation 17: _MethodAnimation(ValueTracker):  88%|########8 | 212/240 [00:31<00:02,  9.79it/s]
+Animation 17: _MethodAnimation(ValueTracker):  89%|########9 | 214/240 [00:31<00:02, 11.06it/s]
+Animation 17: _MethodAnimation(ValueTracker):  90%|######### | 216/240 [00:31<00:02, 11.97it/s]
+Animation 17: _MethodAnimation(ValueTracker):  91%|######### | 218/240 [00:31<00:01, 12.55it/s]
+Animation 17: _MethodAnimation(ValueTracker):  92%|#########1| 220/240 [00:31<00:01, 13.15it/s]
+Animation 17: _MethodAnimation(ValueTracker):  92%|#########2| 222/240 [00:31<00:01, 12.46it/s]
+Animation 17: _MethodAnimation(ValueTracker):  93%|#########3| 224/240 [00:32<00:01,  9.24it/s]
+Animation 17: _MethodAnimation(ValueTracker):  94%|#########4| 226/240 [00:32<00:01, 10.56it/s]
+Animation 17: _MethodAnimation(ValueTracker):  95%|#########5| 228/240 [00:32<00:01, 11.53it/s]
+Animation 17: _MethodAnimation(ValueTracker):  96%|#########5| 230/240 [00:32<00:00, 11.94it/s]
+Animation 17: _MethodAnimation(ValueTracker):  97%|#########6| 232/240 [00:32<00:00, 11.52it/s]
+Animation 17: _MethodAnimation(ValueTracker):  98%|#########7| 234/240 [00:32<00:00, 11.94it/s]
+Animation 17: _MethodAnimation(ValueTracker):  98%|#########8| 236/240 [00:33<00:00, 12.49it/s]
+Animation 17: _MethodAnimation(ValueTracker):  99%|#########9| 238/240 [00:33<00:00, 12.55it/s]
+Animation 17: _MethodAnimation(ValueTracker): 100%|##########| 240/240 [00:33<00:00, 12.85it/s]
+                                                                                               
+[10/14/25 19:24:17] INFO     Animation 17 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\0c109c12\videos                         
+                             \achilles_paradox\480p15\                         
+                             partial_movie_files\Achil                         
+                             lesParadoxScene\uncached_                         
+                             00017.mp4'                                        
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 18: FadeIn(Dot):   0%|          | 0/12 [00:00<?, ?it/s]
+Animation 18: FadeIn(Dot):  17%|#6        | 2/12 [00:00<00:01,  9.25it/s]
+Animation 18: FadeIn(Dot):  25%|##5       | 3/12 [00:00<00:01,  8.69it/s]
+Animation 18: FadeIn(Dot):  33%|###3      | 4/12 [00:00<00:00,  8.21it/s]
+Animation 18: FadeIn(Dot):  42%|####1     | 5/12 [00:00<00:00,  7.70it/s]
+Animation 18: FadeIn(Dot):  50%|#####     | 6/12 [00:00<00:00,  7.82it/s]
+Animation 18: FadeIn(Dot):  58%|#####8    | 7/12 [00:00<00:00,  6.17it/s]
+Animation 18: FadeIn(Dot):  67%|######6   | 8/12 [00:01<00:00,  4.78it/s]
+Animation 18: FadeIn(Dot):  75%|#######5  | 9/12 [00:01<00:00,  5.11it/s]
+Animation 18: FadeIn(Dot):  92%|#########1| 11/12 [00:01<00:00,  6.34it/s]
+                                                                          
+[10/14/25 19:24:19] INFO     Animation 18 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\0c109c12\videos                         
+                             \achilles_paradox\480p15\                         
+                             partial_movie_files\Achil                         
+                             lesParadoxScene\uncached_                         
+                             00018.mp4'                                        
+                    INFO     Caching disabled.             cairo_renderer.py:79
+                    INFO     Animation 19 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\0c109c12\videos                         
+                             \achilles_paradox\480p15\                         
+                             partial_movie_files\Achil                         
+                             lesParadoxScene\uncached_                         
+                             00019.mp4'                                        
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 20: _MethodAnimation(Dot), etc.:   0%|          | 0/33 [00:00<?, ?it/s]
+Animation 20: _MethodAnimation(Dot), etc.:   6%|6         | 2/33 [00:00<00:02, 11.53it/s]
+Animation 20: _MethodAnimation(Dot), etc.:  12%|#2        | 4/33 [00:00<00:02, 13.84it/s]
+Animation 20: _MethodAnimation(Dot), etc.:  18%|#8        | 6/33 [00:00<00:01, 15.07it/s]
+Animation 20: _MethodAnimation(Dot), etc.:  24%|##4       | 8/33 [00:00<00:01, 15.40it/s]
+Animation 20: _MethodAnimation(Dot), etc.:  30%|###       | 10/33 [00:00<00:01, 15.85it/s]
+Animation 20: _MethodAnimation(Dot), etc.:  36%|###6      | 12/33 [00:00<00:01, 16.38it/s]
+Animation 20: _MethodAnimation(Dot), etc.:  42%|####2     | 14/33 [00:00<00:01, 16.04it/s]
+Animation 20: _MethodAnimation(Dot), etc.:  48%|####8     | 16/33 [00:01<00:01, 12.73it/s]
+Animation 20: _MethodAnimation(Dot), etc.:  55%|#####4    | 18/33 [00:01<00:01,  9.36it/s]
+Animation 20: _MethodAnimation(Dot), etc.:  61%|######    | 20/33 [00:01<00:01,  8.14it/s]
+Animation 20: _MethodAnimation(Dot), etc.:  67%|######6   | 22/33 [00:01<00:01,  9.63it/s]
+Animation 20: _MethodAnimation(Dot), etc.:  73%|#######2  | 24/33 [00:02<00:00,  9.42it/s]
+Animation 20: _MethodAnimation(Dot), etc.:  79%|#######8  | 26/33 [00:02<00:00,  9.02it/s]
+Animation 20: _MethodAnimation(Dot), etc.:  85%|########4 | 28/33 [00:02<00:00, 10.64it/s]
+Animation 20: _MethodAnimation(Dot), etc.:  91%|######### | 30/33 [00:02<00:00, 11.70it/s]
+Animation 20: _MethodAnimation(Dot), etc.:  97%|#########6| 32/33 [00:02<00:00, 11.39it/s]
+                                                                                          
+[10/14/25 19:24:23] INFO     Animation 20 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\0c109c12\videos                         
+                             \achilles_paradox\480p15\                         
+                             partial_movie_files\Achil                         
+                             lesParadoxScene\uncached_                         
+                             00020.mp4'                                        
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 21: Create(Circle):   0%|          | 0/12 [00:00<?, ?it/s]
+Animation 21: Create(Circle):  17%|#6        | 2/12 [00:00<00:01,  9.07it/s]
+Animation 21: Create(Circle):  33%|###3      | 4/12 [00:00<00:00, 12.85it/s]
+Animation 21: Create(Circle):  50%|#####     | 6/12 [00:00<00:00, 10.70it/s]
+Animation 21: Create(Circle):  67%|######6   | 8/12 [00:00<00:00,  7.75it/s]
+Animation 21: Create(Circle):  75%|#######5  | 9/12 [00:01<00:00,  7.95it/s]
+Animation 21: Create(Circle):  92%|#########1| 11/12 [00:01<00:00,  8.95it/s]
+Animation 21: Create(Circle): 100%|##########| 12/12 [00:01<00:00,  9.14it/s]
+                                                                             
+[10/14/25 19:24:24] INFO     Animation 21 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\0c109c12\videos                         
+                             \achilles_paradox\480p15\                         
+                             partial_movie_files\Achil                         
+                             lesParadoxScene\uncached_                         
+                             00021.mp4'                                        
+[10/14/25 19:24:25] INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 22: FadeIn(Text('Infinite steps can sum to a finite time.\nAchilles catches the tortoise.')):   0%|          | 0/24 [00:00<?, ?it/s]
+Animation 22: FadeIn(Text('Infinite steps can sum to a finite time.\nAchilles catches the tortoise.')):   4%|4         | 1/24 [00:00<00:06,  3.73it/s]
+Animation 22: FadeIn(Text('Infinite steps can sum to a finite time.\nAchilles catches the tortoise.')):   8%|8         | 2/24 [00:00<00:11,  1.98it/s]
+Animation 22: FadeIn(Text('Infinite steps can sum to a finite time.\nAchilles catches the tortoise.')):  12%|#2        | 3/24 [00:01<00:07,  2.73it/s]
+Animation 22: FadeIn(Text('Infinite steps can sum to a finite time.\nAchilles catches the tortoise.')):  17%|#6        | 4/24 [00:01<00:05,  3.69it/s]
+Animation 22: FadeIn(Text('Infinite steps can sum to a finite time.\nAchilles catches the tortoise.')):  21%|##        | 5/24 [00:01<00:05,  3.22it/s]
+Animation 22: FadeIn(Text('Infinite steps can sum to a finite time.\nAchilles catches the tortoise.')):  25%|##5       | 6/24 [00:01<00:05,  3.40it/s]
+Animation 22: FadeIn(Text('Infinite steps can sum to a finite time.\nAchilles catches the tortoise.')):  29%|##9       | 7/24 [00:02<00:04,  3.65it/s]
+Animation 22: FadeIn(Text('Infinite steps can sum to a finite time.\nAchilles catches the tortoise.')):  33%|###3      | 8/24 [00:02<00:03,  4.57it/s]
+Animation 22: FadeIn(Text('Infinite steps can sum to a finite time.\nAchilles catches the tortoise.')):  38%|###7      | 9/24 [00:02<00:02,  5.44it/s]
+Animation 22: FadeIn(Text('Infinite steps can sum to a finite time.\nAchilles catches the tortoise.')):  42%|####1     | 10/24 [00:02<00:02,  6.22it/s]
+Animation 22: FadeIn(Text('Infinite steps can sum to a finite time.\nAchilles catches the tortoise.')):  46%|####5     | 11/24 [00:02<00:01,  6.82it/s]
+Animation 22: FadeIn(Text('Infinite steps can sum to a finite time.\nAchilles catches the tortoise.')):  50%|#####     | 12/24 [00:02<00:01,  7.32it/s]
+Animation 22: FadeIn(Text('Infinite steps can sum to a finite time.\nAchilles catches the tortoise.')):  54%|#####4    | 13/24 [00:02<00:01,  7.44it/s]
+Animation 22: FadeIn(Text('Infinite steps can sum to a finite time.\nAchilles catches the tortoise.')):  58%|#####8    | 14/24 [00:02<00:01,  7.24it/s]
+Animation 22: FadeIn(Text('Infinite steps can sum to a finite time.\nAchilles catches the tortoise.')):  62%|######2   | 15/24 [00:03<00:01,  5.19it/s]
+Animation 22: FadeIn(Text('Infinite steps can sum to a finite time.\nAchilles catches the tortoise.')):  67%|######6   | 16/24 [00:03<00:01,  4.04it/s]
+Animation 22: FadeIn(Text('Infinite steps can sum to a finite time.\nAchilles catches the tortoise.')):  71%|#######   | 17/24 [00:03<00:01,  4.40it/s]
+Animation 22: FadeIn(Text('Infinite steps can sum to a finite time.\nAchilles catches the tortoise.')):  75%|#######5  | 18/24 [00:04<00:01,  4.53it/s]
+Animation 22: FadeIn(Text('Infinite steps can sum to a finite time.\nAchilles catches the tortoise.')):  79%|#######9  | 19/24 [00:04<00:01,  4.74it/s]
+Animation 22: FadeIn(Text('Infinite steps can sum to a finite time.\nAchilles catches the tortoise.')):  83%|########3 | 20/24 [00:04<00:00,  4.73it/s]
+Animation 22: FadeIn(Text('Infinite steps can sum to a finite time.\nAchilles catches the tortoise.')):  88%|########7 | 21/24 [00:04<00:00,  4.35it/s]
+Animation 22: FadeIn(Text('Infinite steps can sum to a finite time.\nAchilles catches the tortoise.')):  92%|#########1| 22/24 [00:04<00:00,  4.90it/s]
+Animation 22: FadeIn(Text('Infinite steps can sum to a finite time.\nAchilles catches the tortoise.')):  96%|#########5| 23/24 [00:04<00:00,  5.56it/s]
+Animation 22: FadeIn(Text('Infinite steps can sum to a finite time.\nAchilles catches the tortoise.')): 100%|##########| 24/24 [00:05<00:00,  6.13it/s]
+                                                                                                                                                       
+[10/14/25 19:24:31] INFO     Animation 22 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\0c109c12\videos                         
+                             \achilles_paradox\480p15\                         
+                             partial_movie_files\Achil                         
+                             lesParadoxScene\uncached_                         
+                             00022.mp4'                                        
+                    INFO     Caching disabled.             cairo_renderer.py:79
+[10/14/25 19:24:33] INFO     Animation 23 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\0c109c12\videos                         
+                             \achilles_paradox\480p15\                         
+                             partial_movie_files\Achil                         
+                             lesParadoxScene\uncached_                         
+                             00023.mp4'                                        
+                    INFO     Combining to Movie file.  scene_file_writer.py:739
+[10/14/25 19:24:34] INFO                               scene_file_writer.py:886
+                             File ready at                                     
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\0c109c12\videos                         
+                             \achilles_paradox\480p15\                         
+                             out.mp4'                                          
+                                                                               
+                    INFO     Rendered AchillesParadoxScene         scene.py:255
+                             Played 24 animations                              

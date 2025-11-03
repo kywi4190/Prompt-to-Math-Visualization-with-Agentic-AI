@@ -1,0 +1,147 @@
+Manim Community v0.19.0
+
+
+Animation 0: Create(NumberPlane of 4 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]
+                                                                                         
+[10/13/25 18:34:20] INFO     Animation 0 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\fcb471e5\media\                         
+                             videos\inner_product_warp                         
+                             \480p15\partial_movie_fil                         
+                             es\InnerProductWarp\11858                         
+                             18338_839090861_223132457                         
+                             .mp4'                                             
+                    INFO     Animation 1 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\fcb471e5\media\                         
+                             videos\inner_product_warp                         
+                             \480p15\partial_movie_fil                         
+                             es\InnerProductWarp\62464                         
+                             2324_1839128356_368581347                         
+                             1.mp4'                                            
++--------------------- Traceback (most recent call last) ---------------------+
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\cli\render\commands.py: |
+| 125 in render                                                               |
+|                                                                             |
+|   122             try:                                                      |
+|   123                 with tempconfig({}):                                  |
+|   124                     scene = SceneClass()                              |
+| > 125                     scene.render()                                    |
+|   126             except Exception:                                         |
+|   127                 error_console.print_exception()                       |
+|   128                 sys.exit(1)                                           |
+|                                                                             |
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\scene\scene.py:237 in   |
+| render                                                                      |
+|                                                                             |
+|    234         """                                                          |
+|    235         self.setup()                                                 |
+|    236         try:                                                         |
+| >  237             self.construct()                                         |
+|    238         except EndSceneEarlyException:                               |
+|    239             pass                                                     |
+|    240         except RerunSceneException:                                  |
+|                                                                             |
+| C:\dev\math-video-mvp\app\renders\fcb471e5\inner_product_warp.py:14 in      |
+| construct                                                                   |
+|                                                                             |
+|   11         # Warp the space using an SPD matrix                           |
+|   12         warp_matrix = np.array([[2, 0], [0, 0.5]])                     |
+|   13         warped_points = [warp_matrix @ np.array([x, y]) for x in range |
+| > 14         warped_dots = [Dot(point=point, color=BLUE) for point in warpe |
+|   15         self.play(*[Create(dot) for dot in warped_dots])               |
+|   16         self.wait(1)                                                   |
+|   17                                                                        |
+|                                                                             |
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\mobject\geometry\arc.py |
+| :720 in __init__                                                            |
+|                                                                             |
+|    717         color: ParsableManimColor = WHITE,                           |
+|    718         **kwargs: Any,                                               |
+|    719     ) -> None:                                                       |
+| >  720         super().__init__(                                            |
+|    721             arc_center=point,                                        |
+|    722             radius=radius,                                           |
+|    723             stroke_width=stroke_width,                               |
+|                                                                             |
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\mobject\geometry\arc.py |
+| :555 in __init__                                                            |
+|                                                                             |
+|    552         color: ParsableManimColor = RED,                             |
+|    553         **kwargs: Any,                                               |
+|    554     ) -> None:                                                       |
+| >  555         super().__init__(                                            |
+|    556             radius=radius,                                           |
+|    557             start_angle=0,                                           |
+|    558             angle=TAU,                                               |
+|                                                                             |
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\mobject\geometry\arc.py |
+| :334 in __init__                                                            |
+|                                                                             |
+|    331         self.start_angle = start_angle                               |
+|    332         self.angle = angle                                           |
+|    333         self._failed_to_get_center: bool = False                     |
+| >  334         super().__init__(**kwargs)                                   |
+|    335                                                                      |
+|    336     def generate_points(self) -> None:                               |
+|    337         self._set_pre_positioned_points()                            |
+|                                                                             |
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\mobject\geometry\arc.py |
+| :109 in __init__                                                            |
+|                                                                             |
+|    106         self.tip_length: float = tip_length                          |
+|    107         self.normal_vector: Vector3D = normal_vector                 |
+|    108         self.tip_style: dict = tip_style                             |
+| >  109         super().__init__(**kwargs)                                   |
+|    110                                                                      |
+|    111     # Adding, Creating, Modifying tips                               |
+|    112                                                                      |
+|                                                                             |
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\mobject\types\vectorize |
+| d_mobject.py:161 in __init__                                                |
+|                                                                             |
+|    158             0, 1, n_points_per_cubic_curve                           |
+|    159         )                                                            |
+|    160         self.cap_style: CapStyleType = cap_style                     |
+| >  161         super().__init__(**kwargs)                                   |
+|    162         self.submobjects: list[VMobject]                             |
+|    163                                                                      |
+|    164         # TODO: Find where color overwrites are happening and remove |
+|                                                                             |
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\mobject\mobject.py:118  |
+| in __init__                                                                 |
+|                                                                             |
+|    115         self.color = ManimColor.parse(color)                         |
+|    116                                                                      |
+|    117         self.reset_points()                                          |
+| >  118         self.generate_points()                                       |
+|    119         self.init_colors()                                           |
+|    120                                                                      |
+|    121     def _assert_valid_submobjects(self, submobjects: Iterable[Mobjec |
+|                                                                             |
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\mobject\geometry\arc.py |
+| :339 in generate_points                                                     |
+|                                                                             |
+|    336     def generate_points(self) -> None:                               |
+|    337         self._set_pre_positioned_points()                            |
+|    338         self.scale(self.radius, about_point=ORIGIN)                  |
+| >  339         self.shift(self.arc_center)                                  |
+|    340                                                                      |
+|    341     # Points are set a bit differently when rendering via OpenGL.    |
+|    342     # TODO: refactor Arc so that only one strategy for setting point |
+|                                                                             |
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\mobject\mobject.py:1224 |
+| in shift                                                                    |
+|                                                                             |
+|   1221         total_vector = reduce(op.add, vectors)                       |
+|   1222         for mob in self.family_members_with_points():                |
+|   1223             mob.points = mob.points.astype("float")                  |
+| > 1224             mob.points += total_vector                               |
+|   1225                                                                      |
+|   1226         return self                                                  |
+|   1227                                                                      |
++-----------------------------------------------------------------------------+
+ValueError: operands could not be broadcast together with shapes (32,3) (2,) 
+(32,3) 

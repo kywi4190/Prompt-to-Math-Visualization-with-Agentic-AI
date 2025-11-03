@@ -1,0 +1,86 @@
+Manim Community v0.19.0
+
+
+Animation 0: FadeIn(VGroup of 2 submobjects):   0%|          | 0/30 [00:00<?, ?it/s]
+Animation 0: FadeIn(VGroup of 2 submobjects):   7%|6         | 2/30 [00:00<00:01, 16.34it/s]
+Animation 0: FadeIn(VGroup of 2 submobjects):  13%|#3        | 4/30 [00:00<00:01, 15.46it/s]
+Animation 0: FadeIn(VGroup of 2 submobjects):  20%|##        | 6/30 [00:00<00:01, 15.70it/s]
+Animation 0: FadeIn(VGroup of 2 submobjects):  27%|##6       | 8/30 [00:00<00:01, 15.05it/s]
+Animation 0: FadeIn(VGroup of 2 submobjects):  33%|###3      | 10/30 [00:00<00:01, 14.72it/s]
+Animation 0: FadeIn(VGroup of 2 submobjects):  40%|####      | 12/30 [00:00<00:01, 15.33it/s]
+Animation 0: FadeIn(VGroup of 2 submobjects):  47%|####6     | 14/30 [00:00<00:01, 15.41it/s]
+Animation 0: FadeIn(VGroup of 2 submobjects):  53%|#####3    | 16/30 [00:01<00:00, 15.50it/s]
+Animation 0: FadeIn(VGroup of 2 submobjects):  60%|######    | 18/30 [00:01<00:00, 14.95it/s]
+Animation 0: FadeIn(VGroup of 2 submobjects):  67%|######6   | 20/30 [00:01<00:00, 14.43it/s]
+Animation 0: FadeIn(VGroup of 2 submobjects):  73%|#######3  | 22/30 [00:01<00:00, 14.09it/s]
+Animation 0: FadeIn(VGroup of 2 submobjects):  80%|########  | 24/30 [00:01<00:00, 13.89it/s]
+Animation 0: FadeIn(VGroup of 2 submobjects):  87%|########6 | 26/30 [00:01<00:00, 13.70it/s]
+Animation 0: FadeIn(VGroup of 2 submobjects):  93%|#########3| 28/30 [00:01<00:00, 13.58it/s]
+Animation 0: FadeIn(VGroup of 2 submobjects): 100%|##########| 30/30 [00:02<00:00, 13.68it/s]
+                                                                                             
+[10/14/25 13:01:39] INFO     Animation 0 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\bfdb3d00\videos                         
+                             \western_standoff\480p15\                         
+                             partial_movie_files\Weste                         
+                             rnStandoffScene\232559963                         
+                             4_2256221922_223132457.mp                         
+                             4'                                                
++--------------------- Traceback (most recent call last) ---------------------+
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\cli\render\commands.py: |
+| 125 in render                                                               |
+|                                                                             |
+|   122             try:                                                      |
+|   123                 with tempconfig({}):                                  |
+|   124                     scene = SceneClass()                              |
+| > 125                     scene.render()                                    |
+|   126             except Exception:                                         |
+|   127                 error_console.print_exception()                       |
+|   128                 sys.exit(1)                                           |
+|                                                                             |
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\scene\scene.py:237 in   |
+| render                                                                      |
+|                                                                             |
+|    234         """                                                          |
+|    235         self.setup()                                                 |
+|    236         try:                                                         |
+| >  237             self.construct()                                         |
+|    238         except EndSceneEarlyException:                               |
+|    239             pass                                                     |
+|    240         except RerunSceneException:                                  |
+|                                                                             |
+| C:\dev\math-video-mvp\app\renders\bfdb3d00\western_standoff.py:168 in       |
+| construct                                                                   |
+|                                                                             |
+|   165         self.play(FadeIn(ground, shift=IN), run_time=2)               |
+|   166                                                                       |
+|   167         # Cowboys                                                     |
+| > 168         left = self.build_cowboy(pos=np.array([-4.5, 0.0, 0.0]), body |
+|   169         right = self.build_cowboy(pos=np.array([4.5, 0.0, 0.0]), body |
+|   170         # Mirror the right cowboy's arms slightly to suggest facing l |
+|   171         # (We just keep geometry symmetric; the camera conveys direct |
+|                                                                             |
+| C:\dev\math-video-mvp\app\renders\bfdb3d00\western_standoff.py:86 in        |
+| build_cowboy                                                                |
+|                                                                             |
+|    83                                                                       |
+|    84         # Head (cylindrical)                                          |
+|    85         head = Cylinder(radius=head_r, height=head_h, direction=UP,   |
+| >  86                         fill_color=interpolate_color(Color(body_color |
+|    87         head.move_to(torso.get_center() + np.array([0, (torso_h/2) +  |
+|    88                                                                       |
+|    89         # Hat (brim + crown)                                          |
+|                                                                             |
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\utils\color\core.py:146 |
+| 3 in interpolate_color                                                      |
+|                                                                             |
+|   1460     ManimColor                                                       |
+|   1461         The interpolated ManimColor.                                 |
+|   1462     """                                                              |
+| > 1463     return color1.interpolate(color2, alpha)                         |
+|   1464                                                                      |
+|   1465                                                                      |
+|   1466 def average_color(*colors: ParsableManimColor) -> ManimColor:        |
++-----------------------------------------------------------------------------+
+AttributeError: 'str' object has no attribute 'interpolate'

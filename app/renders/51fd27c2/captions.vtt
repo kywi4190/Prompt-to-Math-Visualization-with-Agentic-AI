@@ -1,0 +1,65 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:03.000
+On the real line, x^2 + 1 = 0 has no solution.
+
+2
+00:00:03.000 --> 00:00:06.000
+So we extend: a second axis for multiples of i = sqrt(-1).
+
+3
+00:00:06.000 --> 00:00:09.000
+Now the points i and -i solve z^2 + 1 = 0.
+
+4
+00:00:09.000 --> 00:00:13.000
+Think of complex numbers as points in a plane: Re and Im.
+
+5
+00:00:13.000 --> 00:00:17.000
+Each point is a vector z with length r and angle θ.
+
+6
+00:00:17.000 --> 00:00:20.000
+Polar form: z = r(cos θ + i sin θ) = r e^{iθ}.
+
+7
+00:00:20.000 --> 00:00:24.000
+Multiplying by i rotates any vector by 90°.
+
+8
+00:00:24.000 --> 00:00:28.000
+Do it twice: i^2 sends 1 to -1.
+
+9
+00:00:28.000 --> 00:00:33.000
+Multiplying by a + bi is a rotate + scale.
+
+10
+00:00:33.000 --> 00:00:38.000
+It's a linear map: [a -b; b a] acting on the plane.
+
+11
+00:00:38.000 --> 00:00:42.000
+Angles are preserved — the map is conformal.
+
+12
+00:00:42.000 --> 00:00:46.000
+Example: z ↦ z^2 doubles angles on the unit circle.
+
+13
+00:00:46.000 --> 00:00:50.000
+Two different z map to the same z^2 (two-to-one).
+
+14
+00:00:50.000 --> 00:00:54.000
+Lift to 3D: height shows |z|, forming a cone.
+
+15
+00:00:54.000 --> 00:00:58.000
+Our z projects up to height |z|; θ stays in the base.
+
+16
+00:00:58.000 --> 00:01:00.000
+Complex numbers unify rotation and scaling across math.

@@ -1,0 +1,41 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:02.500
+A 3D vector split into orthogonal pieces.
+
+2
+00:00:02.500 --> 00:00:05.500
+Each colored arrow is one component along x, y, and z.
+
+3
+00:00:05.500 --> 00:00:07.500
+Together they add to the yellow vector.
+
+4
+00:00:07.500 --> 00:00:09.000
+Now flatten to 2D to study a function.
+
+5
+00:00:09.000 --> 00:00:11.000
+Target: f(x)=x on the interval [-π, π].
+
+6
+00:00:11.000 --> 00:00:13.000
+We approximate it by a Fourier sine series.
+
+7
+00:00:13.000 --> 00:00:17.000
+Increase N: the partial sum S_N(x) gains more wiggles.
+
+8
+00:00:17.000 --> 00:00:19.500
+Bars show the coefficients b_n = 2(-1)^{n+1}/n.
+
+9
+00:00:19.500 --> 00:00:22.500
+As N grows, more bars appear and S_N(x) tracks f(x).
+
+10
+00:00:22.500 --> 00:00:24.600
+Fourier uses waves; Taylor would use powers.

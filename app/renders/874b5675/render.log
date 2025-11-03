@@ -1,0 +1,345 @@
+Manim Community v0.19.0
+
+
+Animation 0: Create(NumberPlane of 4 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]
+                                                                                         
+[10/14/25 13:39:31] INFO     Animation 0 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\874b5675\videos                         
+                             \complex_numbers_explaine                         
+                             r\480p15\partial_movie_fi                         
+                             les\ComplexNumbersScene\2                         
+                             38433677_426797375_223132                         
+                             457.mp4'                                          
+                    INFO     Writing a+bi to            tex_file_writing.py:111
+                             Tex\569beed961bc5edf.tex                          
+latex: security risk: running with elevated privileges
+latex: major issue: So far, you have not checked for MiKTeX updates.
+dvisvgm: security risk: running with elevated privileges
+
+Animation 1: Create(Arrow):   0%|          | 0/15 [00:00<?, ?it/s]
+                                                                  
+[10/14/25 13:39:33] INFO     Animation 1 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\874b5675\videos                         
+                             \complex_numbers_explaine                         
+                             r\480p15\partial_movie_fi                         
+                             les\ComplexNumbersScene\4                         
+                             32527821_3263841478_13169                         
+                             98569.mp4'                                        
+
+Animation 2: Write(MathTex('a+bi')):   0%|          | 0/9 [00:00<?, ?it/s]
+Animation 2: Write(MathTex('a+bi')):  33%|###3      | 3/9 [00:00<00:00, 28.60it/s]
+Animation 2: Write(MathTex('a+bi')):  78%|#######7  | 7/9 [00:00<00:00, 28.89it/s]
+                                                                                  
+[10/14/25 13:39:34] INFO     Animation 2 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\874b5675\videos                         
+                             \complex_numbers_explaine                         
+                             r\480p15\partial_movie_fi                         
+                             les\ComplexNumbersScene\4                         
+                             32527821_1841241305_20814                         
+                             98522.mp4'                                        
+                    INFO     Writing \quad\\times\ i to tex_file_writing.py:111
+                             Tex\6e2e4ad6e744e6f0.tex                          
+latex: security risk: running with elevated privileges
+latex: major issue: So far, you have not checked for MiKTeX updates.
+dvisvgm: security risk: running with elevated privileges
+
+Animation 3: FadeIn(MathTex('\\\\times\\ i')):   0%|          | 0/12 [00:00<?, ?it/s]
+Animation 3: FadeIn(MathTex('\\\\times\\ i')):  58%|#####8    | 7/12 [00:00<00:00, 49.91it/s]
+                                                                                             
+[10/14/25 13:39:35] INFO     Animation 3 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\874b5675\videos                         
+                             \complex_numbers_explaine                         
+                             r\480p15\partial_movie_fi                         
+                             les\ComplexNumbersScene\4                         
+                             32527821_453312496_205171                         
+                             2776.mp4'                                         
+
+Animation 4: Rotate(Arrow):   0%|          | 0/23 [00:00<?, ?it/s]
+Animation 4: Rotate(Arrow):  30%|###       | 7/23 [00:00<00:00, 63.01it/s]
+Animation 4: Rotate(Arrow):  61%|######    | 14/23 [00:00<00:00, 62.48it/s]
+Animation 4: Rotate(Arrow):  91%|#########1| 21/23 [00:00<00:00, 59.63it/s]
+                                                                           
+                    INFO     Animation 4 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\874b5675\videos                         
+                             \complex_numbers_explaine                         
+                             r\480p15\partial_movie_fi                         
+                             les\ComplexNumbersScene\4                         
+                             32527821_3778022727_17694                         
+                             87069.mp4'                                        
+
+Animation 5: FadeOut(MathTex('\\\\times\\ i')):   0%|          | 0/8 [00:00<?, ?it/s]
+Animation 5: FadeOut(MathTex('\\\\times\\ i')):  88%|########7 | 7/8 [00:00<00:00, 62.42it/s]
+                                                                                             
+[10/14/25 13:39:36] INFO     Animation 5 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\874b5675\videos                         
+                             \complex_numbers_explaine                         
+                             r\480p15\partial_movie_fi                         
+                             les\ComplexNumbersScene\4                         
+                             32527821_3020796332_27961                         
+                             02531.mp4'                                        
+                    INFO     Animation 6 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\874b5675\videos                         
+                             \complex_numbers_explaine                         
+                             r\480p15\partial_movie_fi                         
+                             les\ComplexNumbersScene\4                         
+                             32527821_422628456_402818                         
+                             8166.mp4'                                         
+
+Animation 7: FadeOut(MathTex('a+bi')):   0%|          | 0/6 [00:00<?, ?it/s]
+Animation 7: FadeOut(MathTex('a+bi')):  50%|#####     | 3/6 [00:00<00:00, 24.29it/s]
+Animation 7: FadeOut(MathTex('a+bi')): 100%|##########| 6/6 [00:00<00:00, 23.00it/s]
+                                                                                    
+                    INFO     Animation 7 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\874b5675\videos                         
+                             \complex_numbers_explaine                         
+                             r\480p15\partial_movie_fi                         
+                             les\ComplexNumbersScene\4                         
+                             32527821_1084561859_37528                         
+                             42274.mp4'                                        
+
+Animation 8: Create(VGroup of 7 submobjects):   0%|          | 0/23 [00:00<?, ?it/s]
+Animation 8: Create(VGroup of 7 submobjects):  65%|######5   | 15/23 [00:00<00:00, 149.12it/s]
+                                                                                              
+[10/14/25 13:39:37] INFO     Animation 8 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\874b5675\videos                         
+                             \complex_numbers_explaine                         
+                             r\480p15\partial_movie_fi                         
+                             les\ComplexNumbersScene\4                         
+                             32527821_4006177125_39666                         
+                             79758.mp4'                                        
+
+Animation 9: Transform(VGroup of 7 submobjects):   0%|          | 0/53 [00:00<?, ?it/s]
+Animation 9: Transform(VGroup of 7 submobjects):  11%|#1        | 6/53 [00:00<00:00, 51.68it/s]
+Animation 9: Transform(VGroup of 7 submobjects):  23%|##2       | 12/53 [00:00<00:00, 47.65it/s]
+Animation 9: Transform(VGroup of 7 submobjects):  32%|###2      | 17/53 [00:00<00:00, 46.61it/s]
+Animation 9: Transform(VGroup of 7 submobjects):  43%|####3     | 23/53 [00:00<00:00, 49.35it/s]
+Animation 9: Transform(VGroup of 7 submobjects):  55%|#####4    | 29/53 [00:00<00:00, 50.79it/s]
+Animation 9: Transform(VGroup of 7 submobjects):  66%|######6   | 35/53 [00:00<00:00, 51.74it/s]
+Animation 9: Transform(VGroup of 7 submobjects):  77%|#######7  | 41/53 [00:00<00:00, 51.30it/s]
+Animation 9: Transform(VGroup of 7 submobjects):  89%|########8 | 47/53 [00:00<00:00, 50.75it/s]
+Animation 9: Transform(VGroup of 7 submobjects): 100%|##########| 53/53 [00:01<00:00, 48.53it/s]
+                                                                                                
+[10/14/25 13:39:38] INFO     Animation 9 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\874b5675\videos                         
+                             \complex_numbers_explaine                         
+                             r\480p15\partial_movie_fi                         
+                             les\ComplexNumbersScene\4                         
+                             32527821_1493369647_30409                         
+                             98391.mp4'                                        
+
+Animation 10: _MethodAnimation(VGroup of 7 submobjects):   0%|          | 0/12 [00:00<?, ?it/s]
+Animation 10: _MethodAnimation(VGroup of 7 submobjects):  50%|#####     | 6/12 [00:00<00:00, 51.67it/s]
+Animation 10: _MethodAnimation(VGroup of 7 submobjects): 100%|##########| 12/12 [00:00<00:00, 50.42it/s]
+                                                                                                        
+                    INFO     Animation 10 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\874b5675\videos                         
+                             \complex_numbers_explaine                         
+                             r\480p15\partial_movie_fi                         
+                             les\ComplexNumbersScene\4                         
+                             32527821_3783997585_30409                         
+                             98391.mp4'                                        
+
+Animation 11: _MethodAnimation(ValueTracker), etc.:   0%|          | 0/45 [00:00<?, ?it/s]
+Animation 11: _MethodAnimation(ValueTracker), etc.:  13%|#3        | 6/45 [00:00<00:00, 51.48it/s]
+Animation 11: _MethodAnimation(ValueTracker), etc.:  27%|##6       | 12/45 [00:00<00:00, 47.37it/s]
+Animation 11: _MethodAnimation(ValueTracker), etc.:  38%|###7      | 17/45 [00:00<00:00, 48.10it/s]
+Animation 11: _MethodAnimation(ValueTracker), etc.:  49%|####8     | 22/45 [00:00<00:00, 47.98it/s]
+Animation 11: _MethodAnimation(ValueTracker), etc.:  60%|######    | 27/45 [00:00<00:00, 46.71it/s]
+Animation 11: _MethodAnimation(ValueTracker), etc.:  73%|#######3  | 33/45 [00:00<00:00, 48.53it/s]
+Animation 11: _MethodAnimation(ValueTracker), etc.:  84%|########4 | 38/45 [00:00<00:00, 48.80it/s]
+Animation 11: _MethodAnimation(ValueTracker), etc.:  98%|#########7| 44/45 [00:00<00:00, 48.44it/s]
+                                                                                                   
+[10/14/25 13:39:39] INFO     Animation 11 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\874b5675\videos                         
+                             \complex_numbers_explaine                         
+                             r\480p15\partial_movie_fi                         
+                             les\ComplexNumbersScene\1                         
+                             757477467_2349236961_4222                         
+                             013205.mp4'                                       
+
+Animation 12: FadeIn(Surface of 576 submobjects):   0%|          | 0/27 [00:00<?, ?it/s]
+Animation 12: FadeIn(Surface of 576 submobjects):   4%|3         | 1/27 [00:00<00:04,  5.40it/s]
+Animation 12: FadeIn(Surface of 576 submobjects):   7%|7         | 2/27 [00:00<00:06,  3.92it/s]
+Animation 12: FadeIn(Surface of 576 submobjects):  11%|#1        | 3/27 [00:00<00:05,  4.29it/s]
+Animation 12: FadeIn(Surface of 576 submobjects):  15%|#4        | 4/27 [00:00<00:04,  4.71it/s]
+Animation 12: FadeIn(Surface of 576 submobjects):  19%|#8        | 5/27 [00:01<00:04,  5.01it/s]
+Animation 12: FadeIn(Surface of 576 submobjects):  22%|##2       | 6/27 [00:01<00:04,  4.96it/s]
+Animation 12: FadeIn(Surface of 576 submobjects):  26%|##5       | 7/27 [00:01<00:04,  4.93it/s]
+Animation 12: FadeIn(Surface of 576 submobjects):  30%|##9       | 8/27 [00:01<00:03,  4.95it/s]
+Animation 12: FadeIn(Surface of 576 submobjects):  33%|###3      | 9/27 [00:01<00:03,  4.75it/s]
+Animation 12: FadeIn(Surface of 576 submobjects):  37%|###7      | 10/27 [00:02<00:03,  4.64it/s]
+Animation 12: FadeIn(Surface of 576 submobjects):  41%|####      | 11/27 [00:02<00:03,  4.60it/s]
+Animation 12: FadeIn(Surface of 576 submobjects):  44%|####4     | 12/27 [00:02<00:03,  4.69it/s]
+Animation 12: FadeIn(Surface of 576 submobjects):  48%|####8     | 13/27 [00:02<00:02,  4.79it/s]
+Animation 12: FadeIn(Surface of 576 submobjects):  52%|#####1    | 14/27 [00:02<00:02,  4.65it/s]
+Animation 12: FadeIn(Surface of 576 submobjects):  56%|#####5    | 15/27 [00:03<00:02,  4.56it/s]
+Animation 12: FadeIn(Surface of 576 submobjects):  59%|#####9    | 16/27 [00:03<00:02,  4.70it/s]
+Animation 12: FadeIn(Surface of 576 submobjects):  63%|######2   | 17/27 [00:03<00:02,  4.51it/s]
+Animation 12: FadeIn(Surface of 576 submobjects):  67%|######6   | 18/27 [00:03<00:01,  4.58it/s]
+Animation 12: FadeIn(Surface of 576 submobjects):  70%|#######   | 19/27 [00:04<00:01,  4.73it/s]
+Animation 12: FadeIn(Surface of 576 submobjects):  74%|#######4  | 20/27 [00:04<00:01,  4.90it/s]
+Animation 12: FadeIn(Surface of 576 submobjects):  78%|#######7  | 21/27 [00:04<00:01,  5.02it/s]
+Animation 12: FadeIn(Surface of 576 submobjects):  81%|########1 | 22/27 [00:04<00:00,  5.11it/s]
+Animation 12: FadeIn(Surface of 576 submobjects):  85%|########5 | 23/27 [00:04<00:00,  5.16it/s]
+Animation 12: FadeIn(Surface of 576 submobjects):  89%|########8 | 24/27 [00:05<00:00,  5.09it/s]
+Animation 12: FadeIn(Surface of 576 submobjects):  93%|#########2| 25/27 [00:05<00:00,  5.03it/s]
+Animation 12: FadeIn(Surface of 576 submobjects):  96%|#########6| 26/27 [00:05<00:00,  4.71it/s]
+Animation 12: FadeIn(Surface of 576 submobjects): 100%|##########| 27/27 [00:05<00:00,  4.85it/s]
+                                                                                                 
+[10/14/25 13:39:46] INFO     Animation 12 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\874b5675\videos                         
+                             \complex_numbers_explaine                         
+                             r\480p15\partial_movie_fi                         
+                             les\ComplexNumbersScene\3                         
+                             934569369_1412288240_1996                         
+                             015735.mp4'                                       
+
+Animation 13: Create(VGroup of 2 submobjects):   0%|          | 0/23 [00:00<?, ?it/s]
+                                                                                     
+                    INFO     Animation 13 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\874b5675\videos                         
+                             \complex_numbers_explaine                         
+                             r\480p15\partial_movie_fi                         
+                             les\ComplexNumbersScene\1                         
+                             921521150_1087914414_3242                         
+                             451105.mp4'                                       
+
+Waiting 14:   0%|          | 0/90 [00:00<?, ?it/s]
+Waiting 14:   1%|1         | 1/90 [00:00<00:16,  5.46it/s]
+Waiting 14:   2%|2         | 2/90 [00:00<00:17,  4.94it/s]
+Waiting 14:   3%|3         | 3/90 [00:00<00:18,  4.81it/s]
+Waiting 14:   4%|4         | 4/90 [00:00<00:16,  5.12it/s]
+Waiting 14:   6%|5         | 5/90 [00:00<00:15,  5.34it/s]
+Waiting 14:   7%|6         | 6/90 [00:01<00:15,  5.37it/s]
+Waiting 14:   8%|7         | 7/90 [00:01<00:16,  5.03it/s]
+Waiting 14:   9%|8         | 8/90 [00:01<00:16,  5.09it/s]
+Waiting 14:  10%|#         | 9/90 [00:01<00:15,  5.24it/s]
+Waiting 14:  11%|#1        | 10/90 [00:01<00:15,  5.23it/s]
+Waiting 14:  12%|#2        | 11/90 [00:02<00:16,  4.90it/s]
+Waiting 14:  13%|#3        | 12/90 [00:02<00:16,  4.67it/s]
+Waiting 14:  14%|#4        | 13/90 [00:02<00:16,  4.69it/s]
+Waiting 14:  16%|#5        | 14/90 [00:02<00:15,  4.91it/s]
+Waiting 14:  17%|#6        | 15/90 [00:03<00:16,  4.51it/s]
+Waiting 14:  18%|#7        | 16/90 [00:03<00:16,  4.53it/s]
+Waiting 14:  19%|#8        | 17/90 [00:03<00:15,  4.68it/s]
+Waiting 14:  20%|##        | 18/90 [00:03<00:14,  4.80it/s]
+Waiting 14:  21%|##1       | 19/90 [00:03<00:14,  4.74it/s]
+Waiting 14:  22%|##2       | 20/90 [00:04<00:14,  4.90it/s]
+Waiting 14:  23%|##3       | 21/90 [00:04<00:13,  5.09it/s]
+Waiting 14:  24%|##4       | 22/90 [00:04<00:13,  5.10it/s]
+Waiting 14:  26%|##5       | 23/90 [00:04<00:13,  5.09it/s]
+Waiting 14:  27%|##6       | 24/90 [00:04<00:13,  5.02it/s]
+Waiting 14:  28%|##7       | 25/90 [00:05<00:13,  4.94it/s]
+Waiting 14:  29%|##8       | 26/90 [00:05<00:13,  4.86it/s]
+Waiting 14:  30%|###       | 27/90 [00:05<00:12,  4.95it/s]
+Waiting 14:  31%|###1      | 28/90 [00:05<00:13,  4.71it/s]
+Waiting 14:  32%|###2      | 29/90 [00:05<00:12,  4.77it/s]
+Waiting 14:  33%|###3      | 30/90 [00:06<00:12,  4.68it/s]
+Waiting 14:  34%|###4      | 31/90 [00:06<00:12,  4.59it/s]
+Waiting 14:  36%|###5      | 32/90 [00:06<00:12,  4.61it/s]
+Waiting 14:  37%|###6      | 33/90 [00:06<00:13,  4.31it/s]
+Waiting 14:  38%|###7      | 34/90 [00:07<00:12,  4.45it/s]
+Waiting 14:  39%|###8      | 35/90 [00:07<00:11,  4.66it/s]
+Waiting 14:  40%|####      | 36/90 [00:07<00:11,  4.73it/s]
+Waiting 14:  41%|####1     | 37/90 [00:07<00:10,  4.84it/s]
+Waiting 14:  42%|####2     | 38/90 [00:07<00:10,  4.83it/s]
+Waiting 14:  43%|####3     | 39/90 [00:08<00:10,  4.77it/s]
+Waiting 14:  44%|####4     | 40/90 [00:08<00:10,  4.69it/s]
+Waiting 14:  46%|####5     | 41/90 [00:08<00:10,  4.69it/s]
+Waiting 14:  47%|####6     | 42/90 [00:08<00:10,  4.47it/s]
+Waiting 14:  48%|####7     | 43/90 [00:08<00:10,  4.48it/s]
+Waiting 14:  49%|####8     | 44/90 [00:09<00:09,  4.65it/s]
+Waiting 14:  50%|#####     | 45/90 [00:09<00:09,  4.90it/s]
+Waiting 14:  51%|#####1    | 46/90 [00:09<00:09,  4.61it/s]
+Waiting 14:  52%|#####2    | 47/90 [00:09<00:09,  4.48it/s]
+Waiting 14:  53%|#####3    | 48/90 [00:10<00:10,  4.18it/s]
+Waiting 14:  54%|#####4    | 49/90 [00:10<00:09,  4.35it/s]
+Waiting 14:  56%|#####5    | 50/90 [00:10<00:08,  4.47it/s]
+Waiting 14:  57%|#####6    | 51/90 [00:10<00:08,  4.43it/s]
+Waiting 14:  58%|#####7    | 52/90 [00:10<00:08,  4.35it/s]
+Waiting 14:  59%|#####8    | 53/90 [00:11<00:08,  4.34it/s]
+Waiting 14:  60%|######    | 54/90 [00:11<00:08,  4.46it/s]
+Waiting 14:  61%|######1   | 55/90 [00:11<00:07,  4.48it/s]
+Waiting 14:  62%|######2   | 56/90 [00:11<00:07,  4.71it/s]
+Waiting 14:  63%|######3   | 57/90 [00:12<00:06,  4.89it/s]
+Waiting 14:  64%|######4   | 58/90 [00:12<00:06,  4.97it/s]
+Waiting 14:  66%|######5   | 59/90 [00:12<00:06,  4.57it/s]
+Waiting 14:  67%|######6   | 60/90 [00:12<00:06,  4.77it/s]
+Waiting 14:  68%|######7   | 61/90 [00:12<00:05,  4.88it/s]
+Waiting 14:  69%|######8   | 62/90 [00:13<00:05,  4.70it/s]
+Waiting 14:  70%|#######   | 63/90 [00:13<00:05,  4.77it/s]
+Waiting 14:  71%|#######1  | 64/90 [00:13<00:05,  4.85it/s]
+Waiting 14:  72%|#######2  | 65/90 [00:13<00:05,  4.99it/s]
+Waiting 14:  73%|#######3  | 66/90 [00:13<00:04,  5.10it/s]
+Waiting 14:  74%|#######4  | 67/90 [00:14<00:04,  5.06it/s]
+Waiting 14:  76%|#######5  | 68/90 [00:14<00:04,  5.21it/s]
+Waiting 14:  77%|#######6  | 69/90 [00:14<00:03,  5.29it/s]
+Waiting 14:  78%|#######7  | 70/90 [00:14<00:03,  5.17it/s]
+Waiting 14:  79%|#######8  | 71/90 [00:14<00:03,  5.01it/s]
+Waiting 14:  80%|########  | 72/90 [00:15<00:03,  4.91it/s]
+Waiting 14:  81%|########1 | 73/90 [00:15<00:03,  4.57it/s]
+Waiting 14:  82%|########2 | 74/90 [00:15<00:03,  4.44it/s]
+Waiting 14:  83%|########3 | 75/90 [00:15<00:03,  4.32it/s]
+Waiting 14:  84%|########4 | 76/90 [00:15<00:03,  4.61it/s]
+Waiting 14:  86%|########5 | 77/90 [00:16<00:02,  4.86it/s]
+Waiting 14:  87%|########6 | 78/90 [00:16<00:02,  4.78it/s]
+Waiting 14:  88%|########7 | 79/90 [00:16<00:02,  4.59it/s]
+Waiting 14:  89%|########8 | 80/90 [00:16<00:02,  4.49it/s]
+Waiting 14:  90%|######### | 81/90 [00:17<00:02,  4.47it/s]
+Waiting 14:  91%|#########1| 82/90 [00:17<00:01,  4.60it/s]
+Waiting 14:  92%|#########2| 83/90 [00:17<00:01,  4.77it/s]
+Waiting 14:  93%|#########3| 84/90 [00:17<00:01,  5.02it/s]
+Waiting 14:  94%|#########4| 85/90 [00:17<00:01,  4.73it/s]
+Waiting 14:  96%|#########5| 86/90 [00:18<00:00,  4.59it/s]
+Waiting 14:  97%|#########6| 87/90 [00:18<00:00,  4.52it/s]
+Waiting 14:  98%|#########7| 88/90 [00:18<00:00,  4.50it/s]
+Waiting 14:  99%|#########8| 89/90 [00:18<00:00,  4.64it/s]
+Waiting 14: 100%|##########| 90/90 [00:19<00:00,  4.38it/s]
+                                                           
+[10/14/25 13:40:06] INFO     Animation 14 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\874b5675\videos                         
+                             \complex_numbers_explaine                         
+                             r\480p15\partial_movie_fi                         
+                             les\ComplexNumbersScene\2                         
+                             65589039_79538804_9835164                         
+                             69.mp4'                                           
+                    INFO     Combining to Movie file.  scene_file_writer.py:739
+                    INFO                               scene_file_writer.py:886
+                             File ready at                                     
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\874b5675\videos                         
+                             \complex_numbers_explaine                         
+                             r\480p15\out.mp4'                                 
+                                                                               
+                    INFO     Rendered ComplexNumbersScene          scene.py:255
+                             Played 15 animations                              

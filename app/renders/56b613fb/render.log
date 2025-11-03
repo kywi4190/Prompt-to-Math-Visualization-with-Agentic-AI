@@ -1,0 +1,90 @@
+Manim Community v0.19.0
+
+
+Animation 0: Create(NumberPlane of 4 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]
+                                                                                         
+[10/13/25 19:06:14] INFO     Animation 0 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\56b613fb\media\                         
+                             videos\inner_product_warp                         
+                             \480p15\partial_movie_fil                         
+                             es\InnerProductWarpScene\                         
+                             1185818338_3461733558_223                         
+                             132457.mp4'                                       
+
+Animation 1: Create(Arrow), etc.:   0%|          | 0/15 [00:00<?, ?it/s]
+                                                                        
+[10/13/25 19:06:15] INFO     Animation 1 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\56b613fb\media\                         
+                             videos\inner_product_warp                         
+                             \480p15\partial_movie_fil                         
+                             es\InnerProductWarpScene\                         
+                             624642324_381980468_11838                         
+                             06906.mp4'                                        
+
+Animation 2: Transform(Arrow), etc.:   0%|          | 0/15 [00:00<?, ?it/s]
+                                                                           
+                    INFO     Animation 2 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\56b613fb\media\                         
+                             videos\inner_product_warp                         
+                             \480p15\partial_movie_fil                         
+                             es\InnerProductWarpScene\                         
+                             624642324_2642990356_3860                         
+                             10524.mp4'                                        
+                    INFO     Animation 3 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\56b613fb\media\                         
+                             videos\inner_product_warp                         
+                             \480p15\partial_movie_fil                         
+                             es\InnerProductWarpScene\                         
+                             624642324_1839128356_2543                         
+                             98683.mp4'                                        
+
+Animation 4: Transform(Arrow), etc.:   0%|          | 0/15 [00:00<?, ?it/s]
+                                                                           
+                    INFO     Animation 4 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\56b613fb\media\                         
+                             videos\inner_product_warp                         
+                             \480p15\partial_movie_fil                         
+                             es\InnerProductWarpScene\                         
+                             624642324_3103312310_6931                         
+                             11694.mp4'                                        
+                    INFO     Animation 5 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\56b613fb\media\                         
+                             videos\inner_product_warp                         
+                             \480p15\partial_movie_fil                         
+                             es\InnerProductWarpScene\                         
+                             624642324_2408024828_1573                         
+                             997340.mp4'                                       
+
+Animation 6: FadeOut(Arrow), etc.:   0%|          | 0/15 [00:00<?, ?it/s]
+                                                                         
+                    INFO     Animation 6 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\56b613fb\media\                         
+                             videos\inner_product_warp                         
+                             \480p15\partial_movie_fil                         
+                             es\InnerProductWarpScene\                         
+                             624642324_2891936729_1536                         
+                             335468.mp4'                                       
+                    INFO     Combining to Movie file.  scene_file_writer.py:739
+                    INFO                               scene_file_writer.py:886
+                             File ready at                                     
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\56b613fb\media\                         
+                             videos\inner_product_warp                         
+                             \480p15\out.mp4'                                  
+                                                                               
+                    INFO     Rendered InnerProductWarpScene        scene.py:255
+                             Played 7 animations                               

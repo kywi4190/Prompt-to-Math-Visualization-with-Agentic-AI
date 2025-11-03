@@ -1,0 +1,391 @@
+Manim Community v0.19.0
+
+
+Animation 0: FadeIn(NumberPlane of 4 submobjects), etc.:   0%|          | 0/23 [00:00<?, ?it/s]
+                                                                                               
+[10/13/25 21:23:05] INFO     Animation 0 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\2e1af099\videos                         
+                             \linear_algebra_explainer                         
+                             \480p15\partial_movie_fil                         
+                             es\LinearAlgebraMinute\11                         
+                             85818338_2570453569_22313                         
+                             2457.mp4'                                         
+
+Animation 1: Create(Arrow), etc.:   0%|          | 0/23 [00:00<?, ?it/s]
+                                                                        
+                    INFO     Animation 1 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\2e1af099\videos                         
+                             \linear_algebra_explainer                         
+                             \480p15\partial_movie_fil                         
+                             es\LinearAlgebraMinute\62                         
+                             4642324_3195018616_381973                         
+                             4131.mp4'                                         
+
+Animation 2: FadeIn(Text('Linear algebra: warping space')):   0%|          | 0/30 [00:00<?, ?it/s]
+Animation 2: FadeIn(Text('Linear algebra: warping space')):  50%|#####     | 15/30 [00:00<00:00, 148.10it/s]
+Animation 2: FadeIn(Text('Linear algebra: warping space')): 100%|##########| 30/30 [00:00<00:00, 122.24it/s]
+                                                                                                            
+[10/13/25 21:23:06] INFO     Animation 2 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\2e1af099\videos                         
+                             \linear_algebra_explainer                         
+                             \480p15\partial_movie_fil                         
+                             es\LinearAlgebraMinute\62                         
+                             4642324_1037220996_197453                         
+                             4543.mp4'                                         
+
+Animation 3: FadeOut(Text('Linear algebra: warping space')):   0%|          | 0/8 [00:00<?, ?it/s]
+                                                                                                  
+                    INFO     Animation 3 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\2e1af099\videos                         
+                             \linear_algebra_explainer                         
+                             \480p15\partial_movie_fil                         
+                             es\LinearAlgebraMinute\62                         
+                             4642324_4045011033_385782                         
+                             5439.mp4'                                         
+
+Animation 4: FadeIn(Text('A = [[1.2, 0.6], [0.0, 0.9]]')):   0%|          | 0/15 [00:00<?, ?it/s]
+                                                                                                 
+                    INFO     Animation 4 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\2e1af099\videos                         
+                             \linear_algebra_explainer                         
+                             \480p15\partial_movie_fil                         
+                             es\LinearAlgebraMinute\62                         
+                             4642324_1054838507_197453                         
+                             4543.mp4'                                         
+
+Animation 5: _MethodAnimation(NumberPlane of 4 submobjects), etc.:   0%|          | 0/105 [00:00<?, ?it/s]
+Animation 5: _MethodAnimation(NumberPlane of 4 submobjects), etc.:  31%|###1      | 33/105 [00:00<00:00, 322.02it/s]
+Animation 5: _MethodAnimation(NumberPlane of 4 submobjects), etc.:  63%|######2   | 66/105 [00:00<00:00, 300.32it/s]
+Animation 5: _MethodAnimation(NumberPlane of 4 submobjects), etc.:  92%|#########2| 97/105 [00:00<00:00, 264.65it/s]
+                                                                                                                    
+[10/13/25 21:23:07] INFO     Animation 5 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\2e1af099\videos                         
+                             \linear_algebra_explainer                         
+                             \480p15\partial_movie_fil                         
+                             es\LinearAlgebraMinute\62                         
+                             4642324_620489684_4913258                         
+                             2.mp4'                                            
+                    INFO     Animation 6 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\2e1af099\videos                         
+                             \linear_algebra_explainer                         
+                             \480p15\partial_movie_fil                         
+                             es\LinearAlgebraMinute\62                         
+                             4642324_1754310298_427205                         
+                             1856.mp4'                                         
+
+Animation 7: FadeOut(Text('A = [[1.2, 0.6], [0.0, 0.9]]')):   0%|          | 0/15 [00:00<?, ?it/s]
+                                                                                                  
+                    INFO     Animation 7 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\2e1af099\videos                         
+                             \linear_algebra_explainer                         
+                             \480p15\partial_movie_fil                         
+                             es\LinearAlgebraMinute\62                         
+                             4642324_4290062266_206548                         
+                             1529.mp4'                                         
+
+Animation 8: FadeIn(Polygon):   0%|          | 0/15 [00:00<?, ?it/s]
+                                                                    
+[10/13/25 21:23:08] INFO     Animation 8 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\2e1af099\videos                         
+                             \linear_algebra_explainer                         
+                             \480p15\partial_movie_fil                         
+                             es\LinearAlgebraMinute\62                         
+                             4642324_712219413_3919335                         
+                             842.mp4'                                          
+
+Animation 9: _MethodAnimation(Polygon):   0%|          | 0/60 [00:00<?, ?it/s]
+                                                                              
+                    INFO     Animation 9 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\2e1af099\videos                         
+                             \linear_algebra_explainer                         
+                             \480p15\partial_movie_fil                         
+                             es\LinearAlgebraMinute\62                         
+                             4642324_2598833730_324985                         
+                             9882.mp4'                                         
+
+Animation 10: FadeIn(Text('det(A) = 1.08')):   0%|          | 0/15 [00:00<?, ?it/s]
+                                                                                   
+                    INFO     Animation 10 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\2e1af099\videos                         
+                             \linear_algebra_explainer                         
+                             \480p15\partial_movie_fil                         
+                             es\LinearAlgebraMinute\62                         
+                             4642324_2252261951_190690                         
+                             4768.mp4'                                         
+                    INFO     Animation 11 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\2e1af099\videos                         
+                             \linear_algebra_explainer                         
+                             \480p15\partial_movie_fil                         
+                             es\LinearAlgebraMinute\62                         
+                             4642324_1464625686_399800                         
+                             2298.mp4'                                         
+
+Animation 12: FadeOut(Polygon), etc.:   0%|          | 0/15 [00:00<?, ?it/s]
+                                                                            
+                    INFO     Animation 12 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\2e1af099\videos                         
+                             \linear_algebra_explainer                         
+                             \480p15\partial_movie_fil                         
+                             es\LinearAlgebraMinute\62                         
+                             4642324_3452898246_384349                         
+                             022.mp4'                                          
+
+Animation 13: FadeOut(VGroup of 3 submobjects):   0%|          | 0/15 [00:00<?, ?it/s]
+                                                                                      
+[10/13/25 21:23:09] INFO     Animation 13 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\2e1af099\videos                         
+                             \linear_algebra_explainer                         
+                             \480p15\partial_movie_fil                         
+                             es\LinearAlgebraMinute\62                         
+                             4642324_4220284537_560242                         
+                             850.mp4'                                          
+
+Animation 14: FadeIn(NumberPlane of 4 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]
+                                                                                                
+                    INFO     Animation 14 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\2e1af099\videos                         
+                             \linear_algebra_explainer                         
+                             \480p15\partial_movie_fil                         
+                             es\LinearAlgebraMinute\62                         
+                             4642324_4027301191_792213                         
+                             515.mp4'                                          
+
+Animation 15: FadeIn(Text('shear')):   0%|          | 0/8 [00:00<?, ?it/s]
+                                                                          
+                    INFO     Animation 15 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\2e1af099\videos                         
+                             \linear_algebra_explainer                         
+                             \480p15\partial_movie_fil                         
+                             es\LinearAlgebraMinute\62                         
+                             4642324_120684822_2950570                         
+                             723.mp4'                                          
+
+Animation 16: _MethodAnimation(NumberPlane of 4 submobjects), etc.:   0%|          | 0/60 [00:00<?, ?it/s]
+Animation 16: _MethodAnimation(NumberPlane of 4 submobjects), etc.:  33%|###3      | 20/60 [00:00<00:00, 191.56it/s]
+Animation 16: _MethodAnimation(NumberPlane of 4 submobjects), etc.:  67%|######6   | 40/60 [00:00<00:00, 187.50it/s]
+Animation 16: _MethodAnimation(NumberPlane of 4 submobjects), etc.:  98%|#########8| 59/60 [00:00<00:00, 173.23it/s]
+                                                                                                                    
+                    INFO     Animation 16 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\2e1af099\videos                         
+                             \linear_algebra_explainer                         
+                             \480p15\partial_movie_fil                         
+                             es\LinearAlgebraMinute\62                         
+                             4642324_3529627839_230655                         
+                             7440.mp4'                                         
+
+Animation 17: FadeOut(Text('shear')):   0%|          | 0/8 [00:00<?, ?it/s]
+                                                                           
+[10/13/25 21:23:10] INFO     Animation 17 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\2e1af099\videos                         
+                             \linear_algebra_explainer                         
+                             \480p15\partial_movie_fil                         
+                             es\LinearAlgebraMinute\62                         
+                             4642324_2601332354_395053                         
+                             0765.mp4'                                         
+
+Animation 18: FadeIn(Text('stretch')):   0%|          | 0/8 [00:00<?, ?it/s]
+                                                                            
+                    INFO     Animation 18 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\2e1af099\videos                         
+                             \linear_algebra_explainer                         
+                             \480p15\partial_movie_fil                         
+                             es\LinearAlgebraMinute\62                         
+                             4642324_3774239568_306902                         
+                             1687.mp4'                                         
+
+Animation 19: _MethodAnimation(NumberPlane of 4 submobjects), etc.:   0%|          | 0/60 [00:00<?, ?it/s]
+Animation 19: _MethodAnimation(NumberPlane of 4 submobjects), etc.:  42%|####1     | 25/60 [00:00<00:00, 244.29it/s]
+Animation 19: _MethodAnimation(NumberPlane of 4 submobjects), etc.:  83%|########3 | 50/60 [00:00<00:00, 237.14it/s]
+                                                                                                                    
+                    INFO     Animation 19 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\2e1af099\videos                         
+                             \linear_algebra_explainer                         
+                             \480p15\partial_movie_fil                         
+                             es\LinearAlgebraMinute\62                         
+                             4642324_1897759407_256006                         
+                             9618.mp4'                                         
+
+Animation 20: FadeOut(Text('stretch')):   0%|          | 0/8 [00:00<?, ?it/s]
+                                                                             
+                    INFO     Animation 20 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\2e1af099\videos                         
+                             \linear_algebra_explainer                         
+                             \480p15\partial_movie_fil                         
+                             es\LinearAlgebraMinute\62                         
+                             4642324_2718451199_244478                         
+                             8111.mp4'                                         
+
+Animation 21: FadeOut(NumberPlane of 4 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]
+                                                                                                 
+                    INFO     Animation 21 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\2e1af099\videos                         
+                             \linear_algebra_explainer                         
+                             \480p15\partial_movie_fil                         
+                             es\LinearAlgebraMinute\62                         
+                             4642324_3331006423_228839                         
+                             8318.mp4'                                         
+
+Animation 22: FadeIn(Line), etc.:   0%|          | 0/30 [00:00<?, ?it/s]
+                                                                        
+[10/13/25 21:23:11] INFO     Animation 22 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\2e1af099\videos                         
+                             \linear_algebra_explainer                         
+                             \480p15\partial_movie_fil                         
+                             es\LinearAlgebraMinute\62                         
+                             4642324_3850377627_410079                         
+                             4580.mp4'                                         
+
+Animation 23: _MethodAnimation(Line), etc.:   0%|          | 0/75 [00:00<?, ?it/s]
+Animation 23: _MethodAnimation(Line), etc.:  49%|####9     | 37/75 [00:00<00:00, 369.93it/s]
+                                                                                            
+                    INFO     Animation 23 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\2e1af099\videos                         
+                             \linear_algebra_explainer                         
+                             \480p15\partial_movie_fil                         
+                             es\LinearAlgebraMinute\62                         
+                             4642324_318776995_1723842                         
+                             154.mp4'                                          
+                    INFO     Animation 24 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\2e1af099\videos                         
+                             \linear_algebra_explainer                         
+                             \480p15\partial_movie_fil                         
+                             es\LinearAlgebraMinute\62                         
+                             4642324_1754310298_388947                         
+                             2392.mp4'                                         
+
+Animation 25: FadeOut(Line), etc.:   0%|          | 0/30 [00:00<?, ?it/s]
+                                                                         
+                    INFO     Animation 25 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\2e1af099\videos                         
+                             \linear_algebra_explainer                         
+                             \480p15\partial_movie_fil                         
+                             es\LinearAlgebraMinute\62                         
+                             4642324_2650315386_178911                         
+                             1305.mp4'                                         
+
+Animation 26: FadeIn(Arrow), etc.:   0%|          | 0/30 [00:00<?, ?it/s]
+Animation 26: FadeIn(Arrow), etc.: 100%|##########| 30/30 [00:00<00:00, 295.69it/s]
+                                                                                   
+                    INFO     Animation 26 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\2e1af099\videos                         
+                             \linear_algebra_explainer                         
+                             \480p15\partial_movie_fil                         
+                             es\LinearAlgebraMinute\62                         
+                             4642324_2350628285_158976                         
+                             3944.mp4'                                         
+
+Animation 27: _MethodAnimation(Arrow):   0%|          | 0/75 [00:00<?, ?it/s]
+Animation 27: _MethodAnimation(Arrow):  44%|####4     | 33/75 [00:00<00:00, 323.87it/s]
+Animation 27: _MethodAnimation(Arrow):  88%|########8 | 66/75 [00:00<00:00, 326.82it/s]
+                                                                                       
+[10/13/25 21:23:12] INFO     Animation 27 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\2e1af099\videos                         
+                             \linear_algebra_explainer                         
+                             \480p15\partial_movie_fil                         
+                             es\LinearAlgebraMinute\62                         
+                             4642324_301251742_1306681                         
+                             926.mp4'                                          
+
+Animation 28: Indicate(Arrow):   0%|          | 0/15 [00:00<?, ?it/s]
+                                                                     
+                    INFO     Animation 28 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\2e1af099\videos                         
+                             \linear_algebra_explainer                         
+                             \480p15\partial_movie_fil                         
+                             es\LinearAlgebraMinute\62                         
+                             4642324_1789622363_288438                         
+                             3758.mp4'                                         
+
+Animation 29: FadeOut(Arrow), etc.:   0%|          | 0/30 [00:00<?, ?it/s]
+                                                                          
+                    INFO     Animation 29 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\2e1af099\videos                         
+                             \linear_algebra_explainer                         
+                             \480p15\partial_movie_fil                         
+                             es\LinearAlgebraMinute\62                         
+                             4642324_3099290089_930084                         
+                             435.mp4'                                          
+
+Animation 30: FadeIn(Text('warp • area • eigenvectors • solving')):   0%|          | 0/38 [00:00<?, ?it/s]
+Animation 30: FadeIn(Text('warp • area • eigenvectors • solving')):  34%|###4      | 13/38 [00:00<00:00, 122.50it/s]
+Animation 30: FadeIn(Text('warp • area • eigenvectors • solving')):  68%|######8   | 26/38 [00:00<00:00, 122.24it/s]
+                                                                                                                    
+[10/13/25 21:23:13] INFO     Animation 30 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\2e1af099\videos                         
+                             \linear_algebra_explainer                         
+                             \480p15\partial_movie_fil                         
+                             es\LinearAlgebraMinute\62                         
+                             4642324_1999882307_837381                         
+                             85.mp4'                                           
+                    INFO     Combining to Movie file.  scene_file_writer.py:739
+                    INFO                               scene_file_writer.py:886
+                             File ready at                                     
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\2e1af099\videos                         
+                             \linear_algebra_explainer                         
+                             \480p15\out.mp4'                                  
+                                                                               
+                    INFO     Rendered LinearAlgebraMinute          scene.py:255
+                             Played 31 animations                              

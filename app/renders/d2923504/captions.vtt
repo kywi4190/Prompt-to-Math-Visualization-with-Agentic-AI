@@ -1,0 +1,25 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:02.200
+Division asks: how many times does a chunk fit?
+
+2
+00:00:02.200 --> 00:00:06.799
+Here, 12 divided by 3 is: how many 3-long steps fit into 12?
+
+3
+00:00:06.799 --> 00:00:08.500
+Step, step, step, step — four times.
+
+4
+00:00:08.500 --> 00:00:10.199
+So 12 / 3 = 4.
+
+5
+00:00:10.199 --> 00:00:13.500
+Another view: split 12 into 3 equal parts.
+
+6
+00:00:13.500 --> 00:00:16.800
+Each piece has length 4 — the same answer.

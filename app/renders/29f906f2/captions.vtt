@@ -1,0 +1,109 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:02.000
+Imagine hiking on a bowl-shaped hill: a paraboloid.
+
+2
+00:00:02.000 --> 00:00:04.000
+The gradient shows the direction of steepest uphill.
+
+3
+00:00:04.000 --> 00:00:06.000
+We set up axes, the surface z = x^2 + y^2, and a ground grid.
+
+4
+00:00:06.000 --> 00:00:08.000
+Pick a radius r and angle t on the ground to choose a point.
+
+5
+00:00:08.000 --> 00:00:09.500
+Lift that point up to the surface along a vertical line.
+
+6
+00:00:09.500 --> 00:00:11.000
+Draw the contour circle r = const on the ground.
+
+7
+00:00:11.000 --> 00:00:13.000
+The red arrow is the gradient on the plane; it points radially.
+
+8
+00:00:13.000 --> 00:00:15.000
+The cyan arrow is tangent to the contour; it points along the circle.
+
+9
+00:00:15.000 --> 00:00:17.000
+Notice the right angle: gradient is perpendicular to contours.
+
+10
+00:00:17.000 --> 00:00:19.000
+Let the point orbit once: watch the directions as t increases.
+
+11
+00:00:19.000 --> 00:00:21.000
+The gradient always aligns with the radius of the contour.
+
+12
+00:00:21.000 --> 00:00:23.000
+And the tangent arrow stays orthogonal to it everywhere.
+
+13
+00:00:23.000 --> 00:00:25.000
+Increase the radius r: we move farther from the peak.
+
+14
+00:00:25.000 --> 00:00:27.000
+The slope gets steeper outward: |∇f| grows with r.
+
+15
+00:00:27.000 --> 00:00:29.500
+Another lap: orthogonality still holds along the whole circle.
+
+16
+00:00:29.500 --> 00:00:31.500
+Reframe the camera to see the climb direction clearly.
+
+17
+00:00:31.500 --> 00:00:33.500
+Green arrow: the steepest ascent on the surface itself.
+
+18
+00:00:33.500 --> 00:00:35.500
+It tilts upward and projects to the red gradient on the plane.
+
+19
+00:00:35.500 --> 00:00:37.500
+Bring the radius inward slightly: the slope decreases.
+
+20
+00:00:37.500 --> 00:00:39.500
+Yet the ascent direction still aligns with the gradient.
+
+21
+00:00:39.500 --> 00:00:41.500
+One more orbit: gradient stays radial, tangent stays circular.
+
+22
+00:00:41.500 --> 00:00:43.500
+Contours are level sets: all points of equal height.
+
+23
+00:00:43.500 --> 00:00:45.500
+The gradient points in the direction of fastest increase.
+
+24
+00:00:45.500 --> 00:00:47.500
+And it is perpendicular to every level set it meets.
+
+25
+00:00:47.500 --> 00:00:49.500
+Summary: Gradient = fastest increase; Contours = constant height.
+
+26
+00:00:49.500 --> 00:00:51.500
+On this paraboloid, ∇f points straight outward on the ground.
+
+27
+00:00:51.500 --> 00:00:53.399
+That outward direction lifts you uphill the quickest.

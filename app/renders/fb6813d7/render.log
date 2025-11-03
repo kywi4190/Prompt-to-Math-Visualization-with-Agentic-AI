@@ -1,0 +1,70 @@
+Manim Community v0.19.0
+
++--------------------- Traceback (most recent call last) ---------------------+
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\cli\render\commands.py: |
+| 125 in render                                                               |
+|                                                                             |
+|   122             try:                                                      |
+|   123                 with tempconfig({}):                                  |
+|   124                     scene = SceneClass()                              |
+| > 125                     scene.render()                                    |
+|   126             except Exception:                                         |
+|   127                 error_console.print_exception()                       |
+|   128                 sys.exit(1)                                           |
+|                                                                             |
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\scene\scene.py:237 in   |
+| render                                                                      |
+|                                                                             |
+|    234         """                                                          |
+|    235         self.setup()                                                 |
+|    236         try:                                                         |
+| >  237             self.construct()                                         |
+|    238         except EndSceneEarlyException:                               |
+|    239             pass                                                     |
+|    240         except RerunSceneException:                                  |
+|                                                                             |
+| C:\dev\math-video-mvp\app\renders\fb6813d7\western_standoff.py:168 in       |
+| construct                                                                   |
+|                                                                             |
+|   165         self.set_camera_orientation(phi=88 * DEGREES, theta=20 * DEGR |
+|   166                                                                       |
+|   167         # Ground plane (desert)                                       |
+| > 168         ground = ParametricSurface(                                   |
+|   169             lambda u, v: np.array([u, 0.0, v]),                       |
+|   170             u_min=-8,                                                 |
+|   171             u_max=8,                                                  |
+|                                                                             |
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\mobject\three_d\three_d |
+| imensions.py:119 in __init__                                                |
+|                                                                             |
+|    116     ) -> None:                                                       |
+|    117         self.u_range = u_range                                       |
+|    118         self.v_range = v_range                                       |
+| >  119         super().__init__(**kwargs)                                   |
+|    120         self.resolution = resolution                                 |
+|    121         self.surface_piece_config = surface_piece_config             |
+|    122         self.fill_color: ManimColor = ManimColor(fill_color)         |
+|                                                                             |
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\mobject\types\vectorize |
+| d_mobject.py:2118 in __init__                                               |
+|                                                                             |
+|   2115     def __init__(                                                    |
+|   2116         self, *vmobjects: VMobject | Iterable[VMobject], **kwargs: A |
+|   2117     ) -> None:                                                       |
+| > 2118         super().__init__(**kwargs)                                   |
+|   2119         self.add(*vmobjects)                                         |
+|   2120                                                                      |
+|   2121     def __repr__(self) -> str:                                       |
+|                                                                             |
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\mobject\types\vectorize |
+| d_mobject.py:161 in __init__                                                |
+|                                                                             |
+|    158             0, 1, n_points_per_cubic_curve                           |
+|    159         )                                                            |
+|    160         self.cap_style: CapStyleType = cap_style                     |
+| >  161         super().__init__(**kwargs)                                   |
+|    162         self.submobjects: list[VMobject]                             |
+|    163                                                                      |
+|    164         # TODO: Find where color overwrites are happening and remove |
++-----------------------------------------------------------------------------+
+TypeError: Mobject.__init__() got an unexpected keyword argument 'u_min'

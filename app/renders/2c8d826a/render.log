@@ -1,0 +1,183 @@
+Manim Community v0.19.0
+
+
+Animation 0: FadeIn(NumberPlane of 4 submobjects):   0%|          | 0/12 [00:00<?, ?it/s]
+                                                                                         
+[10/13/25 21:28:59] INFO     Animation 0 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\2c8d826a\videos                         
+                             \universe_meaning\480p15\                         
+                             partial_movie_files\Unive                         
+                             rseMeaningScene\118581833                         
+                             8_1541039565_223132457.mp                         
+                             4'                                                
+
+Animation 1: Create(Polygon), etc.:   0%|          | 0/18 [00:00<?, ?it/s]
+Animation 1: Create(Polygon), etc.:  72%|#######2  | 13/18 [00:00<00:00, 126.66it/s]
+                                                                                    
+[10/13/25 21:29:00] INFO     Animation 1 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\2c8d826a\videos                         
+                             \universe_meaning\480p15\                         
+                             partial_movie_files\Unive                         
+                             rseMeaningScene\624642324                         
+                             _3029302657_1305482401.mp                         
+                             4'                                                
+
+Animation 2: Rotate(Polygon):   0%|          | 0/30 [00:00<?, ?it/s]
+Animation 2: Rotate(Polygon):  50%|#####     | 15/30 [00:00<00:00, 147.89it/s]
+Animation 2: Rotate(Polygon): 100%|##########| 30/30 [00:00<00:00, 127.04it/s]
+                                                                              
+                    INFO     Animation 2 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\2c8d826a\videos                         
+                             \universe_meaning\480p15\                         
+                             partial_movie_files\Unive                         
+                             rseMeaningScene\624642324                         
+                             _167296254_2306101721.mp4                         
+                             '                                                 
+
+Animation 3: ApplyMatrix(Polygon):   0%|          | 0/30 [00:00<?, ?it/s]
+Animation 3: ApplyMatrix(Polygon):  43%|####3     | 13/30 [00:00<00:00, 121.39it/s]
+Animation 3: ApplyMatrix(Polygon):  87%|########6 | 26/30 [00:00<00:00, 120.82it/s]
+                                                                                   
+                    INFO     Animation 3 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\2c8d826a\videos                         
+                             \universe_meaning\480p15\                         
+                             partial_movie_files\Unive                         
+                             rseMeaningScene\624642324                         
+                             _2089907285_2306101721.mp                         
+                             4'                                                
+
+Animation 4: FadeOut(Polygon), etc.:   0%|          | 0/8 [00:00<?, ?it/s]
+                                                                          
+[10/13/25 21:29:01] INFO     Animation 4 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\2c8d826a\videos                         
+                             \universe_meaning\480p15\                         
+                             partial_movie_files\Unive                         
+                             rseMeaningScene\624642324                         
+                             _3005671861_2167985188.mp                         
+                             4'                                                
+
+Animation 5: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/12 [00:00<?, ?it/s]
+                                                                                          
+                    INFO     Animation 5 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\2c8d826a\videos                         
+                             \universe_meaning\480p15\                         
+                             partial_movie_files\Unive                         
+                             rseMeaningScene\624642324                         
+                             _767015716_2405140188.mp4                         
+                             '                                                 
+
+Animation 6: _MethodAnimation(VGroup of 2 submobjects):   0%|          | 0/45 [00:00<?, ?it/s]
+Animation 6: _MethodAnimation(VGroup of 2 submobjects):  29%|##8       | 13/45 [00:00<00:00, 123.60it/s]
+Animation 6: _MethodAnimation(VGroup of 2 submobjects):  58%|#####7    | 26/45 [00:00<00:00, 123.50it/s]
+Animation 6: _MethodAnimation(VGroup of 2 submobjects):  87%|########6 | 39/45 [00:00<00:00, 118.44it/s]
+                                                                                                        
+                    INFO     Animation 6 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\2c8d826a\videos                         
+                             \universe_meaning\480p15\                         
+                             partial_movie_files\Unive                         
+                             rseMeaningScene\624642324                         
+                             _2077042746_3311720406.mp                         
+                             4'                                                
+
+Animation 7: FadeOut(VGroup of 2 submobjects), etc.:   0%|          | 0/9 [00:00<?, ?it/s]
+                                                                                          
+[10/13/25 21:29:02] INFO     Animation 7 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\2c8d826a\videos                         
+                             \universe_meaning\480p15\                         
+                             partial_movie_files\Unive                         
+                             rseMeaningScene\624642324                         
+                             _2582329881_1983710513.mp                         
+                             4'                                                
+
+Animation 8: FadeIn(VGroup of 36 submobjects), etc.:   0%|          | 0/12 [00:00<?, ?it/s]
+Animation 8: FadeIn(VGroup of 36 submobjects), etc.:  75%|#######5  | 9/12 [00:00<00:00, 86.93it/s]
+                                                                                                   
+                    INFO     Animation 8 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\2c8d826a\videos                         
+                             \universe_meaning\480p15\                         
+                             partial_movie_files\Unive                         
+                             rseMeaningScene\624642324                         
+                             _514977985_2405140188.mp4                         
+                             '                                                 
+
+Animation 9: ApplyMatrix(VGroup of 36 submobjects):   0%|          | 0/45 [00:00<?, ?it/s]
+Animation 9: ApplyMatrix(VGroup of 36 submobjects):  18%|#7        | 8/45 [00:00<00:00, 75.09it/s]
+Animation 9: ApplyMatrix(VGroup of 36 submobjects):  40%|####      | 18/45 [00:00<00:00, 88.05it/s]
+Animation 9: ApplyMatrix(VGroup of 36 submobjects):  64%|######4   | 29/45 [00:00<00:00, 94.75it/s]
+Animation 9: ApplyMatrix(VGroup of 36 submobjects):  89%|########8 | 40/45 [00:00<00:00, 96.91it/s]
+                                                                                                   
+[10/13/25 21:29:03] INFO     Animation 9 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\2c8d826a\videos                         
+                             \universe_meaning\480p15\                         
+                             partial_movie_files\Unive                         
+                             rseMeaningScene\624642324                         
+                             _3972294018_2387357380.mp                         
+                             4'                                                
+
+Animation 10: ApplyMatrix(VGroup of 36 submobjects):   0%|          | 0/45 [00:00<?, ?it/s]
+Animation 10: ApplyMatrix(VGroup of 36 submobjects):  22%|##2       | 10/45 [00:00<00:00, 91.15it/s]
+Animation 10: ApplyMatrix(VGroup of 36 submobjects):  44%|####4     | 20/45 [00:00<00:00, 89.36it/s]
+Animation 10: ApplyMatrix(VGroup of 36 submobjects):  67%|######6   | 30/45 [00:00<00:00, 89.96it/s]
+Animation 10: ApplyMatrix(VGroup of 36 submobjects):  87%|########6 | 39/45 [00:00<00:00, 85.47it/s]
+                                                                                                    
+                    INFO     Animation 10 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\2c8d826a\videos                         
+                             \universe_meaning\480p15\                         
+                             partial_movie_files\Unive                         
+                             rseMeaningScene\624642324                         
+                             _3943609253_2387357380.mp                         
+                             4'                                                
+
+Animation 11: FadeIn(Text('Meaning via math: invariants + dynamics \u2192 patterns')):   0%|          | 0/15 [00:00<?, ?it/s]
+Animation 11: FadeIn(Text('Meaning via math: invariants + dynamics \u2192 patterns')):  60%|######    | 9/15 [00:00<00:00, 82.13it/s]
+                                                                                                                                
+[10/13/25 21:29:04] INFO     Animation 11 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\2c8d826a\videos                         
+                             \universe_meaning\480p15\                         
+                             partial_movie_files\Unive                         
+                             rseMeaningScene\624642324                         
+                             _3443860457_1267810894.mp                         
+                             4'                                                
+[10/13/25 21:29:05] INFO     Animation 12 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\2c8d826a\videos                         
+                             \universe_meaning\480p15\                         
+                             partial_movie_files\Unive                         
+                             rseMeaningScene\624642324                         
+                             _1754310298_1852053228.mp                         
+                             4'                                                
+                    INFO     Combining to Movie file.  scene_file_writer.py:739
+                    INFO                               scene_file_writer.py:886
+                             File ready at                                     
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\2c8d826a\videos                         
+                             \universe_meaning\480p15\                         
+                             out.mp4'                                          
+                                                                               
+                    INFO     Rendered UniverseMeaningScene         scene.py:255
+                             Played 13 animations                              

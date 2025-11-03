@@ -1,0 +1,394 @@
+Manim Community v0.19.0
+
+[10/14/25 21:01:28] INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 0: FadeIn(VGroup of 12 submobjects):   0%|          | 0/18 [00:00<?, ?it/s]
+                                                                                     
+                    INFO     Animation 0 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\ae92a9ed\videos                         
+                             \division_explainer\480p1                         
+                             5\partial_movie_files\Div                         
+                             isionExplainer\uncached_0                         
+                             0000.mp4'                                         
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 1: Create(Rectangle), etc.:   0%|          | 0/20 [00:00<?, ?it/s]
+                                                                            
+                    INFO     Animation 1 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\ae92a9ed\videos                         
+                             \division_explainer\480p1                         
+                             5\partial_movie_files\Div                         
+                             isionExplainer\uncached_0                         
+                             0001.mp4'                                         
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 2: _MethodAnimation(VGroup of 4 submobjects):   0%|          | 0/11 [00:00<?, ?it/s]
+                                                                                              
+                    INFO     Animation 2 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\ae92a9ed\videos                         
+                             \division_explainer\480p1                         
+                             5\partial_movie_files\Div                         
+                             isionExplainer\uncached_0                         
+                             0002.mp4'                                         
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 3: _MethodAnimation(VGroup of 4 submobjects):   0%|          | 0/11 [00:00<?, ?it/s]
+                                                                                              
+                    INFO     Animation 3 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\ae92a9ed\videos                         
+                             \division_explainer\480p1                         
+                             5\partial_movie_files\Div                         
+                             isionExplainer\uncached_0                         
+                             0003.mp4'                                         
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 4: _MethodAnimation(VGroup of 4 submobjects):   0%|          | 0/11 [00:00<?, ?it/s]
+                                                                                              
+                    INFO     Animation 4 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\ae92a9ed\videos                         
+                             \division_explainer\480p1                         
+                             5\partial_movie_files\Div                         
+                             isionExplainer\uncached_0                         
+                             0004.mp4'                                         
+                    INFO     Writing 12 \div 3 = 4 to   tex_file_writing.py:111
+                             Tex\2808fadfedb8141e.tex                          
+latex: security risk: running with elevated privileges
+latex: major issue: So far, you have not checked for MiKTeX updates.
+dvisvgm: security risk: running with elevated privileges
+[10/14/25 21:01:29] INFO     Writing 12 to              tex_file_writing.py:111
+                             Tex\eacd204bff9415f2.tex                          
+latex: security risk: running with elevated privileges
+latex: major issue: So far, you have not checked for MiKTeX updates.
+dvisvgm: security risk: running with elevated privileges
+[10/14/25 21:01:30] INFO     Writing \div to            tex_file_writing.py:111
+                             Tex\6878ecb72b310c8c.tex                          
+latex: security risk: running with elevated privileges
+latex: major issue: So far, you have not checked for MiKTeX updates.
+dvisvgm: security risk: running with elevated privileges
+[10/14/25 21:01:31] INFO     Writing 3 to               tex_file_writing.py:111
+                             Tex\8de07035cb22c903.tex                          
+latex: security risk: running with elevated privileges
+latex: major issue: So far, you have not checked for MiKTeX updates.
+dvisvgm: security risk: running with elevated privileges
+                    INFO     Writing = to               tex_file_writing.py:111
+                             Tex\383d1fb9b7d92e82.tex                          
+latex: security risk: running with elevated privileges
+latex: major issue: So far, you have not checked for MiKTeX updates.
+dvisvgm: security risk: running with elevated privileges
+[10/14/25 21:01:32] INFO     Writing 4 to               tex_file_writing.py:111
+                             Tex\31d3165490bf3404.tex                          
+latex: security risk: running with elevated privileges
+latex: major issue: So far, you have not checked for MiKTeX updates.
+dvisvgm: security risk: running with elevated privileges
+[10/14/25 21:01:33] INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 5: Write(MathTex('12 \\div 3 = 4')):   0%|          | 0/15 [00:00<?, ?it/s]
+                                                                                     
+                    INFO     Animation 5 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\ae92a9ed\videos                         
+                             \division_explainer\480p1                         
+                             5\partial_movie_files\Div                         
+                             isionExplainer\uncached_0                         
+                             0005.mp4'                                         
+                    INFO     Caching disabled.             cairo_renderer.py:79
+                    INFO     Animation 6 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\ae92a9ed\videos                         
+                             \division_explainer\480p1                         
+                             5\partial_movie_files\Div                         
+                             isionExplainer\uncached_0                         
+                             0006.mp4'                                         
+[10/14/25 21:01:34] INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 7: Create(Line):   0%|          | 0/9 [00:00<?, ?it/s]
+                                                                
+                    INFO     Animation 7 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\ae92a9ed\videos                         
+                             \division_explainer\480p1                         
+                             5\partial_movie_files\Div                         
+                             isionExplainer\uncached_0                         
+                             0007.mp4'                                         
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 8: Create(Line), etc.:   0%|          | 0/12 [00:00<?, ?it/s]
+                                                                       
+                    INFO     Animation 8 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\ae92a9ed\videos                         
+                             \division_explainer\480p1                         
+                             5\partial_movie_files\Div                         
+                             isionExplainer\uncached_0                         
+                             0008.mp4'                                         
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 9: _MethodAnimation(ValueTracker):   0%|          | 0/15 [00:00<?, ?it/s]
+                                                                                   
+                    INFO     Animation 9 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\ae92a9ed\videos                         
+                             \division_explainer\480p1                         
+                             5\partial_movie_files\Div                         
+                             isionExplainer\uncached_0                         
+                             0009.mp4'                                         
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 10: Create(Line), etc.:   0%|          | 0/8 [00:00<?, ?it/s]
+                                                                       
+                    INFO     Animation 10 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\ae92a9ed\videos                         
+                             \division_explainer\480p1                         
+                             5\partial_movie_files\Div                         
+                             isionExplainer\uncached_0                         
+                             0010.mp4'                                         
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 11: _MethodAnimation(ValueTracker):   0%|          | 0/15 [00:00<?, ?it/s]
+                                                                                    
+                    INFO     Animation 11 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\ae92a9ed\videos                         
+                             \division_explainer\480p1                         
+                             5\partial_movie_files\Div                         
+                             isionExplainer\uncached_0                         
+                             0011.mp4'                                         
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 12: Create(Line), etc.:   0%|          | 0/8 [00:00<?, ?it/s]
+                                                                       
+                    INFO     Animation 12 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\ae92a9ed\videos                         
+                             \division_explainer\480p1                         
+                             5\partial_movie_files\Div                         
+                             isionExplainer\uncached_0                         
+                             0012.mp4'                                         
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 13: _MethodAnimation(ValueTracker):   0%|          | 0/15 [00:00<?, ?it/s]
+                                                                                    
+                    INFO     Animation 13 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\ae92a9ed\videos                         
+                             \division_explainer\480p1                         
+                             5\partial_movie_files\Div                         
+                             isionExplainer\uncached_0                         
+                             0013.mp4'                                         
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 14: Create(Line), etc.:   0%|          | 0/8 [00:00<?, ?it/s]
+                                                                       
+                    INFO     Animation 14 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\ae92a9ed\videos                         
+                             \division_explainer\480p1                         
+                             5\partial_movie_files\Div                         
+                             isionExplainer\uncached_0                         
+                             0014.mp4'                                         
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 15: _MethodAnimation(ValueTracker):   0%|          | 0/15 [00:00<?, ?it/s]
+                                                                                    
+[10/14/25 21:01:35] INFO     Animation 15 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\ae92a9ed\videos                         
+                             \division_explainer\480p1                         
+                             5\partial_movie_files\Div                         
+                             isionExplainer\uncached_0                         
+                             0015.mp4'                                         
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 16: Create(Line), etc.:   0%|          | 0/8 [00:00<?, ?it/s]
+                                                                       
+                    INFO     Animation 16 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\ae92a9ed\videos                         
+                             \division_explainer\480p1                         
+                             5\partial_movie_files\Div                         
+                             isionExplainer\uncached_0                         
+                             0016.mp4'                                         
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 17: FadeIn(Text('4 equal groups')):   0%|          | 0/11 [00:00<?, ?it/s]
+                                                                                    
+                    INFO     Animation 17 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\ae92a9ed\videos                         
+                             \division_explainer\480p1                         
+                             5\partial_movie_files\Div                         
+                             isionExplainer\uncached_0                         
+                             0017.mp4'                                         
+                    INFO     Caching disabled.             cairo_renderer.py:79
+                    INFO     Animation 18 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\ae92a9ed\videos                         
+                             \division_explainer\480p1                         
+                             5\partial_movie_files\Div                         
+                             isionExplainer\uncached_0                         
+                             0018.mp4'                                         
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 19: FadeOut(VGroup of 5 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]
+Animation 19: FadeOut(VGroup of 5 submobjects), etc.:  73%|#######3  | 11/15 [00:00<00:00, 103.79it/s]
+                                                                                                      
+                    INFO     Animation 19 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\ae92a9ed\videos                         
+                             \division_explainer\480p1                         
+                             5\partial_movie_files\Div                         
+                             isionExplainer\uncached_0                         
+                             0019.mp4'                                         
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 20: Create(Axes of 2 submobjects), etc.:   0%|          | 0/18 [00:00<?, ?it/s]
+                                                                                         
+                    INFO     Animation 20 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\ae92a9ed\videos                         
+                             \division_explainer\480p1                         
+                             5\partial_movie_files\Div                         
+                             isionExplainer\uncached_0                         
+                             0020.mp4'                                         
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 21: Create(Line), etc.:   0%|          | 0/15 [00:00<?, ?it/s]
+                                                                        
+[10/14/25 21:01:36] INFO     Animation 21 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\ae92a9ed\videos                         
+                             \division_explainer\480p1                         
+                             5\partial_movie_files\Div                         
+                             isionExplainer\uncached_0                         
+                             0021.mp4'                                         
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 22: _MethodAnimation(Dot):   0%|          | 0/23 [00:00<?, ?it/s]
+                                                                           
+                    INFO     Animation 22 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\ae92a9ed\videos                         
+                             \division_explainer\480p1                         
+                             5\partial_movie_files\Div                         
+                             isionExplainer\uncached_0                         
+                             0022.mp4'                                         
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 23: FadeIn(Text('×4')):   0%|          | 0/9 [00:00<?, ?it/s]
+                                                                       
+                    INFO     Animation 23 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\ae92a9ed\videos                         
+                             \division_explainer\480p1                         
+                             5\partial_movie_files\Div                         
+                             isionExplainer\uncached_0                         
+                             0023.mp4'                                         
+                    INFO     Caching disabled.             cairo_renderer.py:79
+                    INFO     Animation 24 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\ae92a9ed\videos                         
+                             \division_explainer\480p1                         
+                             5\partial_movie_files\Div                         
+                             isionExplainer\uncached_0                         
+                             0024.mp4'                                         
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 25: Transform(MathTex('12 \\div 3 = 4')):   0%|          | 0/11 [00:00<?, ?it/s]
+                                                                                          
+                    INFO     Animation 25 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\ae92a9ed\videos                         
+                             \division_explainer\480p1                         
+                             5\partial_movie_files\Div                         
+                             isionExplainer\uncached_0                         
+                             0025.mp4'                                         
+                    INFO     Writing 3 x = 12 to        tex_file_writing.py:111
+                             Tex\65f722175d079163.tex                          
+latex: security risk: running with elevated privileges
+latex: major issue: So far, you have not checked for MiKTeX updates.
+dvisvgm: security risk: running with elevated privileges
+[10/14/25 21:01:37] INFO     Writing x to               tex_file_writing.py:111
+                             Tex\d3c1af651a272204.tex                          
+latex: security risk: running with elevated privileges
+latex: major issue: So far, you have not checked for MiKTeX updates.
+dvisvgm: security risk: running with elevated privileges
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 26: TransformMatchingTex(Group):   0%|          | 0/17 [00:00<?, ?it/s]
+                                                                                 
+[10/14/25 21:01:38] INFO     Animation 26 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\ae92a9ed\videos                         
+                             \division_explainer\480p1                         
+                             5\partial_movie_files\Div                         
+                             isionExplainer\uncached_0                         
+                             0026.mp4'                                         
+                    INFO     Writing x = 4 to           tex_file_writing.py:111
+                             Tex\52d7539d20f6b5a4.tex                          
+latex: security risk: running with elevated privileges
+latex: major issue: So far, you have not checked for MiKTeX updates.
+dvisvgm: security risk: running with elevated privileges
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 27: TransformMatchingTex(Group):   0%|          | 0/15 [00:00<?, ?it/s]
+                                                                                 
+                    INFO     Animation 27 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\ae92a9ed\videos                         
+                             \division_explainer\480p1                         
+                             5\partial_movie_files\Div                         
+                             isionExplainer\uncached_0                         
+                             0027.mp4'                                         
+                    INFO     Caching disabled.             cairo_renderer.py:79
+                    INFO     Animation 28 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\ae92a9ed\videos                         
+                             \division_explainer\480p1                         
+                             5\partial_movie_files\Div                         
+                             isionExplainer\uncached_0                         
+                             0028.mp4'                                         
+                    INFO     Combining to Movie file.  scene_file_writer.py:739
+[10/14/25 21:01:39] INFO                               scene_file_writer.py:886
+                             File ready at                                     
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\ae92a9ed\videos                         
+                             \division_explainer\480p1                         
+                             5\out.mp4'                                        
+                                                                               
+                    INFO     Rendered DivisionExplainer            scene.py:255
+                             Played 29 animations                              

@@ -1,0 +1,57 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:04.000
+Two sheets for one function: the square-root surface.
+
+2
+00:00:04.000 --> 00:00:07.500
+We build the Riemann surface of w^2 = z.
+
+3
+00:00:07.500 --> 00:00:11.000
+The floor is the complex z-plane.
+
+4
+00:00:11.000 --> 00:00:15.000
+Above each z, two w-values form two layers.
+
+5
+00:00:15.000 --> 00:00:19.000
+They glue along a branch cut on the negative real axis.
+
+6
+00:00:19.000 --> 00:00:23.000
+Think of two sheets sewn together along that line.
+
+7
+00:00:23.000 --> 00:00:27.000
+Trace a loop around zero down on the plane.
+
+8
+00:00:27.000 --> 00:00:33.000
+Lift it: the point rises and twists with angle halved.
+
+9
+00:00:33.000 --> 00:00:37.000
+After one full turn, the lift ends on the other sheet.
+
+10
+00:00:37.000 --> 00:00:41.000
+This is monodromy: going once swaps branches.
+
+11
+00:00:41.000 --> 00:00:47.000
+Go around a second time to return to the start.
+
+12
+00:00:47.000 --> 00:00:52.000
+The origin is a branch point; the cut makes a single chart.
+
+13
+00:00:52.000 --> 00:00:56.000
+On the surface, sqrt is single-valued and smooth.
+
+14
+00:00:56.000 --> 00:00:59.200
+One function, two sheets, one seam—now glued into a whole.

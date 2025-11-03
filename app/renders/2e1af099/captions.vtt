@@ -1,0 +1,29 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:06.000
+Think of the plane as a rubber grid; arrows are the unit directions.
+
+2
+00:00:06.000 --> 00:00:16.000
+A matrix A warps everything together: it pushes, stretches, and shears.
+
+3
+00:00:16.000 --> 00:00:26.000
+Area scales by det(A). The unit square becomes a parallelogram of area det(A).
+
+4
+00:00:26.000 --> 00:00:38.000
+Any warp can be assembled from simpler moves—watch: shear, then stretch.
+
+5
+00:00:38.000 --> 00:00:48.000
+Some directions don't turn at all: eigenvectors. They only scale.
+
+6
+00:00:48.000 --> 00:00:58.000
+Solving Ax = b means: find x whose image under A lands right on b.
+
+7
+00:00:58.000 --> 00:01:00.000
+Linear algebra is the geometry of change.

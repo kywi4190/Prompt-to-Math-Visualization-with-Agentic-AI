@@ -1,0 +1,93 @@
+Manim Community v0.19.0
+
+
+Animation 0: Create(Circle), etc.:   0%|          | 0/15 [00:00<?, ?it/s]
+                                                                         
+[10/13/25 19:19:26] INFO     Animation 0 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\8ef0dc50\videos                         
+                             \division_visualization\4                         
+                             80p15\partial_movie_files                         
+                             \DivisionScene\1185818338                         
+                             _1478717445_223132457.mp4                         
+                             '                                                 
+                    INFO     Animation 1 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\8ef0dc50\videos                         
+                             \division_visualization\4                         
+                             80p15\partial_movie_files                         
+                             \DivisionScene\624642324_                         
+                             1839128356_1386982035.mp4                         
+                             '                                                 
+
+Animation 2: Transform(Sector):   0%|          | 0/15 [00:00<?, ?it/s]
+                                                                      
+                    INFO     Animation 2 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\8ef0dc50\videos                         
+                             \division_visualization\4                         
+                             80p15\partial_movie_files                         
+                             \DivisionScene\624642324_                         
+                             1880972414_2678963625.mp4                         
+                             '                                                 
+
+Animation 3: Transform(Sector):   0%|          | 0/15 [00:00<?, ?it/s]
+                                                                      
+                    INFO     Animation 3 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\8ef0dc50\videos                         
+                             \division_visualization\4                         
+                             80p15\partial_movie_files                         
+                             \DivisionScene\624642324_                         
+                             975193811_3303262411.mp4'                         
+
+Animation 4: Transform(Sector):   0%|          | 0/15 [00:00<?, ?it/s]
+                                                                      
+                    INFO     Animation 4 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\8ef0dc50\videos                         
+                             \division_visualization\4                         
+                             80p15\partial_movie_files                         
+                             \DivisionScene\624642324_                         
+                             3381429471_1730994305.mp4                         
+                             '                                                 
++--------------------- Traceback (most recent call last) ---------------------+
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\cli\render\commands.py: |
+| 125 in render                                                               |
+|                                                                             |
+|   122             try:                                                      |
+|   123                 with tempconfig({}):                                  |
+|   124                     scene = SceneClass()                              |
+| > 125                     scene.render()                                    |
+|   126             except Exception:                                         |
+|   127                 error_console.print_exception()                       |
+|   128                 sys.exit(1)                                           |
+|                                                                             |
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\scene\scene.py:237 in   |
+| render                                                                      |
+|                                                                             |
+|    234         """                                                          |
+|    235         self.setup()                                                 |
+|    236         try:                                                         |
+| >  237             self.construct()                                         |
+|    238         except EndSceneEarlyException:                               |
+|    239             pass                                                     |
+|    240         except RerunSceneException:                                  |
+|                                                                             |
+| C:\dev\math-video-mvp\app\renders\8ef0dc50\division_visualization.py:26 in  |
+| construct                                                                   |
+|                                                                             |
+|   23                                                                        |
+|   24         # Show division of slices                                      |
+|   25         for i, slice in enumerate(slices):                             |
+| > 26             self.play(Transform(slice, slice.copy().scale(0.5).move_to |
+|   27         self.wait(1)                                                   |
+|   28                                                                        |
+|   29         # Show the result of division                                  |
++-----------------------------------------------------------------------------+
+IndexError: list index out of range

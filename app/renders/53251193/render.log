@@ -1,0 +1,237 @@
+Manim Community v0.19.0
+
+[10/14/25 20:03:35] INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 0: FadeIn(NumberPlane of 4 submobjects):   0%|          | 0/12 [00:00<?, ?it/s]
+                                                                                         
+                    INFO     Animation 0 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\53251193\videos                         
+                             \determinant_area\480p15\                         
+                             partial_movie_files\Deter                         
+                             minantAreaScene\uncached_                         
+                             00000.mp4'                                        
+[10/14/25 20:03:38] INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 1: Create(Arrow):   0%|          | 0/15 [00:00<?, ?it/s]
+                                                                  
+                    INFO     Animation 1 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\53251193\videos                         
+                             \determinant_area\480p15\                         
+                             partial_movie_files\Deter                         
+                             minantAreaScene\uncached_                         
+                             00001.mp4'                                        
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 2: Create(Arrow):   0%|          | 0/15 [00:00<?, ?it/s]
+Animation 2: Create(Arrow):  93%|#########3| 14/15 [00:00<00:00, 137.18it/s]
+                                                                            
+[10/14/25 20:03:39] INFO     Animation 2 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\53251193\videos                         
+                             \determinant_area\480p15\                         
+                             partial_movie_files\Deter                         
+                             minantAreaScene\uncached_                         
+                             00002.mp4'                                        
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 3: FadeIn(Polygon):   0%|          | 0/12 [00:00<?, ?it/s]
+Animation 3: FadeIn(Polygon):  92%|#########1| 11/12 [00:00<00:00, 109.85it/s]
+                                                                              
+                    INFO     Animation 3 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\53251193\videos                         
+                             \determinant_area\480p15\                         
+                             partial_movie_files\Deter                         
+                             minantAreaScene\uncached_                         
+                             00003.mp4'                                        
+                    INFO     Writing 0 to               tex_file_writing.py:111
+                             Tex\66e1bc57a83e0f07.tex                          
+latex: security risk: running with elevated privileges
+latex: major issue: So far, you have not checked for MiKTeX updates.
+dvisvgm: security risk: running with elevated privileges
+[10/14/25 20:03:41] INFO     Writing . to               tex_file_writing.py:111
+                             Tex\ec2b01090b1fbb55.tex                          
+latex: security risk: running with elevated privileges
+latex: major issue: So far, you have not checked for MiKTeX updates.
+dvisvgm: security risk: running with elevated privileges
+[10/14/25 20:03:42] INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 4: Write(Text('det =')):   0%|          | 0/12 [00:00<?, ?it/s]
+Animation 4: Write(Text('det =')):  92%|#########1| 11/12 [00:00<00:00, 107.64it/s]
+                                                                                   
+                    INFO     Animation 4 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\53251193\videos                         
+                             \determinant_area\480p15\                         
+                             partial_movie_files\Deter                         
+                             minantAreaScene\uncached_                         
+                             00004.mp4'                                        
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 5: FadeIn(DecimalNumber):   0%|          | 0/9 [00:00<?, ?it/s]                    INFO     Writing 5 to               tex_file_writing.py:111
+                             Tex\5683d89f396abe50.tex                          
+latex: security risk: running with elevated privileges
+latex: major issue: So far, you have not checked for MiKTeX updates.
+dvisvgm: security risk: running with elevated privileges
+[10/14/25 20:03:43] INFO     Writing 8 to               tex_file_writing.py:111
+                             Tex\b47c9feb1c667bc8.tex                          
+latex: security risk: running with elevated privileges
+latex: major issue: So far, you have not checked for MiKTeX updates.
+dvisvgm: security risk: running with elevated privileges
+[10/14/25 20:03:44] INFO     Writing 4 to               tex_file_writing.py:111
+                             Tex\31d3165490bf3404.tex                          
+latex: security risk: running with elevated privileges
+latex: major issue: So far, you have not checked for MiKTeX updates.
+dvisvgm: security risk: running with elevated privileges
+
+Animation 5: FadeIn(DecimalNumber):  11%|#1        | 1/9 [00:02<00:21,  2.69s/it]
+Animation 5: FadeIn(DecimalNumber):  56%|#####5    | 5/9 [00:02<00:01,  2.36it/s]
+                                                                                 
+[10/14/25 20:03:45] INFO     Animation 5 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\53251193\videos                         
+                             \determinant_area\480p15\                         
+                             partial_movie_files\Deter                         
+                             minantAreaScene\uncached_                         
+                             00005.mp4'                                        
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 6: _MethodAnimation(ValueTracker):   0%|          | 0/105 [00:00<?, ?it/s]
+Animation 6: _MethodAnimation(ValueTracker):   7%|6         | 7/105 [00:00<00:01, 63.97it/s]
+Animation 6: _MethodAnimation(ValueTracker):  13%|#3        | 14/105 [00:00<00:01, 66.40it/s]                    INFO     Writing 3 to               tex_file_writing.py:111
+                             Tex\8de07035cb22c903.tex                          
+latex: security risk: running with elevated privileges
+latex: major issue: So far, you have not checked for MiKTeX updates.
+dvisvgm: security risk: running with elevated privileges
+[10/14/25 20:03:46] INFO     Writing 2 to               tex_file_writing.py:111
+                             Tex\2b7ffb3c38a5a6e0.tex                          
+latex: security risk: running with elevated privileges
+latex: major issue: So far, you have not checked for MiKTeX updates.
+dvisvgm: security risk: running with elevated privileges
+
+Animation 6: _MethodAnimation(ValueTracker):  20%|##        | 21/105 [00:02<00:10,  7.64it/s][10/14/25 20:03:47] INFO     Writing 1 to               tex_file_writing.py:111
+                             Tex\6ecf9f51170c1a70.tex                          
+latex: security risk: running with elevated privileges
+latex: major issue: So far, you have not checked for MiKTeX updates.
+dvisvgm: security risk: running with elevated privileges
+[10/14/25 20:03:48] INFO     Writing 7 to               tex_file_writing.py:111
+                             Tex\810c550cdbbf29da.tex                          
+latex: security risk: running with elevated privileges
+latex: major issue: So far, you have not checked for MiKTeX updates.
+dvisvgm: security risk: running with elevated privileges
+[10/14/25 20:03:49] INFO     Writing 9 to               tex_file_writing.py:111
+                             Tex\d994363fa45e89a1.tex                          
+latex: security risk: running with elevated privileges
+latex: major issue: So far, you have not checked for MiKTeX updates.
+dvisvgm: security risk: running with elevated privileges
+
+Animation 6: _MethodAnimation(ValueTracker):  24%|##3       | 25/105 [00:04<00:22,  3.54it/s][10/14/25 20:03:50] INFO     Writing 6 to               tex_file_writing.py:111
+                             Tex\b330e3953bf029d7.tex                          
+latex: security risk: running with elevated privileges
+latex: major issue: So far, you have not checked for MiKTeX updates.
+dvisvgm: security risk: running with elevated privileges
+
+Animation 6: _MethodAnimation(ValueTracker):  27%|##6       | 28/105 [00:05<00:22,  3.46it/s]
+Animation 6: _MethodAnimation(ValueTracker):  32%|###2      | 34/105 [00:05<00:12,  5.47it/s]
+Animation 6: _MethodAnimation(ValueTracker):  39%|###9      | 41/105 [00:06<00:07,  8.55it/s]
+Animation 6: _MethodAnimation(ValueTracker):  44%|####3     | 46/105 [00:06<00:05, 11.14it/s]
+Animation 6: _MethodAnimation(ValueTracker):  50%|####9     | 52/105 [00:06<00:03, 15.15it/s]
+Animation 6: _MethodAnimation(ValueTracker):  56%|#####6    | 59/105 [00:06<00:02, 20.67it/s]
+Animation 6: _MethodAnimation(ValueTracker):  62%|######1   | 65/105 [00:06<00:01, 25.60it/s]
+Animation 6: _MethodAnimation(ValueTracker):  68%|######7   | 71/105 [00:06<00:01, 30.15it/s]
+Animation 6: _MethodAnimation(ValueTracker):  73%|#######3  | 77/105 [00:06<00:00, 35.28it/s]
+Animation 6: _MethodAnimation(ValueTracker):  80%|########  | 84/105 [00:06<00:00, 41.18it/s]
+Animation 6: _MethodAnimation(ValueTracker):  86%|########5 | 90/105 [00:06<00:00, 43.72it/s]
+Animation 6: _MethodAnimation(ValueTracker):  91%|#########1| 96/105 [00:06<00:00, 47.42it/s]
+Animation 6: _MethodAnimation(ValueTracker):  98%|#########8| 103/105 [00:07<00:00, 53.00it/s]
+                                                                                              
+[10/14/25 20:03:52] INFO     Animation 6 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\53251193\videos                         
+                             \determinant_area\480p15\                         
+                             partial_movie_files\Deter                         
+                             minantAreaScene\uncached_                         
+                             00006.mp4'                                        
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 7: _MethodAnimation(ValueTracker):   0%|          | 0/105 [00:00<?, ?it/s]
+Animation 7: _MethodAnimation(ValueTracker):   7%|6         | 7/105 [00:00<00:01, 66.40it/s]
+Animation 7: _MethodAnimation(ValueTracker):  13%|#3        | 14/105 [00:00<00:01, 58.24it/s]
+Animation 7: _MethodAnimation(ValueTracker):  20%|##        | 21/105 [00:00<00:01, 59.91it/s]
+Animation 7: _MethodAnimation(ValueTracker):  27%|##6       | 28/105 [00:00<00:01, 60.63it/s]
+Animation 7: _MethodAnimation(ValueTracker):  33%|###3      | 35/105 [00:00<00:01, 58.82it/s]
+Animation 7: _MethodAnimation(ValueTracker):  40%|####      | 42/105 [00:00<00:01, 59.55it/s]
+Animation 7: _MethodAnimation(ValueTracker):  46%|####5     | 48/105 [00:00<00:00, 59.25it/s]
+Animation 7: _MethodAnimation(ValueTracker):  51%|#####1    | 54/105 [00:00<00:00, 58.03it/s]
+Animation 7: _MethodAnimation(ValueTracker):  58%|#####8    | 61/105 [00:01<00:00, 58.96it/s]
+Animation 7: _MethodAnimation(ValueTracker):  65%|######4   | 68/105 [00:01<00:00, 59.47it/s]
+Animation 7: _MethodAnimation(ValueTracker):  71%|#######1  | 75/105 [00:01<00:00, 60.13it/s]
+Animation 7: _MethodAnimation(ValueTracker):  78%|#######8  | 82/105 [00:01<00:00, 60.20it/s]
+Animation 7: _MethodAnimation(ValueTracker):  85%|########4 | 89/105 [00:01<00:00, 60.70it/s]
+Animation 7: _MethodAnimation(ValueTracker):  91%|#########1| 96/105 [00:01<00:00, 62.50it/s]
+Animation 7: _MethodAnimation(ValueTracker):  98%|#########8| 103/105 [00:01<00:00, 64.29it/s]
+                                                                                              
+[10/14/25 20:03:54] INFO     Animation 7 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\53251193\videos                         
+                             \determinant_area\480p15\                         
+                             partial_movie_files\Deter                         
+                             minantAreaScene\uncached_                         
+                             00007.mp4'                                        
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 8: _MethodAnimation(ValueTracker):   0%|          | 0/105 [00:00<?, ?it/s]
+Animation 8: _MethodAnimation(ValueTracker):   7%|6         | 7/105 [00:00<00:01, 62.40it/s]
+Animation 8: _MethodAnimation(ValueTracker):  13%|#3        | 14/105 [00:00<00:01, 61.53it/s]
+Animation 8: _MethodAnimation(ValueTracker):  20%|##        | 21/105 [00:00<00:01, 57.50it/s]
+Animation 8: _MethodAnimation(ValueTracker):  26%|##5       | 27/105 [00:00<00:01, 54.90it/s]
+Animation 8: _MethodAnimation(ValueTracker):  31%|###1      | 33/105 [00:00<00:01, 52.57it/s]
+Animation 8: _MethodAnimation(ValueTracker):  38%|###8      | 40/105 [00:00<00:01, 55.08it/s]
+Animation 8: _MethodAnimation(ValueTracker):  44%|####3     | 46/105 [00:00<00:01, 54.42it/s]
+Animation 8: _MethodAnimation(ValueTracker):  50%|####9     | 52/105 [00:00<00:00, 54.01it/s]
+Animation 8: _MethodAnimation(ValueTracker):  55%|#####5    | 58/105 [00:01<00:00, 55.25it/s]
+Animation 8: _MethodAnimation(ValueTracker):  62%|######1   | 65/105 [00:01<00:00, 57.03it/s]
+Animation 8: _MethodAnimation(ValueTracker):  68%|######7   | 71/105 [00:01<00:00, 56.76it/s]
+Animation 8: _MethodAnimation(ValueTracker):  73%|#######3  | 77/105 [00:01<00:00, 57.54it/s]
+Animation 8: _MethodAnimation(ValueTracker):  80%|########  | 84/105 [00:01<00:00, 59.47it/s]
+Animation 8: _MethodAnimation(ValueTracker):  87%|########6 | 91/105 [00:01<00:00, 62.09it/s]
+Animation 8: _MethodAnimation(ValueTracker):  93%|#########3| 98/105 [00:01<00:00, 63.97it/s]
+Animation 8: _MethodAnimation(ValueTracker): 100%|##########| 105/105 [00:01<00:00, 64.51it/s]
+                                                                                              
+[10/14/25 20:03:56] INFO     Animation 8 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\53251193\videos                         
+                             \determinant_area\480p15\                         
+                             partial_movie_files\Deter                         
+                             minantAreaScene\uncached_                         
+                             00008.mp4'                                        
+                    INFO     Caching disabled.             cairo_renderer.py:79
+                    INFO     Animation 9 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\53251193\videos                         
+                             \determinant_area\480p15\                         
+                             partial_movie_files\Deter                         
+                             minantAreaScene\uncached_                         
+                             00009.mp4'                                        
+                    INFO     Combining to Movie file.  scene_file_writer.py:739
+                    INFO                               scene_file_writer.py:886
+                             File ready at                                     
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\53251193\videos                         
+                             \determinant_area\480p15\                         
+                             out.mp4'                                          
+                                                                               
+                    INFO     Rendered DeterminantAreaScene         scene.py:255
+                             Played 10 animations                              

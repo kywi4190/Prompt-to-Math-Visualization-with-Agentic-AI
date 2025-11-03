@@ -1,0 +1,69 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:03.000
+A complex number is both a point and a vector in the plane.
+
+2
+00:00:03.000 --> 00:00:06.000
+Watch e^{it} sweep the unit circle as t increases.
+
+3
+00:00:06.000 --> 00:00:10.000
+Its projections are cos t on the x-axis and sin t on the y-axis.
+
+4
+00:00:10.000 --> 00:00:14.000
+The phasor keeps rotating smoothly around the circle.
+
+5
+00:00:14.000 --> 00:00:17.000
+Multiplying by i is a 90° rotation about the origin.
+
+6
+00:00:17.000 --> 00:00:21.000
+Measure the angle between w and i·w to see the quarter-turn.
+
+7
+00:00:21.000 --> 00:00:24.000
+Now a nonlinear map: f(z) = z^2.
+
+8
+00:00:24.000 --> 00:00:27.000
+Pick a point p and draw two tiny rays from p.
+
+9
+00:00:27.000 --> 00:00:30.000
+Their angle at p is highlighted.
+
+10
+00:00:30.000 --> 00:00:34.000
+Map those rays through f; curves appear near q = f(p).
+
+11
+00:00:34.000 --> 00:00:36.000
+Near q, tangents are given by the derivative f'(p).
+
+12
+00:00:36.000 --> 00:00:40.000
+These tangents define the image angle at q.
+
+13
+00:00:40.000 --> 00:00:44.000
+Now rotate the second ray at p while tracking both angles.
+
+14
+00:00:44.000 --> 00:00:48.000
+Watch the image angle follow exactly—no distortion of angle.
+
+15
+00:00:48.000 --> 00:00:52.000
+Angles match: that's conformality at p.
+
+16
+00:00:52.000 --> 00:00:56.000
+For z^2, f'(p)=2p scales and rotates locally.
+
+17
+00:00:56.000 --> 00:01:00.000
+Complex maps bend shapes but preserve tiny angles.

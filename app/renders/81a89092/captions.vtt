@@ -1,0 +1,61 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:03.500
+Watch a tilted torus get sliced by a moving plane.
+
+2
+00:00:03.500 --> 00:00:07.000
+Each slice is a level set of height: z = h.
+
+3
+00:00:07.000 --> 00:00:10.000
+Morse theory: topology changes only at critical heights.
+
+4
+00:00:10.000 --> 00:00:13.500
+We tilt the torus so the height function has 4 isolated critical points.
+
+5
+00:00:13.500 --> 00:00:17.000
+Min, two saddles, and a max—marked on the surface.
+
+6
+00:00:17.000 --> 00:00:21.000
+Start below: no intersection with the plane.
+
+7
+00:00:21.000 --> 00:00:26.000
+Rising past the minimum, one small loop appears.
+
+8
+00:00:26.000 --> 00:00:31.000
+Between min and first saddle: the loop grows.
+
+9
+00:00:31.000 --> 00:00:36.000
+At a saddle height, two loops merge through a pinch.
+
+10
+00:00:36.000 --> 00:00:41.000
+Between the saddles: the slice becomes two disjoint loops.
+
+11
+00:00:41.000 --> 00:00:46.000
+At the second saddle, they pinch again—back to one loop.
+
+12
+00:00:46.000 --> 00:00:51.000
+Approaching the maximum, the loop shrinks and vanishes.
+
+13
+00:00:51.000 --> 00:00:56.000
+Morse intuition: topology jumps only at critical heights.
+
+14
+00:00:56.000 --> 00:01:00.000
+Each saddle corresponds to a handle being attached.
+
+15
+00:01:00.000 --> 00:01:04.000
+A torus is built by one minimum, two saddles, and one maximum.

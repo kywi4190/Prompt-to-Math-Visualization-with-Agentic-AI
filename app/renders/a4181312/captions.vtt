@@ -1,0 +1,49 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:03.799
+Slice a donut with a moving plane—watch the loops appear and disappear.
+
+2
+00:00:03.799 --> 00:00:07.799
+We track level sets: intersection of the torus with a horizontal plane.
+
+3
+00:00:07.799 --> 00:00:09.800
+First touch at the bottom: a single loop is born.
+
+4
+00:00:09.800 --> 00:00:18.199
+Between critical heights, the slice is two disjoint loops circling the torus.
+
+5
+00:00:18.199 --> 00:00:20.600
+At the middle height, the slice straddles the hole: a saddle level.
+
+6
+00:00:20.600 --> 00:00:28.600
+Climbing toward the top, the two loops draw together.
+
+7
+00:00:28.600 --> 00:00:30.600
+At the top critical height they merge into one loop.
+
+8
+00:00:30.600 --> 00:00:35.000
+Above it, the level set vanishes: no loops remain.
+
+9
+00:00:35.000 --> 00:00:40.000
+Component count by height: 0 → 1 → 2 → 1 → 0.
+
+10
+00:00:40.000 --> 00:00:46.000
+Changes happen only at critical heights of the height function on the torus.
+
+11
+00:00:46.000 --> 00:00:54.000
+This Morse–Bott picture encodes topology: handles appear as loops split and merge.
+
+12
+00:00:54.000 --> 00:00:58.000
+Morse theory: topology from the movie of slices.

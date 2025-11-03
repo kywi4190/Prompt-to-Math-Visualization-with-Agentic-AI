@@ -1,0 +1,112 @@
+Traceback (most recent call last):
+  File "C:\dev\math-video-mvp\app\renders\29f906f2\gradient_paraboloid.py", line 181
+    hint = Tex(r"$
+               ^
+SyntaxError: unterminated string literal (detected at line 181)
+
+[Repair Attempt Error]
+Manim Community v0.19.0
+
++--------------------- Traceback (most recent call last) ---------------------+
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\cli\render\commands.py: |
+| 125 in render                                                               |
+|                                                                             |
+|   122             try:                                                      |
+|   123                 with tempconfig({}):                                  |
+|   124                     scene = SceneClass()                              |
+| > 125                     scene.render()                                    |
+|   126             except Exception:                                         |
+|   127                 error_console.print_exception()                       |
+|   128                 sys.exit(1)                                           |
+|                                                                             |
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\scene\scene.py:237 in   |
+| render                                                                      |
+|                                                                             |
+|    234         """                                                          |
+|    235         self.setup()                                                 |
+|    236         try:                                                         |
+| >  237             self.construct()                                         |
+|    238         except EndSceneEarlyException:                               |
+|    239             pass                                                     |
+|    240         except RerunSceneException:                                  |
+|                                                                             |
+| C:\dev\math-video-mvp\app\renders\29f906f2\gradient_paraboloid.py:31 in     |
+| construct                                                                   |
+|                                                                             |
+|    28     def construct(self):                                              |
+|    29         # Camera setup (avoid zoom in set_camera_orientation per crit |
+|    30         self.set_camera_orientation(phi=60*DEGREES, theta=-60*DEGREES |
+| >  31         self.move_camera(zoom=1.25, run_time=0)                       |
+|    32                                                                       |
+|    33         # Title hook (fixed in frame)                                 |
+|    34         title = Text("Gradient = steepest uphill", weight=BOLD).scale |
+|                                                                             |
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\scene\three_d_scene.py: |
+| 303 in move_camera                                                          |
+|                                                                             |
+|   300                                                                       |
+|   301             anims += [Transform(cam, cam2)]                           |
+|   302                                                                       |
+| > 303         self.play(*anims + added_anims, **kwargs)                     |
+|   304                                                                       |
+|   305         # These lines are added to improve performance. If manim thin |
+|   306         # it is required to redraw every object. These lines remove f |
+|                                                                             |
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\scene\scene.py:1125 in  |
+| play                                                                        |
+|                                                                             |
+|   1122             return                                                   |
+|   1123                                                                      |
+|   1124         start_time = self.time                                       |
+| > 1125         self.renderer.play(self, *args, **kwargs)                    |
+|   1126         run_time = self.time - start_time                            |
+|   1127         if subcaption:                                               |
+|   1128             if subcaption_duration is None:                          |
+|                                                                             |
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\renderer\cairo_renderer |
+| .py:71 in play                                                              |
+|                                                                             |
+|    68         self.skip_animations = self._original_skipping_status         |
+|    69         self.update_skipping_status()                                 |
+|    70                                                                       |
+| >  71         scene.compile_animation_data(*args, **kwargs)                 |
+|    72                                                                       |
+|    73         if self.skip_animations:                                      |
+|    74             logger.debug(f"Skipping animation {self.num_plays}")      |
+|                                                                             |
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\scene\scene.py:1244 in  |
+| compile_animation_data                                                      |
+|                                                                             |
+|   1241         self.moving_mobjects = []                                    |
+|   1242         self.static_mobjects = []                                    |
+|   1243                                                                      |
+| > 1244         self.duration = self.get_run_time(self.animations)           |
+|   1245         if len(self.animations) == 1 and isinstance(self.animations[ |
+|   1246             if self.should_update_mobjects():                        |
+|   1247                 self.update_mobjects(dt=0)  # Any problems with this |
+|                                                                             |
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\scene\scene.py:1070 in  |
+| get_run_time                                                                |
+|                                                                             |
+|   1067             The total ``run_time`` of all of the animations in the l |
+|   1068         """                                                          |
+|   1069         run_time = max(animation.run_time for animation in animation |
+| > 1070         run_time = self.validate_run_time(run_time, self.play, "tota |
+|   1071         return run_time                                              |
+|   1072                                                                      |
+|   1073     def play(                                                        |
+|                                                                             |
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\scene\scene.py:1034 in  |
+| validate_run_time                                                           |
+|                                                                             |
+|   1031     ) -> float:                                                      |
+|   1032         method_name = f"{cls.__name__}.{method.__name__}()"          |
+|   1033         if run_time <= 0:                                            |
+| > 1034             raise ValueError(                                        |
+|   1035                 f"{method_name} has a {parameter_name} of "          |
+|   1036                 f"{run_time:g} <= 0 seconds which Manim cannot rende |
+|   1037                 f"The {parameter_name} must be a positive number."   |
++-----------------------------------------------------------------------------+
+ValueError: GradientParaboloidScene.play() has a total run_time of 0 <= 0 
+seconds which Manim cannot render. The total run_time must be a positive 
+number.

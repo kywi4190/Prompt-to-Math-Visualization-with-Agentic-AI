@@ -1,0 +1,389 @@
+Manim Community v0.19.0
+
+[10/20/25 09:57:18] INFO     Writing A to               tex_file_writing.py:111
+                             Tex\dba7d601a6d99f08.tex                          
+latex: security risk: running with elevated privileges
+latex: major issue: So far, you have not checked for MiKTeX updates.
+dvisvgm: security risk: running with elevated privileges
+                    INFO     Writing B to               tex_file_writing.py:111
+                             Tex\afdf6c97006e9e7b.tex                          
+latex: security risk: running with elevated privileges
+latex: major issue: So far, you have not checked for MiKTeX updates.
+dvisvgm: security risk: running with elevated privileges
+[10/20/25 09:57:19] INFO     Writing C to               tex_file_writing.py:111
+                             Tex\425a5a2edcee147f.tex                          
+latex: security risk: running with elevated privileges
+latex: major issue: So far, you have not checked for MiKTeX updates.
+dvisvgm: security risk: running with elevated privileges
+[10/20/25 09:57:20] INFO     Writing s to               tex_file_writing.py:111
+                             Tex\283c135ce7902351.tex                          
+latex: security risk: running with elevated privileges
+latex: major issue: So far, you have not checked for MiKTeX updates.
+dvisvgm: security risk: running with elevated privileges
+[10/20/25 09:57:21] INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 0: Create(Polygon), etc.:   0%|          | 0/15 [00:00<?, ?it/s]
+                                                                          
+                    INFO     Animation 0 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\6f9ead8b\videos                         
+                             \group_theory_visual\480p                         
+                             15\partial_movie_files\Gr                         
+                             oupTheoryScene\uncached_0                         
+                             0000.mp4'                                         
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 1: FadeIn(VGroup of 3 submobjects):   0%|          | 0/9 [00:00<?, ?it/s]
+                                                                                   
+                    INFO     Animation 1 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\6f9ead8b\videos                         
+                             \group_theory_visual\480p                         
+                             15\partial_movie_files\Gr                         
+                             oupTheoryScene\uncached_0                         
+                             0001.mp4'                                         
+                    INFO     Writing r to               tex_file_writing.py:111
+                             Tex\00ee79a79246dd15.tex                          
+latex: security risk: running with elevated privileges
+latex: major issue: So far, you have not checked for MiKTeX updates.
+dvisvgm: security risk: running with elevated privileges
+[10/20/25 09:57:22] INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 2: Write(MathTex('r')):   0%|          | 0/9 [00:00<?, ?it/s]
+                                                                       
+                    INFO     Animation 2 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\6f9ead8b\videos                         
+                             \group_theory_visual\480p                         
+                             15\partial_movie_files\Gr                         
+                             oupTheoryScene\uncached_0                         
+                             0002.mp4'                                         
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 3: _MethodAnimation(VGroup of 2 submobjects):   0%|          | 0/18 [00:00<?, ?it/s]
+                                                                                              
+                    INFO     Animation 3 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\6f9ead8b\videos                         
+                             \group_theory_visual\480p                         
+                             15\partial_movie_files\Gr                         
+                             oupTheoryScene\uncached_0                         
+                             0003.mp4'                                         
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 4: _MethodAnimation(VGroup of 2 submobjects):   0%|          | 0/8 [00:00<?, ?it/s]
+                                                                                             
+                    INFO     Animation 4 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\6f9ead8b\videos                         
+                             \group_theory_visual\480p                         
+                             15\partial_movie_files\Gr                         
+                             oupTheoryScene\uncached_0                         
+                             0004.mp4'                                         
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 5: _MethodAnimation(VGroup of 2 submobjects):   0%|          | 0/8 [00:00<?, ?it/s]
+                                                                                             
+                    INFO     Animation 5 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\6f9ead8b\videos                         
+                             \group_theory_visual\480p                         
+                             15\partial_movie_files\Gr                         
+                             oupTheoryScene\uncached_0                         
+                             0005.mp4'                                         
+                    INFO     Writing r^3=e to           tex_file_writing.py:111
+                             Tex\5273aa66851fb688.tex                          
+latex: security risk: running with elevated privileges
+latex: major issue: So far, you have not checked for MiKTeX updates.
+dvisvgm: security risk: running with elevated privileges
+[10/20/25 09:57:23] INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 6: Write(MathTex('r^3=e')):   0%|          | 0/8 [00:00<?, ?it/s]
+                                                                           
+                    INFO     Animation 6 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\6f9ead8b\videos                         
+                             \group_theory_visual\480p                         
+                             15\partial_movie_files\Gr                         
+                             oupTheoryScene\uncached_0                         
+                             0006.mp4'                                         
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 7: FadeOut(MathTex('r')), etc.:   0%|          | 0/8 [00:00<?, ?it/s]
+                                                                               
+                    INFO     Animation 7 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\6f9ead8b\videos                         
+                             \group_theory_visual\480p                         
+                             15\partial_movie_files\Gr                         
+                             oupTheoryScene\uncached_0                         
+                             0007.mp4'                                         
+                    INFO     Writing s to               tex_file_writing.py:111
+                             Tex\339b78c095e81d73.tex                          
+latex: security risk: running with elevated privileges
+latex: major issue: So far, you have not checked for MiKTeX updates.
+dvisvgm: security risk: running with elevated privileges
+[10/20/25 09:57:24] INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 8: Create(Line), etc.:   0%|          | 0/18 [00:00<?, ?it/s]
+                                                                       
+                    INFO     Animation 8 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\6f9ead8b\videos                         
+                             \group_theory_visual\480p                         
+                             15\partial_movie_files\Gr                         
+                             oupTheoryScene\uncached_0                         
+                             0008.mp4'                                         
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 9: _MethodAnimation(VGroup of 2 submobjects):   0%|          | 0/18 [00:00<?, ?it/s]
+                                                                                              
+                    INFO     Animation 9 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\6f9ead8b\videos                         
+                             \group_theory_visual\480p                         
+                             15\partial_movie_files\Gr                         
+                             oupTheoryScene\uncached_0                         
+                             0009.mp4'                                         
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 10: _MethodAnimation(VGroup of 3 submobjects), etc.:   0%|          | 0/12 [00:00<?, ?it/s]
+                                                                                                     
+                    INFO     Animation 10 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\6f9ead8b\videos                         
+                             \group_theory_visual\480p                         
+                             15\partial_movie_files\Gr                         
+                             oupTheoryScene\uncached_0                         
+                             0010.mp4'                                         
+                    INFO     Writing e to               tex_file_writing.py:111
+                             Tex\b095b4028884108d.tex                          
+latex: security risk: running with elevated privileges
+latex: major issue: So far, you have not checked for MiKTeX updates.
+dvisvgm: security risk: running with elevated privileges
+[10/20/25 09:57:25] INFO     Writing r^2 to             tex_file_writing.py:111
+                             Tex\27dd4840e56a3046.tex                          
+latex: security risk: running with elevated privileges
+latex: major issue: So far, you have not checked for MiKTeX updates.
+dvisvgm: security risk: running with elevated privileges
+[10/20/25 09:57:26] INFO     Writing sr^2 to            tex_file_writing.py:111
+                             Tex\68828ad59f0a5565.tex                          
+latex: security risk: running with elevated privileges
+latex: major issue: So far, you have not checked for MiKTeX updates.
+dvisvgm: security risk: running with elevated privileges
+                    INFO     Writing sr to              tex_file_writing.py:111
+                             Tex\0f5629070fd798d3.tex                          
+latex: security risk: running with elevated privileges
+latex: major issue: So far, you have not checked for MiKTeX updates.
+dvisvgm: security risk: running with elevated privileges
+[10/20/25 09:57:27] INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 11: FadeIn(VGroup of 6 submobjects), etc.:   0%|          | 0/21 [00:00<?, ?it/s]
+Animation 11: FadeIn(VGroup of 6 submobjects), etc.:  86%|########5 | 18/21 [00:00<00:00, 174.17it/s]
+                                                                                                     
+                    INFO     Animation 11 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\6f9ead8b\videos                         
+                             \group_theory_visual\480p                         
+                             15\partial_movie_files\Gr                         
+                             oupTheoryScene\uncached_0                         
+                             0011.mp4'                                         
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 12: Create(VGroup of 6 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]
+                                                                                           
+                    INFO     Animation 12 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\6f9ead8b\videos                         
+                             \group_theory_visual\480p                         
+                             15\partial_movie_files\Gr                         
+                             oupTheoryScene\uncached_0                         
+                             0012.mp4'                                         
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 13: FadeIn(Dot):   0%|          | 0/6 [00:00<?, ?it/s]
+                                                                
+                    INFO     Animation 13 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\6f9ead8b\videos                         
+                             \group_theory_visual\480p                         
+                             15\partial_movie_files\Gr                         
+                             oupTheoryScene\uncached_0                         
+                             0013.mp4'                                         
+                    INFO     Writing w = r\, r\, s\,    tex_file_writing.py:111
+                             r\, r\, s to                                      
+                             Tex\d76ae98914d40af3.tex                          
+latex: security risk: running with elevated privileges
+latex: major issue: So far, you have not checked for MiKTeX updates.
+dvisvgm: security risk: running with elevated privileges
+[10/20/25 09:57:28] INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 14: Write(MathTex('w = r\\, r\\, s\\, r\\, r\\, s')):   0%|          | 0/12 [00:00<?, ?it/s]
+                                                                                                      
+                    INFO     Animation 14 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\6f9ead8b\videos                         
+                             \group_theory_visual\480p                         
+                             15\partial_movie_files\Gr                         
+                             oupTheoryScene\uncached_0                         
+                             0014.mp4'                                         
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 15: _MethodAnimation(Dot), etc.:   0%|          | 0/21 [00:00<?, ?it/s]
+Animation 15: _MethodAnimation(Dot), etc.:  71%|#######1  | 15/21 [00:00<00:00, 147.51it/s]
+                                                                                           
+[10/20/25 09:57:29] INFO     Animation 15 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\6f9ead8b\videos                         
+                             \group_theory_visual\480p                         
+                             15\partial_movie_files\Gr                         
+                             oupTheoryScene\uncached_0                         
+                             0015.mp4'                                         
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 16: _MethodAnimation(Dot), etc.:   0%|          | 0/21 [00:00<?, ?it/s]
+Animation 16: _MethodAnimation(Dot), etc.:  67%|######6   | 14/21 [00:00<00:00, 131.84it/s]
+                                                                                           
+                    INFO     Animation 16 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\6f9ead8b\videos                         
+                             \group_theory_visual\480p                         
+                             15\partial_movie_files\Gr                         
+                             oupTheoryScene\uncached_0                         
+                             0016.mp4'                                         
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 17: _MethodAnimation(Dot), etc.:   0%|          | 0/21 [00:00<?, ?it/s]
+Animation 17: _MethodAnimation(Dot), etc.:  67%|######6   | 14/21 [00:00<00:00, 133.52it/s]
+                                                                                           
+                    INFO     Animation 17 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\6f9ead8b\videos                         
+                             \group_theory_visual\480p                         
+                             15\partial_movie_files\Gr                         
+                             oupTheoryScene\uncached_0                         
+                             0017.mp4'                                         
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 18: _MethodAnimation(Dot), etc.:   0%|          | 0/21 [00:00<?, ?it/s]
+Animation 18: _MethodAnimation(Dot), etc.:  52%|#####2    | 11/21 [00:00<00:00, 103.63it/s]
+                                                                                           
+                    INFO     Animation 18 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\6f9ead8b\videos                         
+                             \group_theory_visual\480p                         
+                             15\partial_movie_files\Gr                         
+                             oupTheoryScene\uncached_0                         
+                             0018.mp4'                                         
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 19: _MethodAnimation(Dot), etc.:   0%|          | 0/21 [00:00<?, ?it/s]
+Animation 19: _MethodAnimation(Dot), etc.:  48%|####7     | 10/21 [00:00<00:00, 92.81it/s]
+Animation 19: _MethodAnimation(Dot), etc.:  95%|#########5| 20/21 [00:00<00:00, 57.08it/s]
+                                                                                          
+[10/20/25 09:57:30] INFO     Animation 19 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\6f9ead8b\videos                         
+                             \group_theory_visual\480p                         
+                             15\partial_movie_files\Gr                         
+                             oupTheoryScene\uncached_0                         
+                             0019.mp4'                                         
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 20: _MethodAnimation(Dot), etc.:   0%|          | 0/21 [00:00<?, ?it/s]
+Animation 20: _MethodAnimation(Dot), etc.:  57%|#####7    | 12/21 [00:00<00:00, 116.11it/s]
+                                                                                           
+                    INFO     Animation 20 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\6f9ead8b\videos                         
+                             \group_theory_visual\480p                         
+                             15\partial_movie_files\Gr                         
+                             oupTheoryScene\uncached_0                         
+                             0020.mp4'                                         
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 21: _MethodAnimation(Dot):   0%|          | 0/6 [00:00<?, ?it/s]
+                                                                          
+                    INFO     Animation 21 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\6f9ead8b\videos                         
+                             \group_theory_visual\480p                         
+                             15\partial_movie_files\Gr                         
+                             oupTheoryScene\uncached_0                         
+                             0021.mp4'                                         
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 22: _MethodAnimation(Dot):   0%|          | 0/6 [00:00<?, ?it/s]
+                                                                          
+                    INFO     Animation 22 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\6f9ead8b\videos                         
+                             \group_theory_visual\480p                         
+                             15\partial_movie_files\Gr                         
+                             oupTheoryScene\uncached_0                         
+                             0022.mp4'                                         
+                    INFO     Writing w = e to           tex_file_writing.py:111
+                             Tex\14cac1620fa25c45.tex                          
+latex: security risk: running with elevated privileges
+latex: major issue: So far, you have not checked for MiKTeX updates.
+dvisvgm: security risk: running with elevated privileges
+[10/20/25 09:57:32] INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 23: Transform(MathTex('w = r\\, r\\, s\\, r\\, r\\, s')):   0%|          | 0/12 [00:00<?, ?it/s]
+Animation 23: Transform(MathTex('w = r\\, r\\, s\\, r\\, r\\, s')):  42%|####1     | 5/12 [00:00<00:00, 46.51it/s]
+Animation 23: Transform(MathTex('w = r\\, r\\, s\\, r\\, r\\, s')):  83%|########3 | 10/12 [00:00<00:00, 42.96it/s]
+                                                                                                                   
+                    INFO     Animation 23 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\6f9ead8b\videos                         
+                             \group_theory_visual\480p                         
+                             15\partial_movie_files\Gr                         
+                             oupTheoryScene\uncached_0                         
+                             0023.mp4'                                         
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Waiting 24:   0%|          | 0/6 [00:00<?, ?it/s]
+Waiting 24:  83%|########3 | 5/6 [00:00<00:00, 43.54it/s]
+                                                         
+[10/20/25 09:57:33] INFO     Animation 24 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\6f9ead8b\videos                         
+                             \group_theory_visual\480p                         
+                             15\partial_movie_files\Gr                         
+                             oupTheoryScene\uncached_0                         
+                             0024.mp4'                                         
+                    INFO     Combining to Movie file.  scene_file_writer.py:739
+                    INFO                               scene_file_writer.py:886
+                             File ready at                                     
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\6f9ead8b\videos                         
+                             \group_theory_visual\480p                         
+                             15\out.mp4'                                       
+                                                                               
+                    INFO     Rendered GroupTheoryScene             scene.py:255
+                             Played 25 animations                              

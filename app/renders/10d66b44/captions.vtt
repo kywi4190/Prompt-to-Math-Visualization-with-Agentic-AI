@@ -1,0 +1,29 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:02.000
+Division asks two things: share evenly, or measure how many fit.
+
+2
+00:00:02.000 --> 00:00:05.500
+Sharing view: split 12 things into 3 equal groups.
+
+3
+00:00:05.500 --> 00:00:07.000
+Each group ends up with 4.
+
+4
+00:00:07.000 --> 00:00:11.500
+Measurement view: how many 3s fit into 12?
+
+5
+00:00:11.500 --> 00:00:13.500
+Four steps of size 3 land exactly on 12.
+
+6
+00:00:13.500 --> 00:00:16.000
+Scaling view: dividing by 3 shrinks lengths to one third.
+
+7
+00:00:16.000 --> 00:00:18.500
+Same idea, same answer: 12 ÷ 3 = 4.

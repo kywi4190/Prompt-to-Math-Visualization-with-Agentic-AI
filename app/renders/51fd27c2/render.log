@@ -1,0 +1,202 @@
+Manim Community v0.19.0
+
+C:\dev\math-video-mvp\app\renders\51fd27c2\complex_numbers_explainer.py:90: SyntaxWarning: invalid escape sequence '\c'
+  mul_i_text = Tex("\u00D7 i: rotate 90$^\circ$", tex_template=TexFontTemplates.comic_sans).scale(0.5)
+C:\dev\math-video-mvp\app\renders\51fd27c2\complex_numbers_explainer.py:146: SyntaxWarning: invalid escape sequence '\m'
+  sq_text = Tex("$z\mapsto z^2$: doubles angles").scale(0.6).next_to([-2.6, 2.2, 0], UL)
+[10/14/25 14:23:19] INFO     Writing x^2 + 1 = 0 to     tex_file_writing.py:111
+                             Tex\e057633f56c865d7.tex                          
+latex: security risk: running with elevated privileges
+latex: major issue: So far, you have not checked for MiKTeX updates.
+dvisvgm: security risk: running with elevated privileges
+
+Animation 0: Write(MathTex('x^2 + 1 = 0')), etc.:   0%|          | 0/45 [00:00<?, ?it/s]
+Animation 0: Write(MathTex('x^2 + 1 = 0')), etc.:  38%|###7      | 17/45 [00:00<00:00, 168.04it/s]
+Animation 0: Write(MathTex('x^2 + 1 = 0')), etc.:  80%|########  | 36/45 [00:00<00:00, 176.11it/s]
+                                                                                                  
+[10/14/25 14:23:21] INFO     Animation 0 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\51fd27c2\videos                         
+                             \complex_numbers_explaine                         
+                             r\480p15\partial_movie_fi                         
+                             les\ComplexNumbersScene\2                         
+                             2491439_3519643450_223132                         
+                             457.mp4'                                          
+                    INFO     Writing -1 to              tex_file_writing.py:111
+                             Tex\dc9f1eb78129c30d.tex                          
+latex: security risk: running with elevated privileges
+latex: major issue: So far, you have not checked for MiKTeX updates.
+dvisvgm: security risk: running with elevated privileges
+
+Animation 1: FadeIn(Dot), etc.:   0%|          | 0/12 [00:00<?, ?it/s]
+                                                                      
+[10/14/25 14:23:22] INFO     Animation 1 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\51fd27c2\videos                         
+                             \complex_numbers_explaine                         
+                             r\480p15\partial_movie_fi                         
+                             les\ComplexNumbersScene\3                         
+                             896926140_1180285072_3970                         
+                             591418.mp4'                                       
+
+Animation 2: Create(Line):   0%|          | 0/18 [00:00<?, ?it/s]
+                                                                 
+                    INFO     Animation 2 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\51fd27c2\videos                         
+                             \complex_numbers_explaine                         
+                             r\480p15\partial_movie_fi                         
+                             les\ComplexNumbersScene\3                         
+                             896926140_2725503733_1488                         
+                             641024.mp4'                                       
+                    INFO     Writing i to               tex_file_writing.py:111
+                             Tex\98a41c177a21dadd.tex                          
+latex: security risk: running with elevated privileges
+latex: major issue: So far, you have not checked for MiKTeX updates.
+dvisvgm: security risk: running with elevated privileges
+[10/14/25 14:23:23] INFO     Writing -i to              tex_file_writing.py:111
+                             Tex\e28856db45e0f340.tex                          
+latex: security risk: running with elevated privileges
+latex: major issue: So far, you have not checked for MiKTeX updates.
+dvisvgm: security risk: running with elevated privileges
+
+Animation 3: FadeIn(Dot), etc.:   0%|          | 0/12 [00:00<?, ?it/s]
+                                                                      
+[10/14/25 14:23:24] INFO     Animation 3 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\51fd27c2\videos                         
+                             \complex_numbers_explaine                         
+                             r\480p15\partial_movie_fi                         
+                             les\ComplexNumbersScene\3                         
+                             896926140_2548371984_2091                         
+                             897252.mp4'                                       
+                    INFO     Writing Re to              tex_file_writing.py:111
+                             Tex\d0405ff72b974fcb.tex                          
+latex: security risk: running with elevated privileges
+latex: major issue: So far, you have not checked for MiKTeX updates.
+dvisvgm: security risk: running with elevated privileges
+[10/14/25 14:23:25] INFO     Writing Im to              tex_file_writing.py:111
+                             Tex\6c4580ea03966c74.tex                          
+latex: security risk: running with elevated privileges
+latex: major issue: So far, you have not checked for MiKTeX updates.
+dvisvgm: security risk: running with elevated privileges
+
+Animation 4: FadeOut(VGroup of 3 submobjects), etc.:   0%|          | 0/27 [00:00<?, ?it/s]
+Animation 4: FadeOut(VGroup of 3 submobjects), etc.:  67%|######6   | 18/27 [00:00<00:00, 174.59it/s]
+                                                                                                     
+[10/14/25 14:23:26] INFO     Animation 4 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\51fd27c2\videos                         
+                             \complex_numbers_explaine                         
+                             r\480p15\partial_movie_fi                         
+                             les\ComplexNumbersScene\3                         
+                             896926140_719749763_66753                         
+                             6788.mp4'                                         
+                    INFO     Writing z = r e^{i\\theta} tex_file_writing.py:111
+                             to                                                
+                             Tex\2c549901f7e0760c.tex                          
+latex: security risk: running with elevated privileges
+latex: major issue: So far, you have not checked for MiKTeX updates.
+[10/14/25 14:23:27] ERROR    LaTeX compilation error:   tex_file_writing.py:314
+                             Missing } inserted.                               
+                                                                               
+                    ERROR    Context of error:          tex_file_writing.py:348
+                             -> z = r e^{i\\theta}                             
+                             \end{align*}                                      
+                             \end{document}                                    
++--------------------- Traceback (most recent call last) ---------------------+
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\cli\render\commands.py: |
+| 125 in render                                                               |
+|                                                                             |
+|   122             try:                                                      |
+|   123                 with tempconfig({}):                                  |
+|   124                     scene = SceneClass()                              |
+| > 125                     scene.render()                                    |
+|   126             except Exception:                                         |
+|   127                 error_console.print_exception()                       |
+|   128                 sys.exit(1)                                           |
+|                                                                             |
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\scene\scene.py:237 in   |
+| render                                                                      |
+|                                                                             |
+|    234         """                                                          |
+|    235         self.setup()                                                 |
+|    236         try:                                                         |
+| >  237             self.construct()                                         |
+|    238         except EndSceneEarlyException:                               |
+|    239             pass                                                     |
+|    240         except RerunSceneException:                                  |
+|                                                                             |
+| C:\dev\math-video-mvp\app\renders\51fd27c2\complex_numbers_explainer.py:75  |
+| in construct                                                                |
+|                                                                             |
+|    72         r = math.sqrt(z_point[0]**2 + z_point[1]**2)                  |
+|    73         theta_arc = Arc(arc_center=ORIGIN, start_angle=0, angle=theta |
+|    74         z_dot = Dot(z_point, color=YELLOW)                            |
+| >  75         polar_text = MathTex(r"z = r e^{i\\theta}").scale(0.7).next_t |
+|    76         self.play(Create(z_arrow), Create(theta_arc), FadeIn(z_dot),  |
+|    77         self.play(Write(polar_text), run_time=1.2)                    |
+|    78                                                                       |
+|                                                                             |
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\mobject\text\tex_mobjec |
+| t.py:298 in __init__                                                        |
+|                                                                             |
+|   295                         """,                                          |
+|   296                     ),                                                |
+|   297                 )                                                     |
+| > 298             raise compilation_error                                   |
+|   299         self.set_color_by_tex_to_color_map(self.tex_to_color_map)     |
+|   300                                                                       |
+|   301         if self.organize_left_to_right:                               |
+|                                                                             |
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\mobject\text\tex_mobjec |
+| t.py:277 in __init__                                                        |
+|                                                                             |
+|   274         self.brace_notation_split_occurred = False                    |
+|   275         self.tex_strings = self._break_up_tex_strings(tex_strings)    |
+|   276         try:                                                          |
+| > 277             super().__init__(                                         |
+|   278                 self.arg_separator.join(self.tex_strings),            |
+|   279                 tex_environment=self.tex_environment,                 |
+|   280                 tex_template=self.tex_template,                       |
+|                                                                             |
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\mobject\text\tex_mobjec |
+| t.py:80 in __init__                                                         |
+|                                                                             |
+|    77                                                                       |
+|    78         assert isinstance(tex_string, str)                            |
+|    79         self.tex_string = tex_string                                  |
+| >  80         file_name = tex_to_svg_file(                                  |
+|    81             self._get_modified_expression(tex_string),                |
+|    82             environment=self.tex_environment,                         |
+|    83             tex_template=self.tex_template,                           |
+|                                                                             |
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\utils\tex_file_writing. |
+| py:65 in tex_to_svg_file                                                    |
+|                                                                             |
+|    62     if svg_file.exists():                                             |
+|    63         return svg_file                                               |
+|    64                                                                       |
+| >  65     dvi_file = compile_tex(                                           |
+|    66         tex_file,                                                     |
+|    67         tex_template.tex_compiler,                                    |
+|    68         tex_template.output_format,                                   |
+|                                                                             |
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\utils\tex_file_writing. |
+| py:212 in compile_tex                                                       |
+|                                                                             |
+|   209         if cp.returncode != 0:                                        |
+|   210             log_file = tex_file.with_suffix(".log")                   |
+|   211             print_all_tex_errors(log_file, tex_compiler, tex_file)    |
+| > 212             raise ValueError(                                         |
+|   213                 f"{tex_compiler} error converting to"                 |
+|   214                 f" {output_format[1:]}. See log output above or"      |
+|   215                 f" the log file: {log_file}",                         |
++-----------------------------------------------------------------------------+
+ValueError: latex error converting to dvi. See log output above or the log 
+file: Tex\2c549901f7e0760c.log

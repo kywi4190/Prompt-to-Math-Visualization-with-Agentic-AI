@@ -1,0 +1,38 @@
+Manim Community v0.19.0
+
+C:\dev\math-video-mvp\app\renders\81a89092\morse_torus.py:176: SyntaxWarning: invalid escape sequence '\,'
+  MathTex("\\text{critical points: } 1 \, \min,\, 2 \, \text{saddles},\, 1 \, \max", color=WHITE).scale(0.7),
++--------------------- Traceback (most recent call last) ---------------------+
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\cli\render\commands.py: |
+| 125 in render                                                               |
+|                                                                             |
+|   122             try:                                                      |
+|   123                 with tempconfig({}):                                  |
+|   124                     scene = SceneClass()                              |
+| > 125                     scene.render()                                    |
+|   126             except Exception:                                         |
+|   127                 error_console.print_exception()                       |
+|   128                 sys.exit(1)                                           |
+|                                                                             |
+| C:\dev\math-video-mvp\.venv\Lib\site-packages\manim\scene\scene.py:237 in   |
+| render                                                                      |
+|                                                                             |
+|    234         """                                                          |
+|    235         self.setup()                                                 |
+|    236         try:                                                         |
+| >  237             self.construct()                                         |
+|    238         except EndSceneEarlyException:                               |
+|    239             pass                                                     |
+|    240         except RerunSceneException:                                  |
+|                                                                             |
+| C:\dev\math-video-mvp\app\renders\81a89092\morse_torus.py:41 in construct   |
+|                                                                             |
+|    38             p = torus_point(u, v, R_major, r_minor)                   |
+|    39             return Rmat @ p                                           |
+|    40                                                                       |
+| >  41         torus = ParametricSurface(                                    |
+|    42             lambda u, v: surf(u, v),                                  |
+|    43             u_range=[0, TAU], v_range=[0, TAU],                       |
+|    44             resolution=(56, 28),                                      |
++-----------------------------------------------------------------------------+
+NameError: name 'ParametricSurface' is not defined

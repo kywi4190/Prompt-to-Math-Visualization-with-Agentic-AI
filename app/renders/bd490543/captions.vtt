@@ -1,0 +1,45 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:02.600
+Watch how a linear map bends the unit circle into an ellipse.
+
+2
+00:00:02.600 --> 00:00:05.500
+This is a symmetric matrix A acting on the whole plane.
+
+3
+00:00:05.500 --> 00:00:07.200
+Reset the scene to hunt for special directions.
+
+4
+00:00:07.200 --> 00:00:10.199
+Eigen-lines: directions that A maps back onto themselves.
+
+5
+00:00:10.199 --> 00:00:12.800
+Along each eigen-line, vectors only stretch—not turn.
+
+6
+00:00:12.800 --> 00:00:15.300
+We mark them with arrows and the scale factors λ1, λ2.
+
+7
+00:00:15.300 --> 00:00:17.800
+Pick a generic vector v that is not on an eigen-line.
+
+8
+00:00:17.800 --> 00:00:22.000
+Now apply A to everything at once.
+
+9
+00:00:22.000 --> 00:00:25.500
+Eigen-arrows stay on their lines and only change length.
+
+10
+00:00:25.500 --> 00:00:28.000
+But v turns and stretches: A mixes directions.
+
+11
+00:00:28.000 --> 00:00:31.000
+In short: Av = λv only for eigen-directions.

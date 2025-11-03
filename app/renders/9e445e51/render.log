@@ -1,0 +1,151 @@
+Manim Community v0.19.0
+
+
+Animation 0: Create(Polygon):   0%|          | 0/15 [00:00<?, ?it/s]
+                                                                    
+[10/13/25 21:26:40] INFO     Animation 0 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\9e445e51\videos                         
+                             \cube_explainer\480p15\pa                         
+                             rtial_movie_files\CubeSce                         
+                             ne\1185818338_3848848543_                         
+                             223132457.mp4'                                    
+
+Animation 1: FadeIn(Text('square face')):   0%|          | 0/11 [00:00<?, ?it/s]
+                                                                                
+[10/13/25 21:26:41] INFO     Animation 1 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\9e445e51\videos                         
+                             \cube_explainer\480p15\pa                         
+                             rtial_movie_files\CubeSce                         
+                             ne\624642324_760222768_32                         
+                             85574227.mp4'                                     
+                    INFO     Animation 2 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\9e445e51\videos                         
+                             \cube_explainer\480p15\pa                         
+                             rtial_movie_files\CubeSce                         
+                             ne\624642324_807188262_24                         
+                             37743728.mp4'                                     
+
+Animation 3: FadeOut(Text('square face')):   0%|          | 0/5 [00:00<?, ?it/s]
+                                                                                
+                    INFO     Animation 3 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\9e445e51\videos                         
+                             \cube_explainer\480p15\pa                         
+                             rtial_movie_files\CubeSce                         
+                             ne\624642324_4206926528_1                         
+                             439628227.mp4'                                    
+
+Animation 4: FadeIn(Group):   0%|          | 0/6 [00:00<?, ?it/s]
+                                                                 
+                    INFO     Animation 4 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\9e445e51\videos                         
+                             \cube_explainer\480p15\pa                         
+                             rtial_movie_files\CubeSce                         
+                             ne\624642324_3979348089_2                         
+                             704970975.mp4'                                    
+
+Animation 5: _MethodAnimation(ValueTracker):   0%|          | 0/45 [00:00<?, ?it/s]
+Animation 5: _MethodAnimation(ValueTracker):  56%|#####5    | 25/45 [00:00<00:00, 244.08it/s]
+                                                                                             
+                    INFO     Animation 5 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\9e445e51\videos                         
+                             \cube_explainer\480p15\pa                         
+                             rtial_movie_files\CubeSce                         
+                             ne\624642324_1997190905_7                         
+                             0377182.mp4'                                      
+
+Animation 6: FadeIn(Text('cube')):   0%|          | 0/9 [00:00<?, ?it/s]
+                                                                        
+                    INFO     Animation 6 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\9e445e51\videos                         
+                             \cube_explainer\480p15\pa                         
+                             rtial_movie_files\CubeSce                         
+                             ne\624642324_771090009_41                         
+                             86033145.mp4'                                     
+
+Animation 7: FadeOut(Text('cube')):   0%|          | 0/5 [00:00<?, ?it/s]
+                                                                         
+                    INFO     Animation 7 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\9e445e51\videos                         
+                             \cube_explainer\480p15\pa                         
+                             rtial_movie_files\CubeSce                         
+                             ne\624642324_3750465651_3                         
+                             732324922.mp4'                                    
+
+Animation 8: GrowArrow(Arrow), etc.:   0%|          | 0/12 [00:00<?, ?it/s]
+                                                                           
+[10/13/25 21:26:42] INFO     Animation 8 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\9e445e51\videos                         
+                             \cube_explainer\480p15\pa                         
+                             rtial_movie_files\CubeSce                         
+                             ne\624642324_1236848091_3                         
+                             193682186.mp4'                                    
+
+Animation 9: GrowArrow(Arrow), etc.:   0%|          | 0/12 [00:00<?, ?it/s]
+                                                                           
+                    INFO     Animation 9 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\9e445e51\videos                         
+                             \cube_explainer\480p15\pa                         
+                             rtial_movie_files\CubeSce                         
+                             ne\624642324_2902907262_1                         
+                             815927033.mp4'                                    
+
+Animation 10: GrowArrow(Arrow), etc.:   0%|          | 0/18 [00:00<?, ?it/s]
+Animation 10: GrowArrow(Arrow), etc.:  67%|######6   | 12/18 [00:00<00:00, 118.37it/s]
+                                                                                      
+                    INFO     Animation 10 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\9e445e51\videos                         
+                             \cube_explainer\480p15\pa                         
+                             rtial_movie_files\CubeSce                         
+                             ne\624642324_2333338115_3                         
+                             487366533.mp4'                                    
+
+Animation 11: FadeIn(Text("That's a cube.")):   0%|          | 0/9 [00:00<?, ?it/s]
+                                                                                   
+                    INFO     Animation 11 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\9e445e51\videos                         
+                             \cube_explainer\480p15\pa                         
+                             rtial_movie_files\CubeSce                         
+                             ne\624642324_970868714_36                         
+                             60914098.mp4'                                     
+[10/13/25 21:26:43] INFO     Animation 12 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\9e445e51\videos                         
+                             \cube_explainer\480p15\pa                         
+                             rtial_movie_files\CubeSce                         
+                             ne\624642324_1917517889_1                         
+                             169054642.mp4'                                    
+                    INFO     Combining to Movie file.  scene_file_writer.py:739
+                    INFO                               scene_file_writer.py:886
+                             File ready at                                     
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\9e445e51\videos                         
+                             \cube_explainer\480p15\ou                         
+                             t.mp4'                                            
+                                                                               
+                    INFO     Rendered CubeScene                    scene.py:255
+                             Played 13 animations                              

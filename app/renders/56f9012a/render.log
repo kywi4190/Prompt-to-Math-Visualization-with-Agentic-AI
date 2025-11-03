@@ -1,0 +1,626 @@
+Manim Community v0.19.0
+
+[10/14/25 21:10:11] INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 0: Create(ThreeDAxes of 3 submobjects):   0%|          | 0/18 [00:00<?, ?it/s]
+Animation 0: Create(ThreeDAxes of 3 submobjects):  11%|#1        | 2/18 [00:00<00:01, 15.25it/s]
+Animation 0: Create(ThreeDAxes of 3 submobjects):  22%|##2       | 4/18 [00:00<00:00, 16.36it/s]
+Animation 0: Create(ThreeDAxes of 3 submobjects):  33%|###3      | 6/18 [00:00<00:00, 16.88it/s]
+Animation 0: Create(ThreeDAxes of 3 submobjects):  44%|####4     | 8/18 [00:00<00:00, 16.76it/s]
+Animation 0: Create(ThreeDAxes of 3 submobjects):  56%|#####5    | 10/18 [00:00<00:00, 17.23it/s]
+Animation 0: Create(ThreeDAxes of 3 submobjects):  67%|######6   | 12/18 [00:00<00:00, 18.00it/s]
+Animation 0: Create(ThreeDAxes of 3 submobjects):  78%|#######7  | 14/18 [00:00<00:00, 18.39it/s]
+Animation 0: Create(ThreeDAxes of 3 submobjects):  89%|########8 | 16/18 [00:00<00:00, 18.39it/s]
+Animation 0: Create(ThreeDAxes of 3 submobjects): 100%|##########| 18/18 [00:01<00:00, 18.54it/s]
+                                                                                                 
+[10/14/25 21:10:12] INFO     Animation 0 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\56f9012a\videos                         
+                             \bronson_vector\480p15\pa                         
+                             rtial_movie_files\Bronson                         
+                             VectorScene\uncached_0000                         
+                             0.mp4'                                            
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 1: FadeIn(VGroup of 3 submobjects):   0%|          | 0/12 [00:00<?, ?it/s]
+Animation 1: FadeIn(VGroup of 3 submobjects):  25%|##5       | 3/12 [00:00<00:00, 24.50it/s]
+Animation 1: FadeIn(VGroup of 3 submobjects):  50%|#####     | 6/12 [00:00<00:00, 22.65it/s]
+Animation 1: FadeIn(VGroup of 3 submobjects):  75%|#######5  | 9/12 [00:00<00:00, 20.88it/s]
+Animation 1: FadeIn(VGroup of 3 submobjects): 100%|##########| 12/12 [00:00<00:00, 21.42it/s]
+                                                                                             
+[10/14/25 21:10:13] INFO     Animation 1 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\56f9012a\videos                         
+                             \bronson_vector\480p15\pa                         
+                             rtial_movie_files\Bronson                         
+                             VectorScene\uncached_0000                         
+                             1.mp4'                                            
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 2: Create(Arrow), etc.:   0%|          | 0/15 [00:00<?, ?it/s]
+Animation 2: Create(Arrow), etc.:  13%|#3        | 2/15 [00:00<00:01, 10.19it/s]
+Animation 2: Create(Arrow), etc.:  27%|##6       | 4/15 [00:00<00:01, 10.05it/s]
+Animation 2: Create(Arrow), etc.:  40%|####      | 6/15 [00:00<00:00, 10.10it/s]
+Animation 2: Create(Arrow), etc.:  53%|#####3    | 8/15 [00:00<00:00, 10.38it/s]
+Animation 2: Create(Arrow), etc.:  67%|######6   | 10/15 [00:00<00:00, 10.50it/s]
+Animation 2: Create(Arrow), etc.:  80%|########  | 12/15 [00:01<00:00, 10.39it/s]
+Animation 2: Create(Arrow), etc.:  93%|#########3| 14/15 [00:01<00:00,  9.51it/s]
+Animation 2: Create(Arrow), etc.: 100%|##########| 15/15 [00:01<00:00,  9.53it/s]
+                                                                                 
+[10/14/25 21:10:15] INFO     Animation 2 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\56f9012a\videos                         
+                             \bronson_vector\480p15\pa                         
+                             rtial_movie_files\Bronson                         
+                             VectorScene\uncached_0000                         
+                             2.mp4'                                            
+[10/14/25 21:10:16] INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 3: FadeIn(VGroup of 3 submobjects):   0%|          | 0/12 [00:00<?, ?it/s]
+Animation 3: FadeIn(VGroup of 3 submobjects):  17%|#6        | 2/12 [00:00<00:00, 10.25it/s]
+Animation 3: FadeIn(VGroup of 3 submobjects):  33%|###3      | 4/12 [00:00<00:00,  9.86it/s]
+Animation 3: FadeIn(VGroup of 3 submobjects):  42%|####1     | 5/12 [00:00<00:00,  9.76it/s]
+Animation 3: FadeIn(VGroup of 3 submobjects):  50%|#####     | 6/12 [00:00<00:00,  9.57it/s]
+Animation 3: FadeIn(VGroup of 3 submobjects):  58%|#####8    | 7/12 [00:00<00:00,  9.55it/s]
+Animation 3: FadeIn(VGroup of 3 submobjects):  67%|######6   | 8/12 [00:00<00:00,  9.47it/s]
+Animation 3: FadeIn(VGroup of 3 submobjects):  75%|#######5  | 9/12 [00:00<00:00,  9.20it/s]
+Animation 3: FadeIn(VGroup of 3 submobjects):  83%|########3 | 10/12 [00:01<00:00,  9.04it/s]
+Animation 3: FadeIn(VGroup of 3 submobjects):  92%|#########1| 11/12 [00:01<00:00,  9.13it/s]
+Animation 3: FadeIn(VGroup of 3 submobjects): 100%|##########| 12/12 [00:01<00:00,  9.09it/s]
+                                                                                             
+[10/14/25 21:10:17] INFO     Animation 3 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\56f9012a\videos                         
+                             \bronson_vector\480p15\pa                         
+                             rtial_movie_files\Bronson                         
+                             VectorScene\uncached_0000                         
+                             3.mp4'                                            
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 4: Write(Text('A persona as a vector')):   0%|          | 0/15 [00:00<?, ?it/s]
+Animation 4: Write(Text('A persona as a vector')):  13%|#3        | 2/15 [00:00<00:01, 10.41it/s]
+Animation 4: Write(Text('A persona as a vector')):  27%|##6       | 4/15 [00:00<00:01,  9.87it/s]
+Animation 4: Write(Text('A persona as a vector')):  33%|###3      | 5/15 [00:00<00:01,  9.74it/s]
+Animation 4: Write(Text('A persona as a vector')):  40%|####      | 6/15 [00:00<00:00,  9.63it/s]
+Animation 4: Write(Text('A persona as a vector')):  47%|####6     | 7/15 [00:00<00:00,  9.42it/s]
+Animation 4: Write(Text('A persona as a vector')):  53%|#####3    | 8/15 [00:00<00:00,  9.30it/s]
+Animation 4: Write(Text('A persona as a vector')):  60%|######    | 9/15 [00:00<00:00,  8.76it/s]
+Animation 4: Write(Text('A persona as a vector')):  67%|######6   | 10/15 [00:01<00:00,  8.88it/s]
+Animation 4: Write(Text('A persona as a vector')):  73%|#######3  | 11/15 [00:01<00:00,  8.93it/s]
+Animation 4: Write(Text('A persona as a vector')):  80%|########  | 12/15 [00:01<00:00,  8.40it/s]
+Animation 4: Write(Text('A persona as a vector')):  87%|########6 | 13/15 [00:01<00:00,  8.52it/s]
+Animation 4: Write(Text('A persona as a vector')):  93%|#########3| 14/15 [00:01<00:00,  8.83it/s]
+Animation 4: Write(Text('A persona as a vector')): 100%|##########| 15/15 [00:01<00:00,  8.91it/s]
+                                                                                                  
+[10/14/25 21:10:19] INFO     Animation 4 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\56f9012a\videos                         
+                             \bronson_vector\480p15\pa                         
+                             rtial_movie_files\Bronson                         
+                             VectorScene\uncached_0000                         
+                             4.mp4'                                            
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Waiting 5:   0%|          | 0/8 [00:00<?, ?it/s]
+Waiting 5:  12%|#2        | 1/8 [00:00<00:00,  8.72it/s]
+Waiting 5:  25%|##5       | 2/8 [00:00<00:00,  6.09it/s]
+Waiting 5:  38%|###7      | 3/8 [00:00<00:00,  6.62it/s]
+Waiting 5:  50%|#####     | 4/8 [00:00<00:00,  6.78it/s]
+Waiting 5:  62%|######2   | 5/8 [00:00<00:00,  6.71it/s]
+Waiting 5:  75%|#######5  | 6/8 [00:00<00:00,  6.72it/s]
+Waiting 5:  88%|########7 | 7/8 [00:01<00:00,  6.99it/s]
+Waiting 5: 100%|##########| 8/8 [00:01<00:00,  7.28it/s]
+                                                        
+[10/14/25 21:10:20] INFO     Animation 5 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\56f9012a\videos                         
+                             \bronson_vector\480p15\pa                         
+                             rtial_movie_files\Bronson                         
+                             VectorScene\uncached_0000                         
+                             5.mp4'                                            
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 6: Create(Arrow):   0%|          | 0/24 [00:00<?, ?it/s]
+Animation 6: Create(Arrow):   4%|4         | 1/24 [00:00<00:02,  8.40it/s]
+Animation 6: Create(Arrow):   8%|8         | 2/24 [00:00<00:02,  7.96it/s]
+Animation 6: Create(Arrow):  12%|#2        | 3/24 [00:00<00:02,  7.96it/s]
+Animation 6: Create(Arrow):  17%|#6        | 4/24 [00:00<00:02,  7.25it/s]
+Animation 6: Create(Arrow):  21%|##        | 5/24 [00:00<00:02,  7.82it/s]
+Animation 6: Create(Arrow):  25%|##5       | 6/24 [00:00<00:02,  8.14it/s]
+Animation 6: Create(Arrow):  29%|##9       | 7/24 [00:00<00:02,  8.17it/s]
+Animation 6: Create(Arrow):  33%|###3      | 8/24 [00:00<00:01,  8.39it/s]
+Animation 6: Create(Arrow):  38%|###7      | 9/24 [00:01<00:01,  8.66it/s]
+Animation 6: Create(Arrow):  42%|####1     | 10/24 [00:01<00:01,  8.66it/s]
+Animation 6: Create(Arrow):  46%|####5     | 11/24 [00:01<00:01,  8.63it/s]
+Animation 6: Create(Arrow):  50%|#####     | 12/24 [00:01<00:01,  8.65it/s]
+Animation 6: Create(Arrow):  54%|#####4    | 13/24 [00:01<00:01,  8.51it/s]
+Animation 6: Create(Arrow):  58%|#####8    | 14/24 [00:01<00:01,  8.37it/s]
+Animation 6: Create(Arrow):  62%|######2   | 15/24 [00:01<00:01,  7.68it/s]
+Animation 6: Create(Arrow):  67%|######6   | 16/24 [00:01<00:01,  7.39it/s]
+Animation 6: Create(Arrow):  71%|#######   | 17/24 [00:02<00:00,  7.35it/s]
+Animation 6: Create(Arrow):  75%|#######5  | 18/24 [00:02<00:01,  5.98it/s]
+Animation 6: Create(Arrow):  79%|#######9  | 19/24 [00:02<00:00,  6.05it/s]
+Animation 6: Create(Arrow):  83%|########3 | 20/24 [00:02<00:00,  6.26it/s]
+Animation 6: Create(Arrow):  88%|########7 | 21/24 [00:02<00:00,  6.22it/s]
+Animation 6: Create(Arrow):  92%|#########1| 22/24 [00:02<00:00,  6.31it/s]
+Animation 6: Create(Arrow):  96%|#########5| 23/24 [00:03<00:00,  6.37it/s]
+Animation 6: Create(Arrow): 100%|##########| 24/24 [00:03<00:00,  6.39it/s]
+                                                                           
+[10/14/25 21:10:24] INFO     Animation 6 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\56f9012a\videos                         
+                             \bronson_vector\480p15\pa                         
+                             rtial_movie_files\Bronson                         
+                             VectorScene\uncached_0000                         
+                             6.mp4'                                            
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 7: FadeIn(Dot):   0%|          | 0/5 [00:00<?, ?it/s]
+Animation 7: FadeIn(Dot):  20%|##        | 1/5 [00:00<00:00,  5.85it/s]
+Animation 7: FadeIn(Dot):  40%|####      | 2/5 [00:00<00:00,  5.78it/s]
+Animation 7: FadeIn(Dot):  60%|######    | 3/5 [00:00<00:00,  5.10it/s]
+Animation 7: FadeIn(Dot):  80%|########  | 4/5 [00:00<00:00,  5.23it/s]
+Animation 7: FadeIn(Dot): 100%|##########| 5/5 [00:00<00:00,  5.32it/s]
+                                                                       
+[10/14/25 21:10:25] INFO     Animation 7 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\56f9012a\videos                         
+                             \bronson_vector\480p15\pa                         
+                             rtial_movie_files\Bronson                         
+                             VectorScene\uncached_0000                         
+                             7.mp4'                                            
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Waiting 8:   0%|          | 0/6 [00:00<?, ?it/s]
+Waiting 8:  17%|#6        | 1/6 [00:00<00:00,  6.35it/s]
+Waiting 8:  33%|###3      | 2/6 [00:00<00:00,  5.84it/s]
+Waiting 8:  50%|#####     | 3/6 [00:00<00:00,  4.66it/s]
+Waiting 8:  67%|######6   | 4/6 [00:00<00:00,  3.87it/s]
+Waiting 8:  83%|########3 | 5/6 [00:01<00:00,  3.84it/s]
+Waiting 8: 100%|##########| 6/6 [00:01<00:00,  4.07it/s]
+                                                        
+[10/14/25 21:10:26] INFO     Animation 8 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\56f9012a\videos                         
+                             \bronson_vector\480p15\pa                         
+                             rtial_movie_files\Bronson                         
+                             VectorScene\uncached_0000                         
+                             8.mp4'                                            
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 9: Create(Line):   0%|          | 0/11 [00:00<?, ?it/s]
+Animation 9: Create(Line):   9%|9         | 1/11 [00:00<00:01,  5.21it/s]
+Animation 9: Create(Line):  18%|#8        | 2/11 [00:00<00:01,  6.10it/s]
+Animation 9: Create(Line):  27%|##7       | 3/11 [00:00<00:01,  5.84it/s]
+Animation 9: Create(Line):  36%|###6      | 4/11 [00:00<00:01,  6.23it/s]
+Animation 9: Create(Line):  45%|####5     | 5/11 [00:00<00:00,  6.10it/s]
+Animation 9: Create(Line):  55%|#####4    | 6/11 [00:00<00:00,  6.24it/s]
+Animation 9: Create(Line):  64%|######3   | 7/11 [00:01<00:00,  6.07it/s]
+Animation 9: Create(Line):  73%|#######2  | 8/11 [00:01<00:00,  6.31it/s]
+Animation 9: Create(Line):  82%|########1 | 9/11 [00:01<00:00,  6.22it/s]
+Animation 9: Create(Line):  91%|######### | 10/11 [00:01<00:00,  5.84it/s]
+Animation 9: Create(Line): 100%|##########| 11/11 [00:01<00:00,  5.17it/s]
+                                                                          
+[10/14/25 21:10:28] INFO     Animation 9 : Partial     scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\56f9012a\videos                         
+                             \bronson_vector\480p15\pa                         
+                             rtial_movie_files\Bronson                         
+                             VectorScene\uncached_0000                         
+                             9.mp4'                                            
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 10: Create(Line):   0%|          | 0/11 [00:00<?, ?it/s]
+Animation 10: Create(Line):   9%|9         | 1/11 [00:00<00:01,  6.89it/s]
+Animation 10: Create(Line):  18%|#8        | 2/11 [00:00<00:02,  4.34it/s]
+Animation 10: Create(Line):  27%|##7       | 3/11 [00:00<00:02,  3.35it/s]
+Animation 10: Create(Line):  36%|###6      | 4/11 [00:01<00:01,  3.77it/s]
+Animation 10: Create(Line):  45%|####5     | 5/11 [00:01<00:01,  3.59it/s]
+Animation 10: Create(Line):  55%|#####4    | 6/11 [00:01<00:01,  3.86it/s]
+Animation 10: Create(Line):  64%|######3   | 7/11 [00:01<00:01,  3.52it/s]
+Animation 10: Create(Line):  73%|#######2  | 8/11 [00:02<00:00,  3.81it/s]
+Animation 10: Create(Line):  82%|########1 | 9/11 [00:02<00:00,  4.32it/s]
+Animation 10: Create(Line):  91%|######### | 10/11 [00:02<00:00,  4.65it/s]
+Animation 10: Create(Line): 100%|##########| 11/11 [00:02<00:00,  5.06it/s]
+                                                                           
+[10/14/25 21:10:31] INFO     Animation 10 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\56f9012a\videos                         
+                             \bronson_vector\480p15\pa                         
+                             rtial_movie_files\Bronson                         
+                             VectorScene\uncached_0001                         
+                             0.mp4'                                            
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 11: Create(Line):   0%|          | 0/11 [00:00<?, ?it/s]
+Animation 11: Create(Line):   9%|9         | 1/11 [00:00<00:01,  8.62it/s]
+Animation 11: Create(Line):  18%|#8        | 2/11 [00:00<00:01,  5.96it/s]
+Animation 11: Create(Line):  27%|##7       | 3/11 [00:00<00:01,  6.47it/s]
+Animation 11: Create(Line):  36%|###6      | 4/11 [00:00<00:01,  6.94it/s]
+Animation 11: Create(Line):  45%|####5     | 5/11 [00:00<00:00,  7.33it/s]
+Animation 11: Create(Line):  55%|#####4    | 6/11 [00:00<00:00,  6.95it/s]
+Animation 11: Create(Line):  64%|######3   | 7/11 [00:01<00:00,  6.98it/s]
+Animation 11: Create(Line):  73%|#######2  | 8/11 [00:01<00:00,  6.66it/s]
+Animation 11: Create(Line):  82%|########1 | 9/11 [00:01<00:00,  5.59it/s]
+Animation 11: Create(Line):  91%|######### | 10/11 [00:01<00:00,  5.51it/s]
+Animation 11: Create(Line): 100%|##########| 11/11 [00:01<00:00,  5.34it/s]
+                                                                           
+[10/14/25 21:10:33] INFO     Animation 11 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\56f9012a\videos                         
+                             \bronson_vector\480p15\pa                         
+                             rtial_movie_files\Bronson                         
+                             VectorScene\uncached_0001                         
+                             1.mp4'                                            
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 12: Create(VGroup of 3 submobjects):   0%|          | 0/14 [00:00<?, ?it/s]
+Animation 12: Create(VGroup of 3 submobjects):   7%|7         | 1/14 [00:00<00:02,  5.05it/s]
+Animation 12: Create(VGroup of 3 submobjects):  14%|#4        | 2/14 [00:00<00:02,  5.36it/s]
+Animation 12: Create(VGroup of 3 submobjects):  21%|##1       | 3/14 [00:00<00:01,  5.67it/s]
+Animation 12: Create(VGroup of 3 submobjects):  29%|##8       | 4/14 [00:00<00:01,  6.01it/s]
+Animation 12: Create(VGroup of 3 submobjects):  36%|###5      | 5/14 [00:00<00:01,  6.76it/s]
+Animation 12: Create(VGroup of 3 submobjects):  43%|####2     | 6/14 [00:00<00:01,  7.21it/s]
+Animation 12: Create(VGroup of 3 submobjects):  50%|#####     | 7/14 [00:01<00:00,  7.90it/s]
+Animation 12: Create(VGroup of 3 submobjects):  57%|#####7    | 8/14 [00:01<00:00,  7.73it/s]
+Animation 12: Create(VGroup of 3 submobjects):  64%|######4   | 9/14 [00:01<00:00,  8.25it/s]
+Animation 12: Create(VGroup of 3 submobjects):  71%|#######1  | 10/14 [00:01<00:00,  8.27it/s]
+Animation 12: Create(VGroup of 3 submobjects):  79%|#######8  | 11/14 [00:01<00:00,  8.38it/s]
+Animation 12: Create(VGroup of 3 submobjects):  86%|########5 | 12/14 [00:01<00:00,  8.59it/s]
+Animation 12: Create(VGroup of 3 submobjects):  93%|#########2| 13/14 [00:01<00:00,  8.52it/s]
+Animation 12: Create(VGroup of 3 submobjects): 100%|##########| 14/14 [00:01<00:00,  8.71it/s]
+                                                                                              
+[10/14/25 21:10:35] INFO     Animation 12 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\56f9012a\videos                         
+                             \bronson_vector\480p15\pa                         
+                             rtial_movie_files\Bronson                         
+                             VectorScene\uncached_0001                         
+                             2.mp4'                                            
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Waiting 13:   0%|          | 0/6 [00:00<?, ?it/s]
+Waiting 13:  17%|#6        | 1/6 [00:00<00:00,  7.49it/s]
+Waiting 13:  33%|###3      | 2/6 [00:00<00:00,  7.63it/s]
+Waiting 13:  50%|#####     | 3/6 [00:00<00:00,  7.38it/s]
+Waiting 13:  67%|######6   | 4/6 [00:00<00:00,  7.57it/s]
+Waiting 13:  83%|########3 | 5/6 [00:00<00:00,  7.82it/s]
+Waiting 13: 100%|##########| 6/6 [00:00<00:00,  8.00it/s]
+                                                         
+                    INFO     Animation 13 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\56f9012a\videos                         
+                             \bronson_vector\480p15\pa                         
+                             rtial_movie_files\Bronson                         
+                             VectorScene\uncached_0001                         
+                             3.mp4'                                            
+[10/14/25 21:10:36] INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 14: FadeIn(VGroup of 2 submobjects):   0%|          | 0/9 [00:00<?, ?it/s]
+Animation 14: FadeIn(VGroup of 2 submobjects):  11%|#1        | 1/9 [00:00<00:00,  8.21it/s]
+Animation 14: FadeIn(VGroup of 2 submobjects):  22%|##2       | 2/9 [00:00<00:00,  7.79it/s]
+Animation 14: FadeIn(VGroup of 2 submobjects):  33%|###3      | 3/9 [00:00<00:00,  8.25it/s]
+Animation 14: FadeIn(VGroup of 2 submobjects):  44%|####4     | 4/9 [00:00<00:00,  8.43it/s]
+Animation 14: FadeIn(VGroup of 2 submobjects):  56%|#####5    | 5/9 [00:00<00:00,  7.95it/s]
+Animation 14: FadeIn(VGroup of 2 submobjects):  67%|######6   | 6/9 [00:00<00:00,  8.09it/s]
+Animation 14: FadeIn(VGroup of 2 submobjects):  78%|#######7  | 7/9 [00:00<00:00,  7.68it/s]
+Animation 14: FadeIn(VGroup of 2 submobjects):  89%|########8 | 8/9 [00:01<00:00,  7.58it/s]
+Animation 14: FadeIn(VGroup of 2 submobjects): 100%|##########| 9/9 [00:01<00:00,  7.88it/s]
+                                                                                            
+[10/14/25 21:10:37] INFO     Animation 14 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\56f9012a\videos                         
+                             \bronson_vector\480p15\pa                         
+                             rtial_movie_files\Bronson                         
+                             VectorScene\uncached_0001                         
+                             4.mp4'                                            
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 15: FadeIn(VGroup of 2 submobjects):   0%|          | 0/9 [00:00<?, ?it/s]
+Animation 15: FadeIn(VGroup of 2 submobjects):  22%|##2       | 2/9 [00:00<00:00,  9.93it/s]
+Animation 15: FadeIn(VGroup of 2 submobjects):  44%|####4     | 4/9 [00:00<00:00, 10.44it/s]
+Animation 15: FadeIn(VGroup of 2 submobjects):  67%|######6   | 6/9 [00:00<00:00, 10.28it/s]
+Animation 15: FadeIn(VGroup of 2 submobjects):  89%|########8 | 8/9 [00:00<00:00, 10.09it/s]
+                                                                                            
+[10/14/25 21:10:38] INFO     Animation 15 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\56f9012a\videos                         
+                             \bronson_vector\480p15\pa                         
+                             rtial_movie_files\Bronson                         
+                             VectorScene\uncached_0001                         
+                             5.mp4'                                            
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Waiting 16:   0%|          | 0/9 [00:00<?, ?it/s]
+Waiting 16:  11%|#1        | 1/9 [00:00<00:00, 10.00it/s]
+Waiting 16:  22%|##2       | 2/9 [00:00<00:00,  9.94it/s]
+Waiting 16:  33%|###3      | 3/9 [00:00<00:00,  9.86it/s]
+Waiting 16:  44%|####4     | 4/9 [00:00<00:00,  9.85it/s]
+Waiting 16:  56%|#####5    | 5/9 [00:00<00:00,  9.50it/s]
+Waiting 16:  67%|######6   | 6/9 [00:00<00:00,  9.64it/s]
+Waiting 16:  89%|########8 | 8/9 [00:00<00:00, 10.25it/s]
+                                                         
+[10/14/25 21:10:39] INFO     Animation 16 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\56f9012a\videos                         
+                             \bronson_vector\480p15\pa                         
+                             rtial_movie_files\Bronson                         
+                             VectorScene\uncached_0001                         
+                             6.mp4'                                            
+                    INFO     Writing v \!= (a, b, c) to tex_file_writing.py:111
+                             Tex\87726f973f1f5375.tex                          
+latex: security risk: running with elevated privileges
+latex: major issue: So far, you have not checked for MiKTeX updates.
+dvisvgm: security risk: running with elevated privileges
+[10/14/25 21:10:40] INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 17: Write(MathTex('v \\!= (a, b, c)')):   0%|          | 0/12 [00:00<?, ?it/s]
+Animation 17: Write(MathTex('v \\!= (a, b, c)')):  17%|#6        | 2/12 [00:00<00:00, 11.17it/s]
+Animation 17: Write(MathTex('v \\!= (a, b, c)')):  33%|###3      | 4/12 [00:00<00:00, 10.33it/s]
+Animation 17: Write(MathTex('v \\!= (a, b, c)')):  50%|#####     | 6/12 [00:00<00:00,  9.36it/s]
+Animation 17: Write(MathTex('v \\!= (a, b, c)')):  58%|#####8    | 7/12 [00:00<00:00,  9.33it/s]
+Animation 17: Write(MathTex('v \\!= (a, b, c)')):  67%|######6   | 8/12 [00:00<00:00,  9.22it/s]
+Animation 17: Write(MathTex('v \\!= (a, b, c)')):  75%|#######5  | 9/12 [00:00<00:00,  9.24it/s]
+Animation 17: Write(MathTex('v \\!= (a, b, c)')):  83%|########3 | 10/12 [00:01<00:00,  9.22it/s]
+Animation 17: Write(MathTex('v \\!= (a, b, c)')):  92%|#########1| 11/12 [00:01<00:00,  8.84it/s]
+Animation 17: Write(MathTex('v \\!= (a, b, c)')): 100%|##########| 12/12 [00:01<00:00,  8.91it/s]
+                                                                                                 
+[10/14/25 21:10:41] INFO     Animation 17 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\56f9012a\videos                         
+                             \bronson_vector\480p15\pa                         
+                             rtial_movie_files\Bronson                         
+                             VectorScene\uncached_0001                         
+                             7.mp4'                                            
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 18: FadeIn(Text('albums')), etc.:   0%|          | 0/12 [00:00<?, ?it/s]
+Animation 18: FadeIn(Text('albums')), etc.:  17%|#6        | 2/12 [00:00<00:00, 10.07it/s]
+Animation 18: FadeIn(Text('albums')), etc.:  33%|###3      | 4/12 [00:00<00:00,  9.44it/s]
+Animation 18: FadeIn(Text('albums')), etc.:  42%|####1     | 5/12 [00:00<00:00,  9.56it/s]
+Animation 18: FadeIn(Text('albums')), etc.:  50%|#####     | 6/12 [00:00<00:00,  9.46it/s]
+Animation 18: FadeIn(Text('albums')), etc.:  58%|#####8    | 7/12 [00:00<00:00,  9.10it/s]
+Animation 18: FadeIn(Text('albums')), etc.:  67%|######6   | 8/12 [00:00<00:00,  9.28it/s]
+Animation 18: FadeIn(Text('albums')), etc.:  75%|#######5  | 9/12 [00:00<00:00,  9.31it/s]
+Animation 18: FadeIn(Text('albums')), etc.:  83%|########3 | 10/12 [00:01<00:00,  9.07it/s]
+Animation 18: FadeIn(Text('albums')), etc.:  92%|#########1| 11/12 [00:01<00:00,  9.23it/s]
+Animation 18: FadeIn(Text('albums')), etc.: 100%|##########| 12/12 [00:01<00:00,  8.82it/s]
+                                                                                           
+[10/14/25 21:10:43] INFO     Animation 18 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\56f9012a\videos                         
+                             \bronson_vector\480p15\pa                         
+                             rtial_movie_files\Bronson                         
+                             VectorScene\uncached_0001                         
+                             8.mp4'                                            
+                    INFO     Caching disabled.             cairo_renderer.py:79
+                    INFO     Animation 19 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\56f9012a\videos                         
+                             \bronson_vector\480p15\pa                         
+                             rtial_movie_files\Bronson                         
+                             VectorScene\uncached_0001                         
+                             9.mp4'                                            
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 20: _MethodAnimation(ValueTracker), etc.:   0%|          | 0/75 [00:00<?, ?it/s]
+Animation 20: _MethodAnimation(ValueTracker), etc.:   3%|2         | 2/75 [00:00<00:07, 10.34it/s]
+Animation 20: _MethodAnimation(ValueTracker), etc.:   5%|5         | 4/75 [00:00<00:07, 10.06it/s]
+Animation 20: _MethodAnimation(ValueTracker), etc.:   8%|8         | 6/75 [00:00<00:07,  9.19it/s]
+Animation 20: _MethodAnimation(ValueTracker), etc.:   9%|9         | 7/75 [00:00<00:07,  9.16it/s]
+Animation 20: _MethodAnimation(ValueTracker), etc.:  11%|#         | 8/75 [00:00<00:07,  9.11it/s]
+Animation 20: _MethodAnimation(ValueTracker), etc.:  12%|#2        | 9/75 [00:00<00:07,  8.96it/s]
+Animation 20: _MethodAnimation(ValueTracker), etc.:  13%|#3        | 10/75 [00:01<00:07,  8.81it/s]
+Animation 20: _MethodAnimation(ValueTracker), etc.:  15%|#4        | 11/75 [00:01<00:07,  8.47it/s]
+Animation 20: _MethodAnimation(ValueTracker), etc.:  16%|#6        | 12/75 [00:01<00:07,  8.71it/s]
+Animation 20: _MethodAnimation(ValueTracker), etc.:  17%|#7        | 13/75 [00:01<00:06,  8.92it/s]
+Animation 20: _MethodAnimation(ValueTracker), etc.:  20%|##        | 15/75 [00:01<00:06,  9.48it/s]
+Animation 20: _MethodAnimation(ValueTracker), etc.:  21%|##1       | 16/75 [00:01<00:06,  9.57it/s]
+Animation 20: _MethodAnimation(ValueTracker), etc.:  24%|##4       | 18/75 [00:01<00:06,  9.34it/s]
+Animation 20: _MethodAnimation(ValueTracker), etc.:  25%|##5       | 19/75 [00:02<00:05,  9.46it/s]
+Animation 20: _MethodAnimation(ValueTracker), etc.:  27%|##6       | 20/75 [00:02<00:05,  9.25it/s]
+Animation 20: _MethodAnimation(ValueTracker), etc.:  28%|##8       | 21/75 [00:02<00:05,  9.30it/s]
+Animation 20: _MethodAnimation(ValueTracker), etc.:  29%|##9       | 22/75 [00:02<00:05,  9.46it/s]
+Animation 20: _MethodAnimation(ValueTracker), etc.:  31%|###       | 23/75 [00:02<00:05,  9.17it/s]
+Animation 20: _MethodAnimation(ValueTracker), etc.:  33%|###3      | 25/75 [00:02<00:05,  9.28it/s]
+Animation 20: _MethodAnimation(ValueTracker), etc.:  35%|###4      | 26/75 [00:02<00:05,  9.26it/s]
+Animation 20: _MethodAnimation(ValueTracker), etc.:  36%|###6      | 27/75 [00:02<00:05,  9.38it/s]
+Animation 20: _MethodAnimation(ValueTracker), etc.:  39%|###8      | 29/75 [00:03<00:04,  9.79it/s]
+Animation 20: _MethodAnimation(ValueTracker), etc.:  41%|####1     | 31/75 [00:03<00:04,  9.93it/s]
+Animation 20: _MethodAnimation(ValueTracker), etc.:  43%|####2     | 32/75 [00:03<00:04,  9.88it/s]
+Animation 20: _MethodAnimation(ValueTracker), etc.:  44%|####4     | 33/75 [00:03<00:04,  9.61it/s]
+Animation 20: _MethodAnimation(ValueTracker), etc.:  45%|####5     | 34/75 [00:03<00:04,  9.68it/s]
+Animation 20: _MethodAnimation(ValueTracker), etc.:  47%|####6     | 35/75 [00:03<00:04,  9.56it/s]
+Animation 20: _MethodAnimation(ValueTracker), etc.:  48%|####8     | 36/75 [00:03<00:04,  9.55it/s]
+Animation 20: _MethodAnimation(ValueTracker), etc.:  49%|####9     | 37/75 [00:04<00:04,  8.17it/s]
+Animation 20: _MethodAnimation(ValueTracker), etc.:  51%|#####     | 38/75 [00:04<00:04,  7.61it/s]
+Animation 20: _MethodAnimation(ValueTracker), etc.:  52%|#####2    | 39/75 [00:04<00:05,  6.98it/s]
+Animation 20: _MethodAnimation(ValueTracker), etc.:  53%|#####3    | 40/75 [00:04<00:05,  6.54it/s]
+Animation 20: _MethodAnimation(ValueTracker), etc.:  55%|#####4    | 41/75 [00:04<00:05,  6.69it/s]
+Animation 20: _MethodAnimation(ValueTracker), etc.:  56%|#####6    | 42/75 [00:04<00:04,  6.67it/s]
+Animation 20: _MethodAnimation(ValueTracker), etc.:  57%|#####7    | 43/75 [00:04<00:05,  6.12it/s]
+Animation 20: _MethodAnimation(ValueTracker), etc.:  59%|#####8    | 44/75 [00:05<00:05,  6.19it/s]
+Animation 20: _MethodAnimation(ValueTracker), etc.:  60%|######    | 45/75 [00:05<00:04,  6.31it/s]
+Animation 20: _MethodAnimation(ValueTracker), etc.:  61%|######1   | 46/75 [00:05<00:04,  6.52it/s]
+Animation 20: _MethodAnimation(ValueTracker), etc.:  63%|######2   | 47/75 [00:05<00:04,  6.36it/s]
+Animation 20: _MethodAnimation(ValueTracker), etc.:  64%|######4   | 48/75 [00:05<00:04,  5.60it/s]
+Animation 20: _MethodAnimation(ValueTracker), etc.:  65%|######5   | 49/75 [00:06<00:06,  4.01it/s]
+Animation 20: _MethodAnimation(ValueTracker), etc.:  67%|######6   | 50/75 [00:06<00:07,  3.28it/s]
+Animation 20: _MethodAnimation(ValueTracker), etc.:  68%|######8   | 51/75 [00:07<00:09,  2.50it/s]
+Animation 20: _MethodAnimation(ValueTracker), etc.:  69%|######9   | 52/75 [00:07<00:08,  2.59it/s]
+Animation 20: _MethodAnimation(ValueTracker), etc.:  71%|#######   | 53/75 [00:07<00:07,  2.90it/s]
+Animation 20: _MethodAnimation(ValueTracker), etc.:  72%|#######2  | 54/75 [00:08<00:06,  3.24it/s]
+Animation 20: _MethodAnimation(ValueTracker), etc.:  73%|#######3  | 55/75 [00:08<00:05,  3.65it/s]
+Animation 20: _MethodAnimation(ValueTracker), etc.:  75%|#######4  | 56/75 [00:08<00:04,  4.07it/s]
+Animation 20: _MethodAnimation(ValueTracker), etc.:  76%|#######6  | 57/75 [00:08<00:03,  4.50it/s]
+Animation 20: _MethodAnimation(ValueTracker), etc.:  77%|#######7  | 58/75 [00:08<00:03,  4.96it/s]
+Animation 20: _MethodAnimation(ValueTracker), etc.:  79%|#######8  | 59/75 [00:08<00:03,  5.24it/s]
+Animation 20: _MethodAnimation(ValueTracker), etc.:  80%|########  | 60/75 [00:09<00:02,  5.49it/s]
+Animation 20: _MethodAnimation(ValueTracker), etc.:  81%|########1 | 61/75 [00:09<00:02,  5.82it/s]
+Animation 20: _MethodAnimation(ValueTracker), etc.:  83%|########2 | 62/75 [00:09<00:02,  6.20it/s]
+Animation 20: _MethodAnimation(ValueTracker), etc.:  84%|########4 | 63/75 [00:09<00:01,  6.39it/s]
+Animation 20: _MethodAnimation(ValueTracker), etc.:  85%|########5 | 64/75 [00:09<00:01,  6.47it/s]
+Animation 20: _MethodAnimation(ValueTracker), etc.:  87%|########6 | 65/75 [00:09<00:01,  6.75it/s]
+Animation 20: _MethodAnimation(ValueTracker), etc.:  88%|########8 | 66/75 [00:10<00:01,  6.88it/s]
+Animation 20: _MethodAnimation(ValueTracker), etc.:  89%|########9 | 67/75 [00:10<00:01,  6.87it/s]
+Animation 20: _MethodAnimation(ValueTracker), etc.:  91%|######### | 68/75 [00:10<00:01,  6.90it/s]
+Animation 20: _MethodAnimation(ValueTracker), etc.:  92%|#########2| 69/75 [00:10<00:00,  7.13it/s]
+Animation 20: _MethodAnimation(ValueTracker), etc.:  93%|#########3| 70/75 [00:10<00:00,  7.34it/s]
+Animation 20: _MethodAnimation(ValueTracker), etc.:  95%|#########4| 71/75 [00:10<00:00,  7.55it/s]
+Animation 20: _MethodAnimation(ValueTracker), etc.:  96%|#########6| 72/75 [00:10<00:00,  7.16it/s]
+Animation 20: _MethodAnimation(ValueTracker), etc.:  97%|#########7| 73/75 [00:10<00:00,  6.97it/s]
+Animation 20: _MethodAnimation(ValueTracker), etc.:  99%|#########8| 74/75 [00:11<00:00,  6.63it/s]
+Animation 20: _MethodAnimation(ValueTracker), etc.: 100%|##########| 75/75 [00:11<00:00,  6.89it/s]
+                                                                                                   
+[10/14/25 21:10:54] INFO     Animation 20 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\56f9012a\videos                         
+                             \bronson_vector\480p15\pa                         
+                             rtial_movie_files\Bronson                         
+                             VectorScene\uncached_0002                         
+                             0.mp4'                                            
+                    INFO     Caching disabled.             cairo_renderer.py:79
+                    INFO     Animation 21 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\56f9012a\videos                         
+                             \bronson_vector\480p15\pa                         
+                             rtial_movie_files\Bronson                         
+                             VectorScene\uncached_0002                         
+                             1.mp4'                                            
+                    INFO     Caching disabled.             cairo_renderer.py:79
+
+Animation 22: _MethodAnimation(ValueTracker), etc.:   0%|          | 0/75 [00:00<?, ?it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:   1%|1         | 1/75 [00:00<00:09,  7.87it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:   3%|2         | 2/75 [00:00<00:09,  7.84it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:   4%|4         | 3/75 [00:00<00:09,  7.57it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:   5%|5         | 4/75 [00:00<00:09,  7.45it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:   7%|6         | 5/75 [00:00<00:09,  7.77it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:   8%|8         | 6/75 [00:00<00:08,  8.00it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:   9%|9         | 7/75 [00:00<00:08,  7.72it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:  11%|#         | 8/75 [00:01<00:08,  7.75it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:  12%|#2        | 9/75 [00:01<00:08,  7.50it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:  13%|#3        | 10/75 [00:01<00:08,  7.65it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:  15%|#4        | 11/75 [00:01<00:08,  7.48it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:  16%|#6        | 12/75 [00:01<00:08,  7.12it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:  17%|#7        | 13/75 [00:01<00:08,  7.25it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:  19%|#8        | 14/75 [00:01<00:08,  7.07it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:  20%|##        | 15/75 [00:02<00:08,  7.17it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:  21%|##1       | 16/75 [00:02<00:07,  7.47it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:  23%|##2       | 17/75 [00:02<00:07,  7.50it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:  24%|##4       | 18/75 [00:02<00:07,  7.68it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:  25%|##5       | 19/75 [00:02<00:07,  7.86it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:  27%|##6       | 20/75 [00:02<00:06,  7.99it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:  28%|##8       | 21/75 [00:02<00:06,  7.94it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:  29%|##9       | 22/75 [00:02<00:07,  7.33it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:  31%|###       | 23/75 [00:03<00:07,  7.23it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:  32%|###2      | 24/75 [00:03<00:07,  7.17it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:  33%|###3      | 25/75 [00:03<00:07,  6.76it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:  35%|###4      | 26/75 [00:03<00:07,  6.70it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:  36%|###6      | 27/75 [00:03<00:07,  6.71it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:  37%|###7      | 28/75 [00:03<00:06,  7.02it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:  39%|###8      | 29/75 [00:03<00:06,  7.25it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:  40%|####      | 30/75 [00:04<00:06,  7.45it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:  41%|####1     | 31/75 [00:04<00:05,  7.61it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:  43%|####2     | 32/75 [00:04<00:05,  7.84it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:  44%|####4     | 33/75 [00:04<00:05,  7.97it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:  45%|####5     | 34/75 [00:04<00:05,  7.72it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:  47%|####6     | 35/75 [00:04<00:05,  7.48it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:  48%|####8     | 36/75 [00:04<00:05,  6.98it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:  49%|####9     | 37/75 [00:05<00:05,  7.05it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:  51%|#####     | 38/75 [00:05<00:05,  7.20it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:  52%|#####2    | 39/75 [00:05<00:04,  7.36it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:  53%|#####3    | 40/75 [00:05<00:04,  7.40it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:  55%|#####4    | 41/75 [00:05<00:04,  7.29it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:  56%|#####6    | 42/75 [00:05<00:04,  7.48it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:  57%|#####7    | 43/75 [00:05<00:04,  7.47it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:  59%|#####8    | 44/75 [00:05<00:04,  7.60it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:  60%|######    | 45/75 [00:06<00:03,  7.88it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:  61%|######1   | 46/75 [00:06<00:03,  8.10it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:  63%|######2   | 47/75 [00:06<00:03,  8.12it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:  64%|######4   | 48/75 [00:06<00:03,  7.87it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:  65%|######5   | 49/75 [00:06<00:03,  8.01it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:  67%|######6   | 50/75 [00:06<00:03,  7.61it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:  68%|######8   | 51/75 [00:06<00:03,  6.91it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:  69%|######9   | 52/75 [00:06<00:03,  7.13it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:  71%|#######   | 53/75 [00:07<00:02,  7.45it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:  72%|#######2  | 54/75 [00:07<00:02,  7.67it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:  73%|#######3  | 55/75 [00:07<00:02,  7.78it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:  75%|#######4  | 56/75 [00:07<00:02,  7.65it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:  76%|#######6  | 57/75 [00:07<00:02,  7.60it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:  77%|#######7  | 58/75 [00:07<00:02,  7.18it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:  79%|#######8  | 59/75 [00:07<00:02,  7.47it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:  80%|########  | 60/75 [00:08<00:01,  7.68it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:  81%|########1 | 61/75 [00:08<00:01,  7.47it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:  83%|########2 | 62/75 [00:08<00:01,  7.49it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:  84%|########4 | 63/75 [00:08<00:01,  7.48it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:  85%|########5 | 64/75 [00:08<00:01,  7.50it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:  87%|########6 | 65/75 [00:08<00:01,  7.76it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:  88%|########8 | 66/75 [00:08<00:01,  7.87it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:  89%|########9 | 67/75 [00:08<00:00,  8.03it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:  91%|######### | 68/75 [00:09<00:00,  7.93it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:  92%|#########2| 69/75 [00:09<00:00,  7.66it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:  93%|#########3| 70/75 [00:09<00:00,  7.67it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:  95%|#########4| 71/75 [00:09<00:00,  7.64it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:  96%|#########6| 72/75 [00:09<00:00,  7.93it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:  97%|#########7| 73/75 [00:09<00:00,  8.17it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.:  99%|#########8| 74/75 [00:09<00:00,  8.25it/s]
+Animation 22: _MethodAnimation(ValueTracker), etc.: 100%|##########| 75/75 [00:09<00:00,  7.77it/s]
+                                                                                                   
+[10/14/25 21:11:05] INFO     Animation 22 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\56f9012a\videos                         
+                             \bronson_vector\480p15\pa                         
+                             rtial_movie_files\Bronson                         
+                             VectorScene\uncached_0002                         
+                             2.mp4'                                            
+                    INFO     Caching disabled.             cairo_renderer.py:79
+                    INFO     Animation 23 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\56f9012a\videos                         
+                             \bronson_vector\480p15\pa                         
+                             rtial_movie_files\Bronson                         
+                             VectorScene\uncached_0002                         
+                             3.mp4'                                            
+                    INFO     Caching disabled.             cairo_renderer.py:79
+                    INFO     Animation 24 : Partial    scene_file_writer.py:588
+                             movie file written in                             
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\56f9012a\videos                         
+                             \bronson_vector\480p15\pa                         
+                             rtial_movie_files\Bronson                         
+                             VectorScene\uncached_0002                         
+                             4.mp4'                                            
+                    INFO     Combining to Movie file.  scene_file_writer.py:739
+[10/14/25 21:11:06] INFO                               scene_file_writer.py:886
+                             File ready at                                     
+                             'C:\dev\math-video-mvp\ap                         
+                             p\renders\56f9012a\videos                         
+                             \bronson_vector\480p15\ou                         
+                             t.mp4'                                            
+                                                                               
+                    INFO     Rendered BronsonVectorScene           scene.py:255
+                             Played 25 animations                              

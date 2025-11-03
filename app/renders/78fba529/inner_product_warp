@@ -1,0 +1,48 @@
+from manim import *
+
+class InnerProductWarp(Scene):
+    def construct(self):
+        # Introduction to inner products
+        title = Text("Inner Products & WARP").scale(0.75)
+        self.play(Write(title))
+        self.wait(2)
+        self.play(FadeOut(title))
+
+        # Visualize the SPD matrix as a warp
+        grid = NumberPlane() 
+        self.play(Create(grid))
+        self.wait(1)
+
+        # Create a square and a warp effect using an SPD matrix
+        square = Square(color=BLUE).shift(LEFT)
+        self.play(Create(square))
+        self.wait(1)
+        self.play(square.animate.scale(1.5).shift(RIGHT*1.5), rate_func=there_and_back)  # apply warp
+        self.wait(1)
+
+        # Showing that vectors get distorted
+        vectors = [Arrow(ORIGIN, 2*RIGHT, color=WHITE), Arrow(ORIGIN, 2*UP, color=WHITE)]
+        self.play(*[Create(vec) for vec in vectors])
+        self.wait(1)
+        self.play(*[vec.animate.scale(0.7).shift(UP*0.5) for vec in vectors], run_time=1.5)  # warp effect
+        self.wait(1)
+
+        # Introducing the mapping T
+        t_map = Text("Now, meet Map T!").scale(0.5)
+        self.play(Write(t_map))
+        self.wait(2)
+        self.play(FadeOut(t_map))
+
+        # Visualize unwarping
+        self.play(*[vec.animate.shift(LEFT*2).set_color(GREEN) for vec in vectors], run_time=1.5)  # unwarp
+        self.wait(1)
+
+        # Show clarity in orthogonality
+        orthogonal = VGroup(Arrow(ORIGIN, 2*LEFT, color=YELLOW), Arrow(ORIGIN, 2*DOWN, color=YELLOW))
+        self.play(Create(orthogonal))
+        self.wait(1)
+
+        # Finishing up
+        finish = Text("Discovering harmony!").scale(0.75)
+        self.play(Write(finish))
+        self.wait(3)  
